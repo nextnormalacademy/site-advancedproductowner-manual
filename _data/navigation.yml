@@ -1,9 +1,37 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Advanced Product Owner"
+    url: https://advancedproductowner.com
+  - title: "Impressum"
+    url: /imprint/
+
+manual:
+  - title: Advanced Product Owner Manual
+    children:
+      - title: "Einführung"
+        url: /introduction/
+      - title: "Kunden"
+        url: /customers/
+      - title: "Persona"
+        url: /persona/
+      - title: "Empathy Map"
+        url: /empathy-map/
+      - title: "Value Propostion"
+        url: /value-proposition/
+      - title: "Business Model"
+        url: /business-model/
+      - title: "Nutzenmodell"
+        url: /value-model/
+      - title: "Stakeholder Map"
+        url: /stakeholder-map/
+      - title: "Inception Deck"
+        url: /inception-deck/
+      - title: "Roadmap"
+        url: /roadmap/
+      - title: "Impact Map"
+        url: /impact-map/
+      - title: "Story Map"
+        url: /story-map/
+      - title: "Product Backlog"
+        url: /product-backlog/
+      - title: "Delivery Kanban"
+        url: /delivery-kanban/
