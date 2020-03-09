@@ -5,7 +5,7 @@ main:
     url: /imprint/
 
 manual:
-  - title: Advanced Product Owner Manual
+  - title: Advanced<br/>Product Owner<br/>Hanbuch
     children:
       - title: "Einführung"
         url: /introduction/
@@ -35,3 +35,9 @@ manual:
         url: /product-backlog/
       - title: "Delivery Kanban"
         url: /delivery-kanban/
+      - title: "Lizenz"
+        url: /license/
+      - title: "Autoren"
+        url: /authors/
+      - title: "Mitmacher"
+        url: /contributors/
