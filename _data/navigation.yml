@@ -5,7 +5,7 @@ main:
     url: /imprint/
 
 manual:
-  - title: Advanced<br/>Product Owner<br/>Hanbuch
+  - title: Advanced<br/>Product Owner<br/>Handbuch
     children:
       - title: "Einführung"
         url: /introduction/
