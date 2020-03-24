@@ -15,7 +15,7 @@ manual:
         url: /persona/
       - title: "Empathy Map"
         url: /empathy-map/
-      - title: "Value Propostion"
+      - title: "Value Proposition"
         url: /value-proposition/
       - title: "Business Model"
         url: /business-model/
@@ -35,6 +35,10 @@ manual:
         url: /product-backlog/
       - title: "Delivery Kanban"
         url: /delivery-kanban/
+      - title: "Real Options"
+        url: /real-options/
+      - title: "Backlog of Options"
+        url: /backlog-of-options/
       - title: "Lizenz"
         url: /license/
       - title: "Autoren"
