@@ -20,7 +20,7 @@ Im Nachhinein war Thales’ Vorgehen sehr geschickt, denn der Mietpreis, den er 
 
 Die Geschichte von Thales und den Olivenpressen ist der erste dokumentierte Optionshandel in der Geschichte der Menschheit. Durch so einen Optionshandel hätten sich die Buddenbrooks auch vor dem großen Verlust der Pöppenrader Ernte bewahrt. Der “Kauf” einer Option ist offensichtlich etwas, das unternehmerisch sinnvoll ist. Dennoch fühlt es sich seltsam an, etwas zu kaufen, dessen Wert zum Zeitpunkt des Kaufes noch nicht feststeht - und das unter Umständen nie zum Einsatz kommt.
 
-![image-left][1]{: .align-left}
+![image-left][image-1]{: .align-left}
 Je größer die Ungewissheit ist, unter der Du Entscheidungen triffst, desto wertvoller wird das Denken in Optionen. Das macht die Real Option Theory für Dich als Product Owner intereressant.
 {: .notice--primary}
 
@@ -29,7 +29,7 @@ Das Ziel einer Option ist sehr einfach: Sie begrenzt einen möglichen Verlust.
 
 Jede Option hat drei grundlegende Eigenschaften. Willst Du eine Option haben, zahlst Du für die Option einen Preis (cost). Du kannst die Option dann später einlösen, wenn für Dich durch das Einlösen ein Nutzen oder Wert (value) entsteht. Eine Option hat auch immer ein Verfallsdatum (expiration date), nach dessen Ablauf Du sie nicht mehr einlösen kannst.
 
-![image-left][2]{: .align-left}
+![image-left][image-2]{: .align-left}
 Optionen sollen Verluste begrenzen und besitzen drei wesentliche Eigenschaften: einen Preis (cost), einen Wert (value) und ein Verfallsdatum (expiration date).
 {: .notice--primary}
 
@@ -37,7 +37,7 @@ Die bekannteste Variante von Optionen sind die *Call-Optionen*, bei Du das Recht
 
 Ein anderes Merkmal zur Unterscheidung von Optionen ist der Zeitpunkt der Ausübung. *Amerikanischen Optionen* darfst Du zu jedem Zeitpunkt bis zu ihrem Verfallsdatum ausüben, während Du *europäischen Optionen* nur zum Ende ihrer Laufzeit ausüben darfst.
 
-![image-left][3]{: .align-left}
+![image-left][image-3]{: .align-left}
 Es gibt zwei grundlegende Arten von Optionen: Kaufoptionen (Call) und Verkaufsoptionen (Put). Für beide Arten gibt es die Ausprägungen in amerkanische Option  (Ausübung jederzeit) und europäische Option (Ausübung zum Laufzeitende). 
 {: .notice--primary}
 
@@ -59,17 +59,19 @@ Verwendest Du statt der klassischen Backlog Items Optionen, kannst Du Entscheidu
 
 ## Diskussionen
 
-Hier geht es zur den Diskussionen über *Real Options* auf dem oncampus.
+[Hier geht es zur den Diskussionen][1] über *Real Options* auf dem oncampus.
 
-## Links, Literatur & Quellen￼
+## Links, Literatur & Quellen
 
 * Mann, Thomas: Buddenbrooks
 * Aristoteles: Dialoge
-* Wikipedia: [Kaufoptionen][4]
-* Wikipedia: [Verkaufsoption][5]
+* Wikipedia: [Kaufoptionen][2]
+* Wikipedia: [Verkaufsoption][3]
 
-[1]:	/assets/images/read-light-idea.png
-[2]:	/assets/images/read-light-idea.png
-[3]:	/assets/images/read-light-idea.png
-[4]:	https://de.wikipedia.org/wiki/Kaufoption "Kaufoption"
-[5]:	https://de.wikipedia.org/wiki/Verkaufsoption "Verkaufsoption"
+[1]:	https://www.oncampus.de/course/apoMOOC/section-2/47432-handbuch-real-options "oncampus Forum zu Real Options"
+[2]:	https://de.wikipedia.org/wiki/Kaufoption "Kaufoption"
+[3]:	https://de.wikipedia.org/wiki/Verkaufsoption "Verkaufsoption"
+
+[image-1]:	/assets/images/read-light-idea.png
+[image-2]:	/assets/images/read-light-idea.png
+[image-3]:	/assets/images/read-light-idea.png

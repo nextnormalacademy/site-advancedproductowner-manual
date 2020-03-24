@@ -18,3 +18,17 @@ Verantwortlich für den Inhalt des Product Backlogs, also die Auswahl der Eintr
 Pro Produkt gibt es immer nur ein Backlog. Das heißt, dass auch in skalierten Entwicklungsprojekten mit mehreren Teams diese ihre Anforderungen aus einem Backlog ziehen.
 
 Das Product Backlog ist zwar die einzige Anforderungsquelle für das Projekt, aber kein gutes Mittel, Projekte strategisch zu planen. Hierfür sind andere Mittel, wie Roadmaps oder auch Story Maps besser geeignet
+
+## Fragen
+
+* …
+
+## Diskussionen
+
+[Hier geht es zur den Diskussionen][1] über das *Product Backlog* auf dem oncampus.
+
+## Links, Literatur & Quellen
+
+* …
+
+[1]:	https://www.oncampus.de/course/apoMOOC/section-2/47433-handbuch-product-backlog "oncampus Forum zum Product Backlog"
