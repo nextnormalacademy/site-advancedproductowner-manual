@@ -68,7 +68,7 @@ Verwendest Du statt der klassischen Backlog Items Optionen, kannst Du Entscheidu
 * Wikipedia: [Kaufoptionen][2]
 * Wikipedia: [Verkaufsoption][3]
 
-[1]:	https://www.oncampus.de/course/apoMOOC/section-2/47432-handbuch-real-options "oncampus Forum zu Real Options"
+[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47432-handbuch-real-options "oncampus Forum zu Real Options"
 [2]:	https://de.wikipedia.org/wiki/Kaufoption "Kaufoption"
 [3]:	https://de.wikipedia.org/wiki/Verkaufsoption "Verkaufsoption"
 

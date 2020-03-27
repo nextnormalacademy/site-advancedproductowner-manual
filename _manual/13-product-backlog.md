@@ -31,4 +31,4 @@ Das Product Backlog ist zwar die einzige Anforderungsquelle für das Projekt, a
 
 * …
 
-[1]:	https://www.oncampus.de/course/apoMOOC/section-2/47433-handbuch-product-backlog "oncampus Forum zum Product Backlog"
+[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47433-handbuch-product-backlog "oncampus Forum zum Product Backlog"
