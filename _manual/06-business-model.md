@@ -5,13 +5,13 @@ excerpt: “Lorem ipsum”
 toc: true
 ---
 
-Lorem ipsum
+
 
 ![image-left][image-1]{: .align-left}
 Ein Geschäftsmodell beschreibt das Grundprinzip, nach dem eine Organisation  Werte schafft, vermittelt und erfasst.
 {: .notice--primary}
 
-# Business Model Canvas
+## Business Model Canvas
 
 Das Business Model Canvas bietet eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung und Veränderung von Geschäftsmodellen
 
@@ -27,6 +27,9 @@ Für jedes Business Model gibt es neun Bausteine:
 * Key Activities (Schlüsselaktivitäten)
 * Key Partnerships (Zentrale Partnerschaften)
 * Cost Structure (Kostenstruktur)
+
+## Vorstellung des Business Model Canvas
+![image-left][image-3]{: .align-middle}
 
 Von diesen Bausteinen sind einige besonders hilfreich für den Product Owner
 ## Fragen
@@ -44,8 +47,11 @@ Von diesen Bausteinen sind einige besonders hilfreich für den Product Owner
 
 
 
-[1]:	https://www.oncampus.de/course/apoMOOC/section-2/47432-handbuch-real-options "oncampus Forum zu Real Options"
+[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model"
 [2]:	https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas
 
 [image-1]:	/assets/images/read-light-idea.png
 [image-2]:	/assets/images/bmcanvas-basic.jpg
+[image-3]:	/assets/images/bmc_viveo.html
+
+ 
