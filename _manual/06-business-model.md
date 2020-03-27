@@ -29,7 +29,7 @@ Für jedes Business Model gibt es neun Bausteine:
 * Cost Structure (Kostenstruktur)
 
 ## Vorstellung des Business Model Canvas
-![image-left][image-3]{: .align-middle}
+{% include video id="78350794" provider="vimeo" %}
 
 Von diesen Bausteinen sind einige besonders hilfreich für den Product Owner
 ## Fragen
