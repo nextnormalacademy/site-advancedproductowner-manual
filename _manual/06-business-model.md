@@ -15,7 +15,7 @@ Ein Geschäftsmodell beschreibt das Grundprinzip, nach dem eine Organisation  We
 
 Das Business Model Canvas bietet eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung und Veränderung von Geschäftsmodellen
 
-{% include figure image_path="/images/bmcanvas-basic.jpg" alt="this is a placeholder image" caption="released under Creative Commons license from  Strategyzer.com" %}
+{% include figure image_path="/images/bmcanvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from  Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from  Strategyzer.com" %}
 
 
 Für jedes Business Model gibt es neun Bausteine:
