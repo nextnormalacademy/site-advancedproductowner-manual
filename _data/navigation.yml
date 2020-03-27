@@ -1,6 +1,8 @@
 main:
   - title: "Advanced Product Owner"
     url: https://advancedproductowner.com
+  - title: "MOOC"
+    url: https://www.oncampus.de/weiterbildung/moocs/apomooc
   - title: "Impressum"
     url: /imprint/
 
@@ -39,6 +41,8 @@ manual:
         url: /real-options/
       - title: "Backlog of Options"
         url: /backlog-of-options/
+  - title: Anhang
+    children:
       - title: "Lizenz"
         url: /license/
       - title: "Autoren"

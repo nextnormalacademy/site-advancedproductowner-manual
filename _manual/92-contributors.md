@@ -3,6 +3,8 @@ title: "Mitmacher"
 permalink: /contributors/
 ---
 
+Alle diese Menschen unterstützen uns bei der Erstellung und Weiterentwicklung des Advanced Product Owner Handbuchs (Reihenfolge chronologisch):
+
 * [Dirk Liesch][1]
 * [Eva Hallinger][2]
 * [Hanna Halbroth][3]
