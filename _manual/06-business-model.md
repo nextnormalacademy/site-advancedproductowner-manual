@@ -57,6 +57,7 @@ Von diesen Bausteinen sind einige besonders hilfreich für den Product Owner. Hi
 Die Übersicht aller Bausteine auf einer Seite ist einer der wesentlichen Vorteile des Business Model Canvas.
 Zur Bearbeitung der Bausteine empfiehlt es sich durchaus weitere Methoden zu nutzen, bei dem Canvas geht es vor allem um die Übersicht und so wird es meist in A0 ausgedruckt und mit Post-Its bearbeitet. Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an. Für remote Workshops gibt es zahlreiche digitale Templates.
 
+Online tool: https://canvanizer.com/new/business-model-canvas
 
 ## Variaten des Business Modell Canvas http://masterfacilitator.com/canvas-collection/
 
