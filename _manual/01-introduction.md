@@ -10,6 +10,7 @@ toc: true
 Unser Advanced Product Owner Handbuch beschreibt die Werkzeuge und Methoden, die du als Product Owner in deiner täglichen Arbeit nutzen kannst.
 Es geht uns dabei weniger darum, alle diese Werkzeuge und Methoden bis ins kleinste Detail zu beschreiben und alle Varianten zu betrachten.
 Vielmehr wollen wir einen Überblick bereitstellen, Zusammenhänge aufzeigen und dir Ideen zur Kombination dieser Werkzeuge und Methoden liefern.
+
 Wir streifen dabei eine Vielzahl von Disziplinen, mit denen du in deiner Rolle als Product Owner in Berührung kommst:
 
 * Product Ownership
