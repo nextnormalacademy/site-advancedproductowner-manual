@@ -34,7 +34,7 @@ Zur Beschreibung der Personas können folgende Eigenschaften helfen:
 * Warum die Person das Produkt nutzen/kaufen möchte
 
 Ein Beispiel für die konkrete Ausgestaltung findet sich auf der Seite von Roman Pichler:
-{%	include figure 	image_path="/images/SamplePersonaPete.png" alt="Persona Template from RomanPichler.com released under Creative Commons license" caption="Persona Template from RomanPichler.com released under Creative Commons license" %}
+{% include figure image_path="/images/SamplePersonaPete.png" alt="Persona Template from RomanPichler.com released under Creative Commons license" caption="Persona Template from RomanPichler.com released under Creative Commons license" %}
 
 
 Idealerweise kommen sie bereits im frühen Stadium der Produktentwicklung zu tragen. Auf diese Weise kann auch im späteren Projektverkauf immer wieder darauf zurückgegriffen werden. Die Erkenntnisse zur Persona helfen auch bei der Erstellung einer Empathy Map, welche in der nächsten Lektion genauer erörtert wird. Erkenntnisse und Feedback daraus helfen wiederum bei Konkretisierung von Persona.
@@ -57,3 +57,4 @@ Firefox User Types in North America
 IDEO Voting Challenge Personas
 Wordpress.org Users
 
+[image-1]:	/assets/images/read-light-idea.png
