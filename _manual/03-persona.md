@@ -8,7 +8,8 @@ toc: true
 Personas sind eine praktische Methode aus dem Human-centered Design, um den Kunden eines Produktes besser kennenzulernen. Personas geben eher anonymen Kundengruppen ein Gesicht (Maske) und gehen auf Alan Cooper zurück, der Interviews mit echten Menschen führte, um deren Bedürfnisse und Ausgangsbasis kennenzulernen. Auf diesem Weg konnte er sicherstellen, dass die Software den Kundenbedürfnissen entspricht. Personas basieren auf Daten, Fakten, echten Erfahrungen, Feedbacks und Interviews. Im Zuge der Weiterentwicklung von Software können sich auch die Personas auf Grundlage von neuem Feedback weiterentwickeln. Wichtig ist, dass unterschiedliche Kundengruppen unterschiedliche Personas hervorbringen. 
 
 ![image-left][image-1]{: .align-left}
-Eine Persona wird als eine fiktive Person beschrieben, der man konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele mitgibt, die repräsentativ für die ausgewählte Kundengruppe sind.{: .notice--primary}
+Eine Persona wird als eine fiktive Person beschrieben, der man konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele mitgibt, die repräsentativ für die ausgewählte Kundengruppe sind.
+{: .notice--primary}
 
 Personas helfen dabei, die Wünsche und Bedürfnisse unterschiedlicher Kundengruppen nicht miteinander zu vermischen, sondern diese klar voneinander zu unterscheiden. Besonder hilfreich ist dies im Hinblick auf konträre Anforderungen an ein Produkt oder einen Service interessant und hilft somit dabei Anforderungen vor dem Hintergrund des Kundennutzens abzuwägen.
 
