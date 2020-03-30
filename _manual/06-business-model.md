@@ -5,37 +5,36 @@ excerpt: “Lorem ipsum”
 toc: true
 ---
 
-Jede Organisation hat ein Geschäftsmodell.
-Das Geschäftsmodell kann bekannt sein oder auch nicht, es bleibt aber eine Tatsache, dass jede Organisation nach betimmten Regeln funktioniert.
+Jede Organisation, die Ihren Kunden Werte vermitteln möchte, tut dies auf eine bestimmte Art und Weise. 
+Diese Art und Weise ist das zugrundeliegende Geschäfftsmodell.
+Jede Organisation verfügt damit bewusst oder unbewusst über ein Geschäftsmodell.
 
 ![image-left][image-1]{: .align-left}
-Ein Geschäftsmodell beschreibt das Grundprinzip, nach dem eine Organisation  Werte schafft, vermittelt und erfasst.
+Ein Geschäftsmodell beschreibt das Grundprinzip, nach dem eine Organisation Werte schafft, vermittelt und erfasst.
 {: .notice--primary}
 
+Neben der reinen Beschreibung der Generierung, Vermittlung und Erfassung von Werten ist es für ein Geschäftsmodell besonders wichtig, die
+finanzielle Absicherung der Organisation zu berücksichtigen.
 
-Wenn das Geschäftsmodell bekannt ist, lassen sich die einzelnen Komponenten regelmäßig überprüfen, Abhängigkeiten werden transparent und die Organisation hat eine gute Chance sich bestmöglich zu positionieren.
-Um ein bestehendes Geschäftsmodell am besten zu begreifen, kann man sich zwei Fragen stellen:
+Denn für fast alle Organisation gilt: Wenn kein Geld mehr da ist, ist Schluss. 
+Die Sicherstellung, dass mehr Geld, bzw. mindestens genauso viel Geld hereinkommt, wie ausgegeben wird ist damit essenziell für das 
+Überleben der Organisation.
 
-1. Wer ist der Kunde?
-2. Welche Aufgabe muss für den Kunden erledigt werden?
 
-Klingt recht einfach oder?
-Nun, die Definition von "Kunde" und "Aufgaben" kann ziemlich schwierig sein. Als Übung können Sie sich eine beliebige Organisation oder den jetzigen oder einen ehemaligen Arbeitgeber überlegen und die beiden Fragen für sich beantworten.
-Sie werden merken, ganz so einfach und "mal eben" ist die Beantwortung der beiden Fragen nicht getan.
-
-Und es kommt noch etwas hinzu: Neben den Fragen nach Kunde und Aufgabe gibt es eine weitere "bittere Wahrheit":
-Für fast alle Organisation gilt: Wenn kein Geld mehr da ist, ist Schluss. 
-Die Sicherstellung, dass mehr Geld, bzw. mindestens genauso viel Geld hereinkommt, wie ausgegeben wird ist damit essenziell für das Überleben der Organisation. Um genau das zu erkennen und tun gibt es das Business Model Canvas. 
 
 ## Business Model Canvas
 
-Das Business Model Canvas bietet eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung und Veränderung von Geschäftsmodellen
+Eine Methode, um ein Geschäftsmodell zu beschreiben ist das von Alexander Osterwalder in seinem Buch 
+"Business Model Generation. A Handbook for Visionaries, Game Changers and Challengers" 
+(Osterwalder, Alexander und Pigneur, Yves, 2010, John Wiley & Sons) entwickelte Business Model Canvas (BMC).
+Das BMC bietet eine gemeinsame Sprache zur Beschreibung, Visualisierung, 
+Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 
 {%	include figure 	image_path="/images/bmcanvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from  Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from  Strategyzer.com" %}
 
 
 
-Für jedes Business Model gibt es neun Bausteine:
+Jedes Business Model besteht aus neun Bausteine:
 
 * Customer Segment (Kundensegmentierung)
 * Value Proposition (Werteversprechen)
@@ -47,15 +46,17 @@ Für jedes Business Model gibt es neun Bausteine:
 * Key Partnerships (Zentrale Partnerschaften)
 * Cost Structure (Kostenstruktur)
 
+Das nachfolgende Video beschreibt die einzelnen Bausteine und ihre Abhängigkeiten untereinander:
 
-## Vorstellung des Business Model Canvas
 {% include video id="78350794" provider="vimeo" %}
 
-Von diesen Bausteinen sind einige besonders hilfreich für den Product Owner. Hierzu gehören:
+
 
 ## Nutzen des Business Model Canvas
 Die Übersicht aller Bausteine auf einer Seite ist einer der wesentlichen Vorteile des Business Model Canvas.
-Zur Bearbeitung der Bausteine empfiehlt es sich durchaus weitere Methoden zu nutzen, bei dem Canvas geht es vor allem um die Übersicht und so wird es meist in A0 ausgedruckt und mit Post-Its bearbeitet. Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an. Für remote Workshops gibt es zahlreiche digitale Templates.
+Zur Bearbeitung der Bausteine empfiehlt es sich durchaus weitere Methoden zu nutzen, bei dem Canvas geht es vor 
+allem um die Übersicht und so wird es meist in A0 ausgedruckt und mit Post-Its bearbeitet. Besonders in einer analogen 
+Workshopsituation bietet sich dieses Vorgehen an. Für remote Workshops gibt es zahlreiche digitale Templates.
 
 Online tool: https://canvanizer.com/new/business-model-canvas
 

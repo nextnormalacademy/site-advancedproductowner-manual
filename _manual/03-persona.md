@@ -32,6 +32,10 @@ Zur Beschreibung der Personas können folgende Eigenschaften helfen:
 * Persönliche Ziele
 * Warum die Person das Produkt nutzen/kaufen möchte
 
+Ein Beispiel für die konkrete Ausgestaltung findet sich auf der Seite von Roman Pichler:
+{%	include figure 	image_path="/images/SamplePersonaPete.png" alt="Persona Template from RomanPichler.com released under Creative Commons license" caption="Persona Template from RomanPichler.com released under Creative Commons license" %}
+
+
 Idealerweise kommen sie bereits im frühen Stadium der Produktentwicklung zu tragen. Auf diese Weise kann auch im späteren Projektverkauf immer wieder darauf zurückgegriffen werden. Die Erkenntnisse zur Persona helfen auch bei der Erstellung einer Empathy Map, welche in der nächsten Lektion genauer erörtert wird. Erkenntnisse und Feedback daraus helfen wiederum bei Konkretisierung von Persona.
 
 
@@ -44,7 +48,7 @@ Idealerweise kommen sie bereits im frühen Stadium der Produktentwicklung zu tra
 ##Links, Literatur & Quellen
 * [Personas for Concepts](https://challenges.openideo.com/blog/personas-for-concepts)
 * [Persona Template](https://www.romanpichler.com/tools/the-persona-template)
-
+* [Persona Beispiel](https://www.romanpichler.com/blog/persona-template-for-agile-product-management/)
  
 * [The Lyra Project]()
 The Coral Project
