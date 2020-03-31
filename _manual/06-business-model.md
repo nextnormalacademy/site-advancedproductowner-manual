@@ -50,8 +50,7 @@ Das nachfolgende Video beschreibt die einzelnen Bausteine und ihre Abhängigkeit
 
 {% include video id="78350794" provider="vimeo" %}
 
-
-
+ 
 ## Nutzen des Business Model Canvas
 Die Übersicht aller Bausteine auf einer Seite ist einer der wesentlichen Vorteile des Business Model Canvas.
 Zur Bearbeitung der Bausteine empfiehlt es sich durchaus weitere Methoden zu nutzen, bei dem Canvas geht es vor 
@@ -82,7 +81,7 @@ Konkrete Beispiele von Personen zeigen mögliche Ausgestalltungen eines Business
 
 ## Diskussionen
 
-[Hier geht es zur den Diskussionen][1] über *Business Model* auf dem oncampus.
+[Hier geht es zu den Diskussionen][1] über *Business Model* auf dem oncampus.
 
 ## Links, Literatur & Quellen
 
