@@ -7,25 +7,22 @@ toc: true
 
 Jede Organisation, die Ihren Kunden Werte vermitteln möchte, tut dies auf eine bestimmte Art und Weise. 
 Diese Art und Weise ist das zugrundeliegende Geschäfftsmodell.
-Jede Organisation verfügt damit bewusst oder unbewusst über ein Geschäftsmodell.
+Jede Organisation verfügt damit bewusst oder unbewusst über ein oder auch mehrere Geschäftsmodelle.
 
 ![image-left][image-1]{: .align-left}
 Ein Geschäftsmodell beschreibt das Grundprinzip, nach dem eine Organisation Werte schafft, vermittelt und erfasst.
 {: .notice--primary}
 
-Neben der reinen Beschreibung der Generierung, Vermittlung und Erfassung von Werten ist es für ein Geschäftsmodell besonders wichtig, die
-finanzielle Absicherung der Organisation zu berücksichtigen.
-
-Denn für fast alle Organisation gilt: Wenn kein Geld mehr da ist, ist Schluss. 
-Die Sicherstellung, dass mehr Geld, bzw. mindestens genauso viel Geld hereinkommt, wie ausgegeben wird ist damit essenziell für das 
-Überleben der Organisation.
-
+Durch die Auseinandersetzung mit dem eigenem Geschäftsmodell soll sichergestellt werden, dass Organisationen erfolgreich wirtschaften.
+Denn für fast alle Organisation gilt: Wenn kein Geld mehr da sein sollte, dann ist Schluss. 
+Sicher zu gehen, dass mehr Geld oder zumindest genauso viel Geld hereinkommt, wie ausgegeben wird ist essenziell für das 
+Überleben einer Organisation.
 
 
 ## Business Model Canvas
 
 Eine Methode, um ein Geschäftsmodell zu beschreiben ist das von Alexander Osterwalder in seinem Buch 
-"Business Model Generation. A Handbook for Visionaries, Game Changers and Challengers" 
+"Business Model Generation - A Handbook for Visionaries, Game Changers and Challengers" 
 (Osterwalder, Alexander und Pigneur, Yves, 2010, John Wiley & Sons) entwickelte Business Model Canvas (BMC).
 Das BMC bietet eine gemeinsame Sprache zur Beschreibung, Visualisierung, 
 Bewertung, Validierung und Veränderung von Geschäftsmodellen.
@@ -34,7 +31,7 @@ Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 
 
 
-Jedes Business Model besteht aus neun Bausteine:
+Jedes Business Model besteht aus neun grundlegenden Geschäftsmodellbausteinen:
 
 * Customer Segment (Kundensegmentierung)
 * Value Proposition (Werteversprechen)
@@ -46,12 +43,69 @@ Jedes Business Model besteht aus neun Bausteine:
 * Key Partnerships (Zentrale Partnerschaften)
 * Cost Structure (Kostenstruktur)
 
-Das nachfolgende Video beschreibt die einzelnen Bausteine und ihre Abhängigkeiten untereinander:
+Diese Bausteine decken die vier wichtisten Bereiches einer Organisation ab: Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
+
 
 {% include video id="78350794" provider="vimeo" %}
 
  
 ## Nutzen des Business Model Canvas
+Für die Arbeit mit dem BMC werden fünf Phasen empfohlen:
+
+
+### 1. Mobilisieren
+ 
+In der ersten Phase des Geschäftsmodell-Gestaltungsprozesses gilt es Rahmenbedingungen festzulegen. Hierzu wird unteranderem das 
+Hierzu zählt findet die Festlegung der Projektziele, 
+das Testen vorläufiger Ideen, 
+die Planung des Projektes und ggfs. die Zusammenstellung des Teams statt.
+
+
+###	2. Verstehen
+ 
+Die anschließende Phase hat das Ziel, ein grundlegendes Verständnis für das (Geschäftsmodell-) Umfeld zu entwickeln, die Probleme und Bedürfnisse potenzieller Kunden zu identifizieren und Ideen für neue Geschäftsmodelle zu gewinnen.
+
+Dabei ist es von entscheidender Bedeutung, ein gemeinsames Verständnis des potenziellen Zielmarktes zu entwickeln und über traditionelle Grenzen des Zielmarktes hinauszuschauen. 
+
+Kern dieser Phase ist die Formulierung einer der zentralen Value Proposition.
+
+
+### 3. Gestalten
+
+Die Ergebnisse, Informationen und Ideen der vorhergehenden Phase fließen nun in die Gestaltung von Geschäftsmodell-Prototypen. 
+Diese werden getestet und letztlich ein Prototyp ausgewählt.
+Bei Start-Ups, die sich in einer frühen Phase befinden, wird empfohlen, das Geschäftsmodell auf Herz und Nieren gemeinsam mit potenziellen Kunden (“early adopters”) zu testen.
+
+
+### 4. Implementieren
+ 
+
+In der vierten Phase wird der ausgewählte Geschäftsmodell-Prototyp in der Praxis überführt. 
+Oftmals wird in etablierten Organisationen die Implementierungsphase in einem Business Plan skizziert.
+
+ 
+### 5. Durchführen
+ 
+In der letzten Phase Durchführen geht das Geschäftsmodell unter Berücksichtigung der langfristig
+anvisierten Ziele in den entsprechenden Verantwortungsbereich über. Hier werden bei Bedarf weitere
+Anpassungen und grundlegende Veränderungen im
+Rahmen der kontinuierlichen Verbesserung und
+Marktbeobachtung proaktiv durchgeführt. Durch die
+visuelle Repräsentation (BMC) wird zudem die unternehmensweite Kommunikation des Geschäftsmodells erleichtert.
+
+In der letzten Phase werden das Umfeld und das Geschäftsmodell kontinuierlich analysiert und bewertet. 
+Auf Basis der Marktreaktionen wird das Modell angepasst oder verändert.
+
+
+
+
+
+
+
+
+
+
+
 Die Übersicht aller Bausteine auf einer Seite ist einer der wesentlichen Vorteile des Business Model Canvas.
 Zur Bearbeitung der Bausteine empfiehlt es sich durchaus weitere Methoden zu nutzen, bei dem Canvas geht es vor 
 allem um die Übersicht und so wird es meist in A0 ausgedruckt und mit Post-Its bearbeitet. Besonders in einer analogen 
