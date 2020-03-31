@@ -4,7 +4,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: DARCBLUEAG/minimal-mistakes
+remote_theme: DARCBLUEAG/minimal-mistakes@darcblue
 
 # Outputting
 permalink: /:categories/:title/
@@ -15,8 +15,10 @@ timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time
 include:
   - _pages
 exclude:
-  - ".Ulysses-Group.plist"
-  - ".Ulysses-Settings.plist"
+  - Gemfile
+  - Gemfile.lock
+  - .Ulysses-Group.plist
+  - .Ulysses-Settings.plist
   - .bundle
   - vendor
 keep_files:
