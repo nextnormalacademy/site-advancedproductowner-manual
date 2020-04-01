@@ -48,7 +48,7 @@ Zur Erstellung einer ersten der Empathy Map empfiehlt David Gray ca. 20 Minuten 
 Falls bereits Personas erstellt wurden, können diese als Input verwendet werden. Falls durch die Empathy Map neue Erkenntnisse aufkommen, ist es sinnvoll diese bei Bedarf in die Personas zurück fließen zu lassen.
 Das Erstellen der Empathy Map kann im weiteren Projektverlauf nach belieben wiederholt warden, zum Beispiel wenn wichtige, neue Erkenntnisse über die Kundengruppen gewonnen werden konnten oder wenn neue Teammitglieder zum Team dazugesoßen sind.
 ## Beispiel
-{% include figure image_path="/assets/images/Empathy_Map_Fallstudie Diakonie von usability.de.jpg" alt="Beispiel einer ausgefüllten Empathy Map von usability.de für die Fallstudie Website Relaunch der Diakonie Katastrophenhilfe" caption=" Beispiel einer ausgefüllten Empathy Map von usability.de für die Fallstudie Website Relaunch der Diakonie Katastrophenhilfe " %}
+{% include figure image_path="/assets/images/Empathy_Map_Fallstudie_Diakonie_von_usability.de.jpg" alt="Beispiel einer ausgefüllten Empathy Map von usability.de für die Fallstudie Website Relaunch der Diakonie Katastrophenhilfe" caption=" Beispiel einer ausgefüllten Empathy Map von usability.de für die Fallstudie Website Relaunch der Diakonie Katastrophenhilfe " %}
 ## Tools
 Häufig genutzt word das Empathy Map Canvas von Dave Gray. Dieses lässt sich in gedruckter Version durch Post-Its vervollständigen. Ebenso kann die Vorlage auch direkt auf ein Flipchart gemalt werden. Das Ergebnis kann anschließend in den Räumlichkeiten des Entwicklungsteams positioniert werden.
 
