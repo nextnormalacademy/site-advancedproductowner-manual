@@ -4,7 +4,6 @@ permalink: /empathy-map/
 excerpt: “Lorem ipsum”
 toc: true
 ---
-## Empathy Map
 
 Die Empathy Map ist eine einfache, visuelle Methode, um das Wissen über Kunden externalisiert darzustellen. Sie hilft Organisationen und Entwicklungsteams dabei, ein tiefgehendes Verständnis für die Bedürfnisse und zugrundeliegende Motivationen einzelner Zielgruppen zu entwickeln. 
 Diese von Dave Gray entwickelte Methode aus dem Human-centered Design kann die Customer Experience signifikant verbessern, da durch diese Art der Betrachtung real vorhandene Probleme und Bedürfnisse der Zielgruppe aufgedeckt werden.
@@ -14,7 +13,7 @@ Dies kann z.B. als Workshop, Interview oder auch durch einen Fragebogen erfolgen
 Es steht dabei vor allem der Prozess des Verstehens, als das konkrete Ergebnis im Fokus dieser Methode. So ist es auch möglich die Methode regelmäßig zu wiederholen, wenn sich z.B. neue Kundengruppen ergeben oder neue Teammitglieder hinzugekommen sind.
 
 
-{%	include figure 	image_path="/images/Empathy-Map-Canvas.png" alt="Empathy Map Template entwickelt durch Dave Gray verfügbar auf www.xplane.com" caption="Empathy Map Template entwickelt durch Dave Gray verfügbar auf www.xplane.com" %}
+{%	include figure 	image_path="/assets/images/Empathy-Map-Canvas.png" alt="Empathy Map Template entwickelt durch Dave Gray verfügbar auf www.xplane.com" caption="Empathy Map Template entwickelt durch Dave Gray verfügbar auf www.xplane.com" %}
 
 
 Im Gegensatz zu den Personas, bei welchen die objektive und datenbasierte Betrachtung im Vordergund steht fokussiert die Empathy Map das Hineinversetzen in die Gefühlswelt der jeweiligen Kundengruppe. 
