@@ -88,6 +88,7 @@ Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlrei
 * [Business Model You] (https://businessmodelyou.com)
 [1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model"
 [2]:	https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas
+
 [image-1]:	/assets/images/read-light-idea.png
 
 
