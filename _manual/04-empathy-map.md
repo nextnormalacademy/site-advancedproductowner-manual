@@ -17,22 +17,22 @@ Die Empathy Map führt anhand von konkrete Leitfragen und einer übersichtlichen
 Konkret handelt es sich dabei um folgende Fragen, die es zu beantworten gilt:
 
 * **Was sieht die Person?**
-<br> Wie sieht ein typischer Tag oder eine spezifische Situation aus der Perspektive der Person aus? Wie sieht z. B. der Arbeitsplatz aus, welche Personen trifft sie regelmäßig oder besonders selten? Auch Informationen und Ressourcen, die die Person wahrnimmt und nutzt, können hier gesammelt werden.<br\>
+<br> Wie sieht ein typischer Tag oder eine spezifische Situation aus der Perspektive der Person aus? Wie sieht z. B. der Arbeitsplatz aus, welche Personen trifft sie regelmäßig oder besonders selten? Auch Informationen und Ressourcen, die die Person wahrnimmt und nutzt, können hier gesammelt werden.
 
 * **Was sagt die Person**
-<br> Worüber unterhält sich die Person gerne oder ungern? Welche Art von Sprache verwendet sie? Wie ändert sich die Sprache in unterschiedlichen Situationen?<br\>
+<br> Worüber unterhält sich die Person gerne oder ungern? Welche Art von Sprache verwendet sie? Wie ändert sich die Sprache in unterschiedlichen Situationen?
 
 * **Was tut die Person?**
 <br> Was sind typische Handlungen der Personen? Gibt es Routinen im Privaten und Beruf? Wofür verwendet die Person viel Zeit oder was liegt ihr besonders?
-Dieser Teil der Empathy Map schildert die Außenwirkung der Person und kann auch enthalten, wie die Person von anderen wahrgenommen wird (z. B. selbstbewusste Macherin).<br\>
+Dieser Teil der Empathy Map schildert die Außenwirkung der Person und kann auch enthalten, wie die Person von anderen wahrgenommen wird (z. B. selbstbewusste Macherin).
 
 * **Was hört die Person**
 <br> Welche akustischen Eindrücke bekommt die Person im Verlauf des Tages oder in einer bestimmten Situation mit? Dabei kannn es sich z.B. um Straßenlärm 
 oder Gemurmel der Kollegen im Hintergrund handeln. Aber auch gezielte Informationen wie Ausschnitte aus Gesprächen oder typische Statements aus dem Umfeld können 
-hier in die Map einfließen.<br\>
+hier in die Map einfließen.
 
 * **Was denkt und fühlt die Person?** 
-<br> Das letzte Feld der Empathy Map ist auch das zentralste. Aufbauend auf den Eindrücken aus der Umwelt der Person wird nun der Blick auf das Innenleben gerichtet und hebt sich im besonderen Maße von Personas ab, da es in Interviews schwer ist, die inneren Zustände der Probanden abzufragen oder abzuleiten. <br\>
+<br> Das letzte Feld der Empathy Map ist auch das zentralste. Aufbauend auf den Eindrücken aus der Umwelt der Person wird nun der Blick auf das Innenleben gerichtet und hebt sich im besonderen Maße von Personas ab, da es in Interviews schwer ist, die inneren Zustände der Probanden abzufragen oder abzuleiten. 
 
 Bevor man sich an die Erstellung einer Empathy Map macht, sollte man seine Kunden bereits in konkrete Kundengruppen unterteilt, d.h. einzelne Kundensegmente identifiziert haben. Auf dieser Grundlage kann anschließend für jedes Segment ein fiktiver Kunde anhand der Empathy Map näher untersucht werden. Basis für die Empathy Map ist immer die Auseinandersetzung mit einem konkreten Individuum. Hierfür muss die Kundengruppe vorher bereits grob bekannt sein. Workshops, Interviews oder auch Fragebögen können dabei helfen, sich in deren Gefühlswelt hinein zu versetzen.
 
