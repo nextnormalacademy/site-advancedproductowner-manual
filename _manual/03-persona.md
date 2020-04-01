@@ -8,14 +8,14 @@ toc: true
 
 Personas sind eine simple Methode aus dem Human-centered Design, um Kunden eines Produktes besser zu verstehen und ihre tatsächlichen Anforderungen und Bedürfnisse während des Produktdesigns zu berücksichtigen. Sie basieren auf Daten, Fakten, echten Erfahrungen, Feedbacks und Interviews von Kunden. 
 
-## Welches Ziel verfolgen Personas? 
+## Ziel
 Indem Personas die Charakteristika, Wünsche und Bedürfnisse einer Kundengruppe in Form eines einzelnen Individuums zusammenfassen, helfen sie dem Entwicklungsteam eine engere Beziehung zu dieser Kundengruppe aufzubauen. Auf Basis dieser Beziehung lässt sich sicherstellen, dass sich die Produktentwicklung an echten Bedürfnissen und Problemen orientiert.
 Zudem lassen sich so auch konträre Anforderungen von unterschiedlichen Kundengruppen identifizieren und gegeneinander abwägen.
 
-## Wer hat's erfunden? 
+## Geschichte 
 Alan Cooper behalf sich mit Personas eher anonymen Kundengruppen ein Gesicht (Persona = lat. Maske) zu geben. Auf diesem Weg konnte er immer wieder validieren, ob die entstehende Software, den Bedürfnissen der Zielgruppe/seiner Persona entspricht. 
 
-## Wie funktioniert´s?
+## Funktionsweise
 Eine Persona wird als eine fiktive Person beschrieben, der man konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele mitgibt, die repräsentativ für die ausgewählte Kundengruppe sind.
 
 Hier eine kurze Liste möglicher Eigenschaften: 
@@ -54,7 +54,7 @@ Beispiele für Personas sind zahlreich. Hier einige sehr gelungene Beispiele.
 
 {% include figure image_path="/assets/images/SamplePersonaPete.png" alt="Persona Template from RomanPichler.com released under Creative Commons license" caption="Persona Template from RomanPichler.com released under Creative Commons license" %}
 
-## Wie setze ich es ein?
+## Einsatz
 
 Um Personas zu erstellen sollte man seine Kunden identifiziert und recherchiert haben. 
 Man sollte bereits ein klares Verständnis über die einzelnen Kundengruppen entwickelt und ihre individuellen Standpunkte nachvollziehen können. 
@@ -77,7 +77,7 @@ die physisch und gut sichtbar in der Nähe des Entwicklungsteams positioniert we
 Die Erkenntnisse zur Persona helfen zudem bei der Erstellung einer Empathy Map, welche in der nächsten Lektion genauer erörtert wird. Erkenntnisse und Feedback der Empathy Map helfen wiederum bei der Konkretisierung von Personas.
 Zu beachten ist, dass sich im Zuge der Weiterentwicklung von Produkten auch die Personas weiterentwickeln können. Sollte man wertvolles und verändertes Feedback durch seine Kunden erhalten und sich entscheidendes Verhalten von Kunden ändern gilt es dies auch in der Persona widerzuspiegeln.
 
-## Verwendete Tools
+## Tools
 Es gibt verschiedene Möglichkeiten, um Personas zu erstellen. Beispielsweise in einem vor Ort Workshop mit dem Team. 
 Die Eigenschaften können zum Beispiel auf einem Flipchart gesammelt und anschließend gut sichtbar für alle im Büro aufgehangen werden.
 Darüber hinaus existieren mittlerweile einige Online Tools, die bei der Erstellung einer Persona nützlich sein können, 
