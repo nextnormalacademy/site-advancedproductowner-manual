@@ -102,4 +102,4 @@ Allerdings sind die Fragen und damit die Details der Persona nicht individualisi
 * [Templates für unterschiedliche Typen von Persona](https://xtensio.com/user-persona/)
 
 [1]: * [Persona Creator Hub](https://www.hubspot.de/make-my-persona)
-[image-1]:	/assets/images/read-light-idea.png
+[image-1]:	(/assets/images/read-light-idea.png)
