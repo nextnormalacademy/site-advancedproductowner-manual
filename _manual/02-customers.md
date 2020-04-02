@@ -6,6 +6,7 @@ toc: true
 ---
 
 Kunden sind die Personen oder Organisationen, die dich mit der Entwicklung deines Produkts oder Services beauftragen.
+
 In den meisten Fällen wird ein Kunde für deine Arbeit bezahlen.
 Das kann in einmalige Form bei Auftragsentwicklungen oder beim Kauf einer App passieren. Es kann aber auch in regelmäßiger Form bei Serviceangeboten oder Abos geschehen.
 
