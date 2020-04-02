@@ -88,7 +88,7 @@ Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlrei
 * In welcher Reihenfolge lässt sich das Canvas am besten befüllen?
 
 ## Diskussionen
-[Hier geht es zu den Diskussionen][1] über *Business Model* auf dem oncampus.
+[Hier geht es zur den Diskussionen][1] über *Business Model* auf dem oncampus.
 
 ## Quellen, Links und Hinweise
 * Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas][2]
