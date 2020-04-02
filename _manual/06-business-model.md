@@ -43,7 +43,7 @@ Diese Bausteine decken die vier wichtigsten Bereiche einer Organisation ab: Kund
 ## Arbeiten mit dem Business Model Canvas
 Für die Arbeit mit dem BMC werden fünf Phasen empfohlen:
 
-{% include figure image_path="/assets/images/BMC_5_Phasen.png" alt="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation““ caption=" Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" %}
+{% include figure image_path="/assets/images/BMC_5_Phasen.png" alt="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" caption=" Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" %}
 
 ### 1. Mobilisieren
 In der ersten Phase des Geschäftsmodell-Gestaltungsprozesses gilt es Rahmenbedingungen festzustecken. Hier werden unteranderem die Projektziele und Teamzusammenstellung festgelegt sowie erste Ideen getestet als Basis für die weitere Projektplanung.
