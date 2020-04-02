@@ -94,7 +94,7 @@ Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlrei
 * Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas][2]
 * [BMC von IKEA auf der canvanizer Website](https://canvanizer.com/canvas/1MaI4WS_4Bc)
 * Clark, Tim; Osterwalder, Alexander; Pigneur, Yves:[Business Model You](https://businessmodelyou.com)
-* [Hier](https://www.strategyzer.com/books/business-model-generation) gibt es eine kostenfreie online Preview des Business Model Generation. Bei Abgabe eurer Emailadresse könnt ihr diese auch downloaden.
+* [Hier](https://www.strategyzer.com/books/business-model-generation) gibt es eine kostenfreie online Preview des Business Model Generation. Bei Abgabe Deiner Emailadresse kannst du dir die Seiten auch downloaden.
 
 
 [1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model"
