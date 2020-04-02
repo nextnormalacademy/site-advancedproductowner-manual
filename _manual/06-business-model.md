@@ -76,10 +76,11 @@ Eine interessante Übung für das Denken in Geschäftsmodellen ist das von Tim C
 
 ## Tools
 
-Das [Strategizer Online Tool] (https://canvanizer.com/new/business-model-canvas) bietet die Möglichkeit BMCc online zu erstellen, zu speichern und zu teilen.
-Eine verschlankte Variante des BMC ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas] (https://leanstack.com/business-model-canvas-alternative) .
+Das [Strategizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet die Möglichkeit BMCc online zu erstellen, zu speichern und zu teilen.
+Eine verschlankte Variante des BMC ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas](https://leanstack.com/business-model-canvas-alternative) .
 ## Beispiele
-Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlreich im Netz vertreten. So gibt es beispielsweise [das BMC von IKEA auf der canvanizer Website] (https://canvanizer.com/canvas/1MaI4WS_4Bc) .
+Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlreich im Netz vertreten. So gibt es beispielsweise 
+[das BMC von IKEA auf der canvanizer Website](https://canvanizer.com/canvas/1MaI4WS_4Bc) .
 
 ## Fragen
 * Hast Du schon einmal mit einem Business Model Canvas gearbeitet?
@@ -91,9 +92,9 @@ Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlrei
 
 ## Quellen, Links und Hinweise
 * Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas][2]
-* Verlinkung SneakPeak „Business Model Generation“ – liegt als download unter assets/documents
-* [BMC von IKEA auf der canvanizer Website] (https://canvanizer.com/canvas/1MaI4WS_4Bc)
-* [Business Model You] (https://businessmodelyou.com)
+
+* [BMC von IKEA auf der canvanizer Website](https://canvanizer.com/canvas/1MaI4WS_4Bc)
+* [Business Model You](https://businessmodelyou.com)
 [1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model"
 [2]:	https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas
 
