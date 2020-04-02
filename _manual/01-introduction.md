@@ -45,32 +45,41 @@ Die Foren sind jeweils am Ende des Kapitels verlinkt.
 
 ### Symbole und Hinweise
 
-![image-left][image-1]{: .align-left}
+**Zitate:**
+Alle Zitate heben wir explizit hervor, so dass du sie in den Quellen wiederfinden kannst und weiter in die Tiefe gehen kannst, wenn du möchtest.
+{: .notice--info}
+
+![image-left][image-1]{: .align-left} 
+**Achtung:**
+Mit dieser Kennzeichnung weisen wir dich auf Fallstricke, Missverständliches und Themen hin, bei denen du aufmerksam arbeiten solltest.
+{: .notice--warning}
+
+![image-left][image-2]{: .align-left}
 **Wissenswertes:**
 Diese Hervorhebung beschreibt grundlegendes Wissen oder fasst Abschnitte kurz und knapp zusammen.
 {: .notice--primary}
 
-![image-left][image-2]{: .align-left}
+![image-left][image-3]{: .align-left}
 **Suchhinweise:**
 Mit dieser Hervorhebung geben wir dir Tipps, wonach du suchen kannst, um das Thema weiter zu vertiefen.
 {: .notice--primary}
 
-![image-left][image-3]{: .align-left}
+![image-left][image-4]{: .align-left}
 **Experimente:**
 Hin und wieder beschreiben wir Experimente, die du machen kannst, um Werkzeuge und Methoden auszuprobieren.
 {: .notice--primary}
 
-![image-left][image-4]{: .align-left}
+![image-left][image-5]{: .align-left}
 **Zusammengefasst (Podcast):**
 Mit dieser Hervorhebung kennzeichnen wir Zusammenfassungen aus einem Podcast.
 {: .notice--primary}
 
-![image-left][image-5]{: .align-left}
+![image-left][image-6]{: .align-left}
 **Zusammengefasst (Website):**
 Mit dieser Hervorhebung kennzeichnen wir Zusammenfassungen von anderen Quellen im Web.
 {: .notice--primary}
 
-![image-left][image-6]{: .align-left}
+![image-left][image-7]{: .align-left}
 **Zusammengefasst (Literatur):**
 Mit dieser Hervorhebung kennzeichnen wir Zusammenfassungen von Büchern oder Artikeln.
 {: .notice--primary}
@@ -91,9 +100,10 @@ Sollte dir etwas auffallen, das wir übersehen haben, sprich uns in unserem Foru
 
 [1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-allgemeine-diskussionen "oncampus Forum zu Real Options"
 
-[image-1]:	/assets/images/read-light-idea.png
-[image-2]:	/assets/images/read-search.png
-[image-3]:	/assets/images/lab-flask-experiment.png
-[image-4]:	/assets/images/audio-book-headphones-person.png
-[image-5]:	/assets/images/e-learning-book-laptop.png
-[image-6]:	/assets/images/library.png
+[image-1]:	/assets/images/flag-warning.png
+[image-2]:	/assets/images/read-light-idea.png
+[image-3]:	/assets/images/read-search.png
+[image-4]:	/assets/images/lab-flask-experiment.png
+[image-5]:	/assets/images/audio-book-headphones-person.png
+[image-6]:	/assets/images/e-learning-book-laptop.png
+[image-7]:	/assets/images/library.png
