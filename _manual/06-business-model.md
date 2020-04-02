@@ -5,23 +5,31 @@ excerpt: “Lorem ipsum”
 toc: true
 ---
 
-Jede Organisation, die Ihren Kunden Werte vermitteln möchte, tut dies auf eine bestimmte Art und Weise. Diese Art und Weise ist das zugrundeliegende Geschäfftsmodell. Jede Organisation verfügt damit bewusst oder unbewusst über ein oder auch mehrere Geschäftsmodelle.
+Jede Organisation, die Ihren Kunden Werte vermitteln möchte, 
+tut dies auf eine bestimmte Art und Weise. Diese Art und Weise ist das zugrundeliegende Geschäfftsmodell. 
+Jede Organisation verfügt damit bewusst oder unbewusst über ein oder auch mehrere Geschäftsmodelle.
 
 ![image-left][image-1]{: .align-left}
 Ein Geschäftsmodell beschreibt das Grundprinzip, nach dem eine Organisation Werte schafft, vermittelt und erfasst.
 {: .notice--primary}
 
 ## Ziel 
-Durch die Auseinandersetzung mit dem eigenem Geschäftsmodell soll sichergestellt werden, dass Organisationen erfolgreich wirtschaften. Denn für fast alle Organisation gilt: Wenn kein Geld mehr da ist, dann ist Schluss. Sicher zu gehen, dass mehr Geld oder zumindest genauso viel Geld hereinkommt, wie ausgegeben wird ist essenziell für das Überleben einer Organisation. 
+Durch die Auseinandersetzung mit dem eigenem Geschäftsmodell soll sichergestellt werden, 
+dass Organisationen erfolgreich wirtschaften. Denn für fast alle Organisation gilt: 
+Wenn kein Geld mehr da ist, dann ist Schluss. Sicher zu gehen, dass mehr Geld oder zumindest genauso viel Geld hereinkommt, 
+wie ausgegeben wird ist essenziell für das Überleben einer Organisation. 
 
 ## Geschichte
-Eine Methode, um ein Geschäftsmodell zu beschreiben ist das von Alexander Osterwalder in seinem Buch "Business Model Generation - A Handbook for Visionaries, Game Changers and Challengers"  (Osterwalder, Alexander und Pigneur, Yves, 2010, John Wiley & Sons) entwickelte Business Model Canvas (BMC).
+Eine Methode, um ein Geschäftsmodell zu beschreiben ist das von Alexander Osterwalder in seinem 
+Buch "Business Model Generation - A Handbook for Visionaries, Game Changers and Challengers"  
+(Osterwalder, Alexander und Pigneur, Yves, 2010, John Wiley & Sons) entwickelte Business Model Canvas (BMC).
 
 ![image-left][image-1]{: .align-left}
 Das Business Model Canvas eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 
 {: .notice--primary}
-{%	include figure 	image_path="/images/bmcanvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from Strategyzer.com" %}
+
+{%	include figure 	image_path="/assets/images/bmcanvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from Strategyzer.com" %}
 
 ## Funktionsweise
 Das Business Model besteht aus neun grundlegenden Geschäftsmodellbausteinen:
