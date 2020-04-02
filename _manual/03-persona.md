@@ -85,6 +85,7 @@ da sie mit einem Leitfaden durch den Erstellungsprozess führen. Beispiel hierf�
 Als Ergebnis erhält man ein übersichtliches Dashbaord seiner Persona. Schön hierbei ist, dass das digitale Ergebnis einfach zu bearbeiten und zu teilen ist. 
 Allerdings sind die Fragen und damit die Details der Persona nicht individualisierbar und der Comic-Avatar hilft nur bedingt, die Persona als echten Kunden wahrzunehmen.
 
+Eine kurze Zusammenfassung zu Personas und eigenes Template gibt es auf der [Website von Roman Pichler.](https://www.romanpichler.com/tools/the-persona-template)
 ## Fragen
 * Hast Du schon einmal mit Personas gearbeitet? Wenn ja, wie hat es Dir geholfen? Und wenn nein, hast Du ein Beispiel, bei dem es dir geholfen hätte?
 * Wie würdest Du deinem Team helfen Personas in der täglichen Arbeit zu berücksichtigen?
