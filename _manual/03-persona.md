@@ -6,19 +6,20 @@ toc: true
 ---
 
 
-Personas sind eine simple Methode aus dem Human-centered Design, die dir dabei helfen, deine Kunden besser zu verstehen und ihre tatsächlichen Anforderungen und Bedürfnisse während des Produktdesigns zu berücksichtigen. Personas basieren auf Daten, Fakten, echten Erfahrungen, Feedbacks und Interviews von Kunden. 
+Personas sind eine Methode aus dem User Experience Design. Sie helfen dir dabei, deine Kunden zu verstehen. Damit kannst du ihre tatsächlichen Anforderungen und Bedürfnisse während des Produktdesigns besser berücksichtigen. 
 
 ## Ziel
 Indem Personas die Charakteristika, Wünsche und Bedürfnisse einer Kundengruppe in Form eines einzelnen Individuums zusammenfassen, helfen sie deinem Entwicklungsteam eine engere Beziehung zur Kundengruppe aufzubauen. Dadurch kannst du sicherstellen, dass sich die Produktentwicklung an den echten Bedürfnissen und Problemen deiner Kunden orientiert.
 Zudem kannst du so auch konträre Anforderungen von unterschiedlichen Kundengruppen identifizieren und bei der weiteren Entwicklung gegeneinander abwägen.
 
 ## Geschichte 
-Alan Cooper behalf sich mit Personas eher anonymen Kundengruppen ein Gesicht (Persona = lat. Maske) zu geben. Auf diesem Weg konnte er immer wieder validieren, ob die entstehende Software, den Bedürfnissen der Zielgruppe/seiner Persona entspricht. 
+Kundenpersonas gab es schon seit den 60er Jahren.
+Alan Cooper behalf sich mit Personas Nutzergruppen ein Gesicht (Persona = lat. Maske) zu geben. Auf diesem Weg konnte er immer wieder validieren, ob die entstehende Software, den Bedürfnissen der Zielgruppe/seiner Persona entspricht.  
 
 ## Funktionsweise
 Beschreibe deine Persona als fiktive Person, der du konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele mitgibst, die repräsentativ für deine ausgewählte Kundengruppe sind.
 
-Hier eine kurze Liste möglicher Eigenschaften für deine Persona: 
+Hier eine Liste möglicher Eigenschaften für deine Persona: 
 
 * Name
 * Alter
@@ -47,6 +48,9 @@ Die Persona sollte möglichst **merk**-würdig sein. Name und Foto einer Persona
 doch sie helfen die Persona zu verinnerlichen. Konkrete Verhaltensmuster der Persona, wie beispielsweise Detailverliebtheit, können im Designprozess darauf hinweisen, 
 dass besondere Informationen über dein Produkt bereitgestellt werden müssen, um die Persona zufriedenzustellen oder zum Kauf zu bewegen. 
 
+Personas basieren auf Daten, Fakten, echten Erfahrungen, Feedbacks und Interviews von Kunden. 
+
+
 ## Beispiel
 Beispiele für Personas sind zahlreich. Hier einige Beispiele:
 
@@ -58,6 +62,10 @@ Beispiele für Personas sind zahlreich. Hier einige Beispiele:
 
 Um Personas zu erstellen solltest du deine Kunden identifiziert und recherchiert haben. 
 Du solltest bereits ein klares Verständnis über die einzelnen Kundengruppen entwickelt haben, damit du ihre individuellen Standpunkte nachvollziehen kannst. 
+
+Ausm nichts vs du hast schon was. Kann auch später genutzt werden
+Anfangs kd verstehen
+später fürs Team kunde Gesicht geben
 
 ![image-left][image-1]{: .align-left}
 Das Skizzieren eines konkreten Szenarios, in dem sich dein Kunde befindet und dein Produkt gerne nutzt, kann dir bei der Personabeschreibung helfen.
