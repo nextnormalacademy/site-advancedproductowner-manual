@@ -45,8 +45,8 @@ Das Business Model besteht aus neun grundlegenden Geschäftsmodellbausteinen:
 * Cost Structure (Kostenstruktur)
 
 Diese Bausteine decken die vier wichtigsten Bereiche einer Organisation ab: Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
+Das Zusammenspiel dieser Bausteine wird in [diesem Video](https://vimeo.com/78350794) erklärt.
 
-{% include video id="78350794" provider="vimeo" %}
 
 ## Arbeiten mit dem Business Model Canvas
 Für die Arbeit mit dem BMC werden fünf Phasen empfohlen:
@@ -93,7 +93,7 @@ Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlrei
 ## Quellen, Links und Hinweise
 * Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas][2]
 * [BMC von IKEA auf der canvanizer Website](https://canvanizer.com/canvas/1MaI4WS_4Bc)
-* [Business Model You](https://businessmodelyou.com)
+* Clark, Tim; Osterwalder, Alexander; Pigneur, Yves:[Business Model You](https://businessmodelyou.com)
 
 [1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model"
 [2]:	https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas
