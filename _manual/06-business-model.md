@@ -5,19 +5,14 @@ excerpt: “Lorem ipsum”
 toc: true
 ---
 
-Jede Organisation, die Ihren Kunden Werte vermitteln möchte, 
-tut dies auf eine bestimmte Art und Weise. Diese Art und Weise ist das zugrundeliegende Geschäfftsmodell. 
-Jede Organisation verfügt damit bewusst oder unbewusst über ein oder auch mehrere Geschäftsmodelle.
+Dein Produkt vermittelt Wert auf eine bestimmte Art und Weise. Diese Art und Weise ist dein zugrundeliegende Geschäfftsmodell. 
 
 ![image-left][image-1]{: .align-left}
-Ein Geschäftsmodell beschreibt das Grundprinzip, nach dem eine Organisation Werte schafft, vermittelt und erfasst.
+Dein Geschäftsmodell beschreibt das Grundprinzip, nach welchem dein Produkt Nutzen stiftet.
 {: .notice--primary}
 
 ## Ziel 
-Durch die Auseinandersetzung mit dem eigenem Geschäftsmodell soll sichergestellt werden, 
-dass Organisationen erfolgreich wirtschaften. Denn für fast alle Organisation gilt: 
-Wenn kein Geld mehr da ist, dann ist Schluss. Sicher zu gehen, dass mehr Geld oder zumindest genauso viel Geld hereinkommt, 
-wie ausgegeben wird ist essenziell für das Überleben einer Organisation. 
+Um dein Produkt erfolgreich zu machen solltest du dir dein Geschäftsmodell genauer ansehen. Das hilft dir dabei sicherzustellen, dass du alle Facetten berücksichtigt hast und alle finanziellen Aspekte geklärt hast. 
 
 ## Geschichte
 Eine Methode, um ein Geschäftsmodell zu beschreiben ist das von Alexander Osterwalder in seinem 
@@ -44,7 +39,7 @@ Das Business Model besteht aus neun grundlegenden Geschäftsmodellbausteinen:
 * Key Partnerships (Zentrale Partnerschaften)
 * Cost Structure (Kostenstruktur)
 
-Diese Bausteine decken die vier wichtigsten Bereiche einer Organisation ab: Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
+Diese Bausteine decken die vier wichtigsten Bereiche deines Produktes ab: Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
 Das Zusammenspiel dieser Bausteine wird in [diesem Video](https://vimeo.com/78350794) erklärt.
 
 
@@ -54,20 +49,19 @@ Für die Arbeit mit dem BMC werden fünf Phasen empfohlen:
 {% include figure image_path="/assets/images/BMC_5_Phasen.png" alt="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" caption=" Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" %}
 
 ### 1. Mobilisieren
-In der ersten Phase des Geschäftsmodell-Gestaltungsprozesses gilt es Rahmenbedingungen festzustecken. Hier werden unteranderem die Projektziele und Teamzusammenstellung festgelegt sowie erste Ideen getestet als Basis für die weitere Projektplanung.
+Die erste Phase hilft dir, die Rahmenbedingungen festzustecken. Hier werden die Projektziele und Teamzusammenstellung festgelegt. Erste Ideen können schon getestet werden. Die Erkenntnisse helfen dir bei der weiteren Projektplanung.
 
 ###	2. Verstehen
-Die anschließende Phase hat das Ziel ein grundlegendes Verständnis für das (Geschäftsmodell-) Umfeld zu entwickeln, die Probleme und Bedürfnisse potenzieller Kunden zu identifizieren und Ideen für neue Geschäftsmodelle zu gewinnen.
-Dabei ist es von entscheidender Bedeutung, ein gemeinsames Verständnis des potenziellen Zielmarktes zu entwickeln. Vor allem in Zeiten von digitalen Plattformen und Ökosystemen verschwimmen eher klassisch zumutende Marktgrenzen und lassen sich mit dem BMC hinterfragen. Kern dieser Phase ist die Erarbeitung und Formulierung einer zentralen Value Proposition.
+Im Anschluss kannst du dein Verständnis für das Umfeld deines Produkts vertiefen. Wichtig ist, dass du deinen Zielmarkt kennst. Kern dieser Phase ist die Erarbeitung und Formulierung deiner zentralen Value Proposition.
 
 ### 3. Gestalten
-Die Ergebnisse, Informationen und Ideen der vorhergehenden Phase fließen nun in die Gestaltung von Geschäftsmodell-Prototypen ein. Diese werden im Team sowie mit potentiellen Kunden auf Herz und Nieren geprüft, damit ein finaler Prototyp ausgewählt werden kann. 
+Deine Ergebnisse, Informationen und Ideen der vorhergehenden Phase fließen nun in Geschäftsmodell-Prototypen ein. Diese kannst du gemeinsam mit deinem Team auf Herz und Nieren prüfen. Wenn du möchtest, kannst du auch potentielle Kunden miteinbinden. Am Ende entscheidest du dich für einen finalen Protoyp. 
+
 ### 4. Implementieren
-In der vierten Phase wird der ausgewählte Geschäftsmodell-Prototyp in die Praxis überführt. Oftmals wird in etablierten Organisationen die Implementierungsphase in einem separaten Business Plan skizziert.
+In der vierten Phase erweckst du den ausgewählten Prototyp zum Leben. Wenn du möchtest, kannst du diese Implementierung durch einen separaten Business Plan skizzieren. 
 
 ### 5. Durchführen
-In der letzten Phase geht das Geschäftsmodell in den entsprechenden Verantwortungsbereich über. Hier werden werden Umfeld und Geschäftsmodell kontinuierlich analysiert und bewertet. Auf Basis der Marktreaktionen wird das Modell angepasst oder verändert. Durch die visuelle Darstellung (BMC) wird zudem die unternehmensweite Kommunikation zum Geschäftsmodells erleichtert.
-Zur Bearbeitung der Bausteine empfiehlt es sich weitere Methoden zu nutzen. Das Canvas dient in erster Linie der Übersicht. Hierzu wird es meist in A0 ausgedruckt und mit Post-Its vervollständigt. Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an. Für verteilte Workshops gibt es zahlreiche digitale Templates und Tools.
+In der letzten Phase besprichst du das finale Geschäftsmodell mit dem Umsetzungsteam. Du als Product Owner hast die Pflicht sicherzustellen, dass alle an Board das Geschäftsmodell verstehen. Die visuelle Darstellung hilft dir für die unternehmensweite Kommunikation. Hinterfrage und verändere dein Geschäftsmodell, wenn sich Umfeld oder Markt verändern. Für die Bearbeitung der einzelnen Bausteine kannst du auch weitere Methoden zusätzlich nutzen. Das Canvas dient in erster Linie der Übersicht. Drucke es in A0 aus und vervollständige es mit Post-Its. Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an.  Wenn du in einem Verteilten Team arbeitest helfen dir digitale Templates.
 
 
 ![image-left][image-1]{: .align-left}
@@ -76,10 +70,10 @@ Eine interessante Übung für das Denken in Geschäftsmodellen ist das von Tim C
 
 ## Tools
 
-Das [Strategizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet die Möglichkeit BMCc online zu erstellen, zu speichern und zu teilen.
-Eine verschlankte Variante des BMC ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas](https://leanstack.com/business-model-canvas-alternative) .
+Das [Strategizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet dir Möglichkeit das BMC online zu erstellen, speichern und teilen.
+Eine schlankere Variante ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas](https://leanstack.com/business-model-canvas-alternative) .
 ## Beispiele
-Beispiele für BMCs sowohl für kleine als auch großer Unternehmen sind zahlreich im Netz vertreten. So gibt es beispielsweise 
+Beispielhafte BMCs für unterschiedliche Unternehmensgrößen sind zahlreich im Netz vertreten. Hier findest du beispielsweise 
 [das BMC von IKEA auf der canvanizer Website](https://canvanizer.com/canvas/1MaI4WS_4Bc) .
 
 ## Fragen
