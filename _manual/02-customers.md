@@ -31,10 +31,13 @@ Als Product Owner möchtest du ihn unbedingt zufrieden stellen und er steht in e
 
 Stakeholder sind alle die Personen oder Institutionen, die Interesse am Verlauf eines Prozesses oder Projektes haben.
 Sie haben nicht notwendigerweise Interesse am Ergebnis.
+
 Ob sich dein Produkt gut verkauft, darf dem Betriebsrat formal egal sein.
 Ob du und dein Team sich an die Betriebsvereinbarungen und Arbeitszeitregeln halten, ist dem Stakeholder Betriebsrat aber wichtig.
+
 Ein anderes Beispiel ist häufig in regulierten Bereichen wie der Medizintechnik oder der Luftfahrt anzutreffen.
 Hier gibt es Stakeholder, die sich dafür interessieren, dass dein Produkt über gewisse Eigenschaften verfügt.
+
 In den beiden oben genannten Bereichen könnten das Sicherheitsaspekte sein.
 Solche Stakeholder haben ein sekundäres Interesse an deinem Produkt.
 Das bedeutet, dass ihnen dein Produkt eigentlich egal ist, so lange du ihre Interessen berücksichtigst und das nachweisen kannst.
@@ -56,6 +59,7 @@ Sie können dich dabei unterstützen oder behindern, dein Produkt oder deinen Se
 
 Eine weitere Gruppe, die auch im agilen Manifest genannt wird, sind die Fachexperten.
 Machmal werden sie auch als Domänenexperten,  Business Experts oder Subject Matter Experts bezeichnet.
+
 Diese Personen haben ein tiefes Wissen über die fachlichen Anforderungen an dein Produkt oder deinen Service.
 Einige der Fachexperten werden später vielleicht mit deinem Produkt arbeiten, andere unterstützen dich nur während der Entwicklung.
 In jedem Fall sind sie wertvolle Quellen für Anforderungen und Feedback, die du schätzen wirst.
