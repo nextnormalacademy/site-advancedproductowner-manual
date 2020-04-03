@@ -43,9 +43,9 @@ Hier eine Liste möglicher Eigenschaften für deine Persona:
 - Geschlecht
 - Familienstand
 - Lifeystyle:
- 	- Welche Hobbies hat deine Persona?
- 	- Was ist deiner Persona wichtig im privaten Umfeld?
- 	- Was sind die persönlichen Ziele deiner Persona?
+	- Welche Hobbies hat deine Persona?
+	- Was ist deiner Persona wichtig im privaten Umfeld?
+	- Was sind die persönlichen Ziele deiner Persona?
 - Berufliche Situation:
  	- Wie lange ist deine Persona schon in ihrem Beruf?
 	- Wie kommt deine Persona mit Kollegen und Vorgesetzten zurecht?
