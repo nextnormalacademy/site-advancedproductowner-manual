@@ -57,7 +57,7 @@ Macht euch im Team Gedanken zu diesen Fragen. Ihr erhaltet so tieferes und vor a
 ![image-left][image-3]{: .align-left}
 **Suchhinweis:**
 Wenn du mehr über Bedürfnisse erfahren möchtest, informiere dich über die Bedürfnispyramide des US-amerikanischen Psychologen Abraham Maslow.
-Ein Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [1] 
+Ein Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [Needs Before Wants in User Experiences – Maslow and the Hierarchy of Needs][1] 
 {: .notice--primary}
 
 ## Einsatz
