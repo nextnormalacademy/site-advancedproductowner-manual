@@ -34,14 +34,25 @@ Wir wollen mit dem Advanced Product Owner Handbuch
 
 ## Inhalt und Struktur
 
-## Tipps für dich
+Nach dieser Einführung und einer Klärung des Kundenbegriffs stellen wir dir pro Kapitel ein Werkzeug oder eine Methode vor.
+
+Auf der linken Seite findest du immer die Übersicht aller Kapitel und auf der rechten Seite das Inhaltsverzeichnis des aktuellen Kapitels.
+
+Die Kapitel zu den Werkzeugen und Methoden folgen dabei jeweils diesem Schema:
+
+* Ziel - Wofür solltest du das Werkzeug oder die Methode einsetzen?
+* Geschichte - Wer hat’s erfunden? Und warum? Wie hat es sich entwickelt?
+* Funktionsweise - Wie solltest du es verwenden, damit es dir hilft?
+* Beispiel - Ein paar Beispiele aus unserer Praxis oder von den Experten
+* Einsatz - Wo kannst du es einsetzen - und wo nicht?
+* Tools - Templates und Ressourcen mit denen du loslegen kannst
+* Fragen - Wir fragen dich Dinge, die dich zum Nachdenken bringen. Oder zum Schmunzeln ;-)
+
+Am Ende jeder Seite findest Du noch einen Link zu unseren Diskussionsforen und Verweise zu unseren Quellen, weiterer Literatur oder spannenden Beiträgen.
 
 Auch wenn die Kapitel des Advanced Product Owner Handbuchs eine logische Reihenfolge haben, musst Du sie nicht in dieser Reihenfolge durcharbeiten.
 Vielleicht kennst Du einzelne Werkzeuge und Methoden bereits - dann kannst du die entsprechenden Kapitel überspringen.
 Vielleicht interessierst dich für ganz spezielle Fragestellungen - dann spring direkt mitten ins entsprechende Kapitel im Advanced Product Owner Handbuch.
-
-Zu jedem Kapitel gibt es ein Diskussionsforum in unserem begleitenden MOOC.
-Die Foren sind jeweils am Ende des Kapitels verlinkt.
 
 ### Symbole und Hinweise
 
@@ -95,6 +106,9 @@ Wir versuchen durch Reviews sicherzustellen, dass wir nur hochwertige Inhalte un
 Sollte dir etwas auffallen, das wir übersehen haben, sprich uns in unserem Forum auf dem oncampus an.
 
 ## Diskussionen
+
+Zu jedem Kapitel gibt es ein Diskussionsforum in unserem begleitenden MOOC.
+Die Foren sind jeweils am Ende des Kapitels verlinkt.
 
 [Hier geht es zur den Diskussionen][1] zum *Advanced Product Owner Handbuch* auf dem oncampus.
 

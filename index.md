@@ -1,5 +1,5 @@
 ---
-title: Willkommen zum<br/>Advanced Product Owner Handbuch!
+title: Willkommen zum <br/>Advanced Product Owner Handbuch!
 layout: single
 sidebar:
   nav: "manual"
