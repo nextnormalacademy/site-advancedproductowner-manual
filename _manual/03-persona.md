@@ -13,7 +13,7 @@ Personas fassen die Charakteristika, Wünsche und Bedürfnisse einer Kundengrupp
 Sie helfen dir und deinem Entwicklungsteam damit eine engere Beziehung zur Kundengruppe aufzubauen. 
 
 Durch diese engere Beziehung kannst du sicherstellen, 
-dass sich die Produktentwicklung möglichst nah an den echten Bedürfnissen und Problemen deiner Kunden orientiert.
+dass sich die Produktentwicklung möglichst nah an echten Bedürfnissen und Problemen deiner Kunden orientiert.
 
 Wobei dir Personas auch helfen können, ist die Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Kundengruppen.
 So kannst du dir Konflikte vor Augen führen und unterschiedliche Werte bei der weiteren Entwicklung gegeneinander abwägen.
@@ -21,19 +21,20 @@ So kannst du dir Konflikte vor Augen führen und unterschiedliche Werte bei der 
 ## Geschichte 
 In Rom bezeichneten Personas Theathermasken, die den Schauspielern helfen sollten, sich besser in ihre Rollen einzufinden. 
 
-Aufgenommen wurde dieses Konzept zunächst im Marketing. Dort werden auf Basis von Kundendaten und Kundenverhalten Modelle erstellt. 
+Zuerst adaptierte das Marketing Personas. Dort wurden und werden immer noch auf Basis von Kundendaten Modelle erstellt. 
 Diese Datenmodelle sind mathematisch und für viele Menschen nicht greifbar. Um die Modelle begreifbarer zu machen werden sie als Personas „personalisiert“. 
+
 Diese beschreiben die Kundengruppen näher und helfen dabei, gezielte Marketingmaßnahmen zu planen.
 
 In der Softwareentwicklung wurden Personas durch Alan Cooper bekannt. Er gilt als Erfinder der Design Personas, wie wir sie heute nutzen.
 
 „Alan Cooper sagt, er habe schon 1983 seine erste Persona namens „Kathy“ entwickelt. Während der Softwareentwicklung habe Cooper immer wieder fiktive Dialoge mit „Kathy“ gehalten. 
-So konnte er die Funktionen seiner Software priorisieren und identifizieren, die für Kathy besonders wertstiftend waren.“[1]
+So konnte er die Funktionen seiner Software priorisieren und identifizieren, die für Kathy besonders wertstiftend waren.“ [1]
 {: .notice--info}
 
 
 ## Funktionsweise
-Beschreibe deine Persona als fiktive Person. Gib ihr konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele mit, die repräsentativ für deine ausgewählte Kundengruppe sind.
+Beschreibe deine Persona als fiktive Person. Gib ihr konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele, die repräsentativ für deine ausgewählte Kundengruppe sind.
 
 Hier eine Liste möglicher Eigenschaften für deine Persona:
 
@@ -53,7 +54,9 @@ Hier eine Liste möglicher Eigenschaften für deine Persona:
 Deine Persona sollte möglichst **merk**-würdig sein. 
 Name und Foto können dir im ersten Moment irrelevant erscheinen, doch sie helfen dir und deinem Team die Persona zu verinnerlichen. 
 
-Konkrete Verhaltensmuster der Persona, wie beispielsweise Detailverliebtheit, können im Designprozess darauf hinweisen, dass besondere Informationen über dein Produkt bereitgestellt werden müssen, um die Persona zufriedenzustellen oder zum Kauf zu bewegen. 
+Konkrete Verhaltensmuster der Persona, können im Designprozess entscheidende Hinweise liefern. 
+
+Ist deine Persona zum Beispiel Detailverliebtheit solltest du besondere Informationen über dein Produkt bereitgestellt werden, um die Persona zufriedenzustellen oder zum Kauf zu bewegen. 
 
 ![image-left][image-4]{: .align-left}
 **Experiment:**
@@ -73,7 +76,12 @@ Beispiele für Personas sind zahlreich. Besonders schön finden wir konkrete Aus
 
 
 ## Einsatz
-Prinzipiell kannst du immer beginnen mit Personas zu arbeiten. Es ist egal ob du dabei bist ein neues Produkt zu planen oder um ein bestehendes Produkt zu verbessern.
+Es ist egal ob du dabei bist ein neues Produkt zu planen oder um ein bestehendes Produkt zu verbessern.
+
+![image-left][image-2]{: .align-left}
+**Wissenswertes:**
+Prinzipiell kannst du zu jeder Zeit beginnen mit Personas zu arbeiten.
+{: .notice--primary}
 
 Solltest du ein neues Produkt planen und über keine Informationen über deine potentiellen Kundengruppen verfügen, kannst du Personas als Hypothesen nutzen. 
 Erstelle dir deine Wunsch-Personas! Wer sind sie und warum nutzen sie dein Produkt? Gib ihnen ein Gesicht.
@@ -83,9 +91,11 @@ Damit kannst du deine Annahmen über deine Personas bestätigen oder revidieren.
 In einem meiner Kundenprojekte war die Persona Michael so present im Entwicklungsteam, dass es völlig normal war, wenn Michaels Meinung in Diskussionen einfloss: 
 „Das wird Michael nicht gefallen“. Und so kam es, dass unser Grießgram Michael zwar nicht sehr belieb, aber umso hilfreicher im Entscheidungsprozess war.
 
-Das Skizzieren eines konkreten Szenarios, in dem sich dein Kunde befindet und dein Produkt gerne nutzt, kann dir bei der Personabeschreibung helfen.
-Welche Ziele und Bedürfnisse aber auch Pain Points und Herausforderungen werden durch dein Produkt adressiert?
-Wie detailliert du sie ausgestaltest hängt von deiner Zielsetzung ab. Und davon, wieviel Zeit du hast.
+
+Das Skizzieren eines konkreten Szenarios, in dem sich dein Kunde befindet und dein Produkt gerne nutzt, 
+kann dir bei der Personabeschreibung helfen. Überlege dir also genau, wie deine Persona unter bestimmten Bedingungen reagieren wird.
+
+Wie detailliert du deine Persona ausgestaltest hängt von deiner Zielsetzung ab. Und davon, wieviel Zeit du hast.
 
 ![image-left][image-4]{: .align-left}
 **Experiment:**
@@ -97,8 +107,13 @@ Diese kannst du gut sichtbar in der Nähe deines Entwicklungsteams platzieren. P
 ## Tools
 Es gibt verschiedene Möglichkeiten, um Personas zu erstellen. 
 
-Wichtig ist zu wissen, was für Personas du erstellen und wozu du sie nutzen möchtest. Möchtest du eine erste Idee über mögliche Personas gewinnen oder sehr detaillierte Personas erstellen? 
-Je nach Zielsetzung benötigst du ein anderes Setting und ein anderes Tool.
+
+![image-left][image-1]{: .align-left} 
+**Achtung:**
+Wichtig ist zu wissen, was für Personas du erstellen und wozu du sie nutzen möchtest. 
+Möchtest du eine erste Idee über mögliche Personas gewinnen oder sehr detaillierte Personas erstellen? 
+Je nach Zielsetzung empfiehlt sich ein anderes Setting und ein anderes Tool.
+{: .notice--warning}
 
 Zwischen einem 20-minütigen Teamworkshop und einem eigenen Projekt zur Personaerstellung ist alles möglich. 
 
@@ -113,7 +128,7 @@ die Persona als echten Kunden wahrzunehmen.
 
 ![image-left][image-3]{: .align-left}
 **Suchhinweis:**
-Eine kurze Zusammenfassung zu Personas und ein eigenes Template findest du auf der [Website von Roman Pichler.](https://www.romanpichler.com/tools/the-persona-template)
+Eine kurze Zusammenfassung zu Personas und ein schlichtes Template findest du auf der [Website von Roman Pichler.](https://www.romanpichler.com/tools/the-persona-template)
 {: .notice--primary}
 
 
@@ -138,7 +153,13 @@ Eine kurze Zusammenfassung zu Personas und ein eigenes Template findest du auf d
 
 [3]: https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-5/47469-aufgabenforum-von-der-idee-zur-persona
 
-[image-1]:	(/assets/images/read-light-idea.png)
+[image-1]:	/assets/images/flag-warning.png
+[image-2]:	/assets/images/read-light-idea.png
+[image-3]:	/assets/images/read-search.png
+[image-4]:	/assets/images/lab-flask-experiment.png
+[image-5]:	/assets/images/audio-book-headphones-person.png
+[image-6]:	/assets/images/e-learning-book-laptop.png
+[image-7]:	/assets/images/library.png
 
 
 
