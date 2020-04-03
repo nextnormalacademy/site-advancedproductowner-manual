@@ -89,8 +89,8 @@ Wie detailliert du sie ausgestaltest hängt von deiner Zielsetzung ab. Und davon
 
 ![image-left][image-4]{: .align-left}
 **Experiment:**
-Eine beliebte Methode, um die Persona in der alltäglichen Arbeit nicht in Vergessenheit geraten zu lassen ist die Gestaltung von Pappaufstellern oder Persona Sedcards, 
-die physisch und gut sichtbar in der Nähe deines Entwicklungsteams positioniert werden. Probier es am besten selbst aus!
+Eine beliebte Methode, um die Persona in der alltäglichen Arbeit nicht in Vergessenheit geraten zu lassen, ist die Gestaltung von Pappaufstellern oder Persona Sedcards. 
+Diese kannst du gut sichtbar in der Nähe deines Entwicklungsteams platzieren. Probier es am besten selbst aus!
 {: .notice--primary}
 
 
