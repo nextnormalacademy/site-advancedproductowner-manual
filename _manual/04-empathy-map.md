@@ -5,13 +5,21 @@ excerpt: “Lorem ipsum”
 toc: true
 ---
  
-Die Empathy Map hilft dir dabei, ein tiefgehendes Verständnis für die Bedürfnisse und Motivationen deiner Kunden zu entwickeln. 
+Die Empathy Map hilft dir dabei, ein tiefgehendes Verständnis für deine Kunden zu entwickeln. 
 Dabei stehen deren Emotionen und Gedanken im Vordergrund. So kannst du dein Produkt durch die Brille deiner Kunden erleben.
 
 ## Ziel 
-Je besser dein Verständnis für deine Kunden, desto eher kannst du deren Erwartungen an dein Produkt berücksichtigen. 
-Damit ist weit mehr als nur das Nachvollziehen von Kundendaten gemeint, sondern vielmehr das emotionale Hineinversetzen in deine Kunden. 
-Entdecke ihre Wünsche und Bedürfnisse und baue eine emotionale Beziehung zu ihnen auf: mit der Empathy Map.
+Je besser dein Verständnis für deine Kunden, desto eher wird dein Produkt ihre Erwartungen und Bedürfnisse befriedigen.
+
+![image-left][image-1]{: .align-left} 
+**Achtung:**
+Beim Kundenverständnis geht es um weit mehr, als das reine Interpretieren von Kundendaten. 
+Vielmehr sollst du dich anhand konkretenr Situationen in deine Kunden hineinversetzen. 
+So dass du ihre Gedanken und Emotionen nachvollziehen kannst.
+{: .notice--warning}
+
+Entdecke Wünsche, Ängste und Gedanken deiner Kunden. Baue eine emotionale Beziehung zu ihnen auf und berücksichtige sie bei der Produktentwicklung.
+
 
 ## Geschichte 
 Die Empathy Map ist eine Methode aus dem Human-centered Design. 
@@ -46,6 +54,12 @@ hier in deine Map einfließen.
 
 Macht euch im Team Gedanken zu diesen Fragen. Ihr erhaltet so tieferes und vor allem gemeinsames Verständnis über eure Kunden.
 
+![image-left][image-3]{: .align-left}
+**Suchhinweis:**
+Wenn du mehr über Bedürfnisse erfahren möchtest, informiere dich über die Bedürfnispyramide des US-amerikanischen Psychologen Abraham Maslow.
+Ein Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [Needs Before Wants in User Experiences – Maslow and the Hierarchy of Needs] [1] 
+{: .notice--primary}
+
 ## Einsatz
 Prinzipiell kannst du immer beginnen mit Empathy Maps zu arbeiten. 
 Es ist egal ob du dabei bist ein neues Produkt zu planen oder um ein bestehendes Produkt zu verbessern.
@@ -55,12 +69,14 @@ Workshops, Interviews oder Fragebögen bestehender oder potentieller Kunden kön
 Idealerweise nutzt du die Empathy Map bereits zu Beginn des Designprozesses. Auf diese Weise kannst du auch im späteren Projektverkauf immer wieder darauf zurückgegreifen. 
 Du kannst die Empathy Map auch zu einem späteren Zeitpunkt erstellen. Beispielsweise, wenn du neue Teammitglieder bekommen hast und ihnen den Einstieg erleichtern möchtest.
 
-![image-left][image-1]{: .align-left}
-Am besten erarbeitest du die Empathy Map im Team. Achte darauf, dass das Team aus möglichst unterschiedlichen Personen besteht. 
+
+![image-left][image-4]{: .align-left}
+**Experimente:**
+Zur Erstellung einer ersten Empathy Map empfiehlt David Gray einen ca. 20 minütigen Team Workshop. Voraussetzung ist, dass euch eure Kundengruppe zumindest grob bekannt ist. 
+Achte darauf, dass das Team aus Personen mit unterschiedlichen Hintergründen besteht. 
 Damit erhaltet ihr ein breites Spektrum verschiedener Sichtweisen.
 {: .notice--primary}
 
-Zur Erstellung einer ersten Empathy Map empfiehlt David Gray einen ca. 20 minütigen Team Workshop. Voraussetzung ist, dass euch eure Kundengruppe zumindest grob bekannt ist. 
 Kläre zu Beginn des Workshops den Kontext, in dem sich die Kundengruppe befindet. Bringt, falls vorhanden, bereits erstelle Personas und anderen Input mit.
 Dann macht ihr euch im Team Gedanken zu den Fragen der Empahty Map, diskutiert und findet gemeinsam Antworten. 
 Neue Erkenntnisse aus der Emapthy Map kannst du wiederum in deine Personas zurück fließen zu lassen.
@@ -88,7 +104,7 @@ Am besten informierst du dich vor der ersten Empathy Map, welches Tool eure indi
 * Welche Vor- und Nachzüge kannst Du in unterschiedlichen Projektkontexten erwarten?
 
 ## Diskussionen
-[Hier geht es zur den Diskussionen][1] über *Empathy Maps* auf dem oncampus.
+[Hier geht es zur den Diskussionen][2] über *Empathy Maps* auf dem oncampus.
 
 ## Quellen, Links und Hinweise
 * [Updated Empathy Map Canvas](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a)
@@ -96,7 +112,14 @@ Am besten informierst du dich vor der ersten Empathy Map, welches Tool eure indi
 * [Vizzlo Empathy Map](https://vizzlo.com/create/empathy-map?utm_source=google&utm_medium=cpc&utm_campaign=campaignid:1784775755,adgroupid:67984869103,campaignname:Dynamic&utm_term=&utm_content=placement:,adposition:,comment:&gclid=CjwKCAjw95D0BRBFEiwAcO1KDGZXL90drkpzwp-MnRaQlEqG3aM8AqUdjL2P9wyL-eN22SrnDFPwWBoCSWIQAvD_BwE)
 * [Empathy Map auf Miro](https://miro.com/templates/empathy-map/)
 
-[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47434-handbuch-empathy-map "oncampus Forum zur Empathy Map"
+[2]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47434-handbuch-empathy-map "oncampus Forum zur Empathy Map"
+[1]:	https://www.interaction-design.org/literature/article/needs-before-wants-in-user-experiences-maslow-and-the-hierarchy-of-needs
 
-[image-1]:	/assets/images/read-light-idea.png
+[image-1]:	/assets/images/flag-warning.png
+[image-2]:	/assets/images/read-light-idea.png
+[image-3]:	/assets/images/read-search.png
+[image-4]:	/assets/images/lab-flask-experiment.png
+[image-5]:	/assets/images/audio-book-headphones-person.png
+[image-6]:	/assets/images/e-learning-book-laptop.png
+[image-7]:	/assets/images/library.png
 
