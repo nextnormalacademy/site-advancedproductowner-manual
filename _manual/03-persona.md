@@ -143,7 +143,7 @@ Eine kurze Zusammenfassung zu Personas und ein schlichtes Template findest du au
 
 ## Quellen, Links und Hinweise
 * [Personas for Concepts](https://challenges.openideo.com/blog/personas-for-concepts)
-* [Persona Template](https://www.romanpichler.com/tools/the-persona-template)
+* [Roman Picher Persona Template][4]
 * [Persona Beispiel](https://www.romanpichler.com/blog/persona-template-for-agile-product-management/)
 * [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/)
 * [Templates für unterschiedliche Typen von Persona](https://xtensio.com/user-persona/)
@@ -153,6 +153,7 @@ Eine kurze Zusammenfassung zu Personas und ein schlichtes Template findest du au
 [2]: * [Persona Creator Hub](https://www.hubspot.de/make-my-persona)
 
 [3]: https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-5/47469-aufgabenforum-von-der-idee-zur-persona
+[4]: /assets/downloads/Persona-Template_Roman_Pichler.pdf
 
 [image-1]:	/assets/images/flag-warning.png
 [image-2]:	/assets/images/read-light-idea.png
@@ -161,6 +162,8 @@ Eine kurze Zusammenfassung zu Personas und ein schlichtes Template findest du au
 [image-5]:	/assets/images/audio-book-headphones-person.png
 [image-6]:	/assets/images/e-learning-book-laptop.png
 [image-7]:	/assets/images/library.png
+
+
 
 
 
