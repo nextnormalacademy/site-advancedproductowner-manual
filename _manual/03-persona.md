@@ -88,6 +88,7 @@ Erstelle dir deine Wunsch-Personas! Wer sind sie und warum nutzen sie dein Produ
 
 Du kannst Personas auch nutzen, wenn du ein bestehendes Produkt verbessern möchtest. Feedback von Kunden hilft dir dabei, deine Personas weiterzuentwickeln. 
 Damit kannst du deine Annahmen über deine Personas bestätigen oder revidieren. Sie werden dir in jedem Fall dabei helfen, die Wünsche an dein Produkt besser zu verstehen. 
+
 In einem meiner Kundenprojekte war die Persona Michael so present im Entwicklungsteam, dass es völlig normal war, wenn Michaels Meinung in Diskussionen einfloss: 
 „Das wird Michael nicht gefallen“. Und so kam es, dass unser Grießgram Michael zwar nicht sehr belieb, aber umso hilfreicher im Entscheidungsprozess war.
 
