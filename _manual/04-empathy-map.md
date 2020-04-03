@@ -14,7 +14,7 @@ Je besser dein Verständnis für deine Kunden, desto eher wird dein Produkt ihre
 ![image-left][image-1]{: .align-left} 
 **Achtung:**
 Beim Kundenverständnis geht es um weit mehr, als das reine Interpretieren von Kundendaten. 
-Vielmehr sollst du dich anhand konkretenr Situationen in deine Kunden hineinversetzen. 
+Vielmehr sollst du dich anhand konkretenr Situationen in deine Kunden hineinversetzen können. 
 So dass du ihre Gedanken und Emotionen nachvollziehen kannst.
 {: .notice--warning}
 
@@ -57,7 +57,7 @@ Macht euch im Team Gedanken zu diesen Fragen. Ihr erhaltet so tieferes und vor a
 ![image-left][image-3]{: .align-left}
 **Suchhinweis:**
 Wenn du mehr über Bedürfnisse erfahren möchtest, informiere dich über die Bedürfnispyramide des US-amerikanischen Psychologen Abraham Maslow.
-Ein Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [Needs Before Wants in User Experiences – Maslow and the Hierarchy of Needs] [1] 
+Ein Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [1] 
 {: .notice--primary}
 
 ## Einsatz
@@ -66,6 +66,7 @@ Es ist egal ob du dabei bist ein neues Produkt zu planen oder um ein bestehendes
 
 Wir empfehlen dir jedoch dir vorher Gedanken über mögliche Kundengruppen gemacht zu haben. So kannst du die Empathy Map nun nutzen, um zum Beispiel bestehende Personas weiter auszubauen.
 Workshops, Interviews oder Fragebögen bestehender oder potentieller Kunden können dir dabei helfen.
+
 Idealerweise nutzt du die Empathy Map bereits zu Beginn des Designprozesses. Auf diese Weise kannst du auch im späteren Projektverkauf immer wieder darauf zurückgegreifen. 
 Du kannst die Empathy Map auch zu einem späteren Zeitpunkt erstellen. Beispielsweise, wenn du neue Teammitglieder bekommen hast und ihnen den Einstieg erleichtern möchtest.
 
@@ -79,6 +80,7 @@ Damit erhaltet ihr ein breites Spektrum verschiedener Sichtweisen.
 
 Kläre zu Beginn des Workshops den Kontext, in dem sich die Kundengruppe befindet. Bringt, falls vorhanden, bereits erstelle Personas und anderen Input mit.
 Dann macht ihr euch im Team Gedanken zu den Fragen der Empahty Map, diskutiert und findet gemeinsam Antworten. 
+
 Neue Erkenntnisse aus der Emapthy Map kannst du wiederum in deine Personas zurück fließen zu lassen.
 
 Diesen Vorgang kannst du im weiteren Projektverlauf nach Belieben wiederholen, ausbauen oder anders gestalten. 
