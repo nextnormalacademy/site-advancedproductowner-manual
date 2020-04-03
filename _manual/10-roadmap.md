@@ -3,6 +3,7 @@ title: Roadmap
 permalink: /roadmap/
 excerpt: “Lorem ipsum”
 toc: true
+published: false
 ---
 
 ## Einführung

@@ -3,6 +3,7 @@ title: Real Options
 permalink: /real-options/
 excerpt: Real Options sind ein Weg, im agile Produktmanagement Entscheidungen zur Priorisierung zu treffen.
 toc: true
+published: false
 ---
 
 Die Real Option Theory ist ein Konzept, mit dem die Idee der Finanzmarktoptionen auf unternehmerische Entscheidungen übertragen wird. Als Product Owner kannst Du Real Options für die Priorisierung von Backlogs verwenden.

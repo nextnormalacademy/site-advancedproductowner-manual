@@ -22,25 +22,33 @@ manual:
       - title: "Business Model"
         url: /business-model/
       - title: "Nutzenmodell"
-        url: /value-model/
+        url: /coming-soon/
+#        url: /value-model/
       - title: "Stakeholder Map"
-        url: /stakeholder-map/
+        url: /coming-soon/
+#        url: /stakeholder-map/
       - title: "Inception Deck"
-        url: /inception-deck/
+        url: /coming-soon/
+#        url: /inception-deck/
       - title: "Roadmap"
-        url: /roadmap/
+        url: /coming-soon/
+#        url: /roadmap/
       - title: "Impact Map"
-        url: /impact-map/
+        url: /coming-soon/
+#        url: /impact-map/
       - title: "Story Map"
-        url: /story-map/
+        url: /coming-soon/
+#        url: /story-map/
       - title: "Product Backlog"
-        url: /product-backlog/
+        url: /coming-soon/
+#        url: /product-backlog/
       - title: "Delivery Kanban"
-        url: /delivery-kanban/
-      - title: "Real Options"
-        url: /real-options/
-      - title: "Backlog of Options"
-        url: /backlog-of-options/
+        url: /coming-soon/
+#        url: /delivery-kanban/
+#      - title: "Real Options"
+#        url: /real-options/
+#      - title: "Backlog of Options"
+#        url: /backlog-of-options/
   - title: Anhang
     children:
       - title: "Lizenz"

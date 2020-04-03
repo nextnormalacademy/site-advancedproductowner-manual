@@ -3,6 +3,7 @@ title: Product Backlog
 permalink: /product-backlog/
 excerpt: “Lorem ipsum”
 toc: true
+published: false
 ---
 
 Das Product Backlog ist laut Scrum Guide „eine geordnete Liste von allem, von dem bekannt ist, dass es im Produkt enthalten sein soll. Es dient als einzige Anforderungsquelle für alle Änderungen am Produkt.“ Das Product Backlog ist demnach keine Ideenliste. Es enthält Maßnahmen für das Produkt, die bereits bewertet wurden. Es ist nie vollständig und wird kontinuierlich mit dem Produkt weiterentwickelt. 
