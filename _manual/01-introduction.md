@@ -60,6 +60,10 @@ Vielleicht interessierst dich für ganz spezielle Fragestellungen - dann spring 
 Alle Zitate heben wir explizit hervor, so dass du sie in den Quellen wiederfinden kannst und weiter in die Tiefe gehen kannst, wenn du möchtest.
 {: .notice--info}
 
+**Downloads:**
+Hier haben wir etwas für dich zum Download bereitgestellt.
+{: .notice--success}
+
 ![image-left][image-1]{: .align-left} 
 **Achtung:**
 Mit dieser Kennzeichnung weisen wir dich auf Fallstricke, Missverständliches und Themen hin, bei denen du aufmerksam arbeiten solltest.
