@@ -3,7 +3,7 @@ title: Value Proposition
 permalink: /value-proposition/
 excerpt: “Lorem ipsum”
 toc: true
-published: true
+
 ---
 
 Bei der Value Proposition handelt es sich um das Werteversprechen, das du deinem Kunden gibst. 
