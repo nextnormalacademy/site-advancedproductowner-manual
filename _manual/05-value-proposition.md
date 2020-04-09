@@ -24,14 +24,14 @@ Verwechsel auf keinen Fall Werbeslogans und Schlagworte mit deiner Value Proposi
 
 ## Geschichte
 
-Eine Methode, um eine Value Proposition zu beschreiben, stellt Alexander Osterwalder in seinem Buch [„Value Proposition Design“] [4]” vor. 
+Eine Methode, um eine Value Proposition zu beschreiben, stellt Alexander Osterwalder in seinem Buch [„Value Proposition Design“][4] vor. 
 
-Das Value Proposition Canvas (VPC) hilft dir dabei, systematisch an deinem Wertversprechen zu arbeiten. 
+Das Value Proposition Canvas hilft dir dabei, systematisch an deinem Wertversprechen zu arbeiten. 
 Im Fokus liegt die Schöpfung von Wert und Nutzen für das ausgewählte Kundensegment.
 
 ## Funktionsweise
 
-{% include figure image_path="/assets/downloads/05-value-proposition-canvas.pdf" alt="Strategyzer’s Value Proposition Canvas“" caption="Strategyzer’s Value Proposition Canvas“" %}
+{% include figure image_path="/assets/images/05-value-proposition-canvas.pdf" alt="Strategyzer’s Value Proposition Canvas" caption="Strategyzer’s Value Proposition Canvas" %}
 
 
 Das Value Proposition Canvas besteht aus zwei Teilen:
@@ -40,7 +40,7 @@ Indem du beide Teile gegenüberstellst, zeigst du auf, welche Inhalte aufeinande
 
 [Dieses Video erklärt das Strategyzer’s Value Proposition Canvas][2]
 
-Durch den Einsatz des Value Proposition Canvas erreicht man einen *"Problem Solution Fit"*. 
+Durch den Einsatz des Value Proposition Canvas erreicht man einen **"Problem Solution Fit"**. 
 Das interessante hierbei ist, dass du diesen Problem Solution Fit beobachten und sogar messen kannst!
 
 Eine explizite Value Proposition hilft dir aber nicht nur in der Kommunikation mit deinen Kunden. 
@@ -82,7 +82,8 @@ Geoffrey Moore schlägt folgende Formel für die Formulierung der Value Proposit
 
 Steve Blank schlägt eine prägnantere Formulierung vor:
 
-*“We help X do Y by doing Z”*. 
+*“We help X do Y by doing Z”*.
+
 Als Template sieht diese wie folgt aus:
 
 * Wir helfen ____________ (Zielkunde)
@@ -93,7 +94,7 @@ Als Template sieht diese wie folgt aus:
 
 Beispiele findest du zahlreich im Netz. Du kannst bei Einstein1.net ein [Value Proposition Canvas für Tesla]( https://www.einstein1.net/value-proposition-canvas/) anschauen: 
  
-{% include figure image_path="/assets/images/05-beispie_value_proposition_canvas.png" alt="Value Proposition Canvas für Tesla by einstein1.net“" caption="Value Proposition Canvas für Tesla by einstein1.net“" %}
+{% include figure image_path="/assets/images/05-beispie_value_proposition_canvas.png" alt="Value Proposition Canvas für Tesla by einstein1.net" caption="Value Proposition Canvas für Tesla by einstein1.net" %}
 
 Beispiel einer ausformulierten Value Proposition: 
  
@@ -102,11 +103,11 @@ Beispiel einer ausformulierten Value Proposition:
 
 ## Tools
 
-Zur Erarbeitung der Value Proposition empfehlen wir das [Strategyzer’s Value Proposition Canvas][3]. Wir haben dir die PDF zum Download zur Verfügung gestellt.
+Zur Erarbeitung der Value Proposition empfehlen wir das [Strategyzer’s Value Proposition Canvas][3].
 
 
 Eine großartige Anpassung des Modells von Osterwalder zeigt Peter J. Thomson. 
-Er hat den VPC um Elemente aus dem Design Thinking und aus der Verhaltenspsychologie angereichert. 
+Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus der Verhaltenspsychologie angereichert. 
 Mit welchem der beiden Varianten du weiterarbeiten möchtest, liegt ganz bei dir.
 https://www.peterjthomson.com/2013/11/value-proposition-canvas/
 
@@ -126,7 +127,7 @@ https://www.peterjthomson.com/2013/11/value-proposition-canvas/
 
 [1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section "oncampus Forum zu Business Model"
 
-[2]:	[Strategyzer’s Value Proposition Canvas Explained](https://vimeo.com/208131526)
+[2]:	https://vimeo.com/208131526
 
 [3]:	[Strategyzer`s Value Proposition Canvas Template] (/assets/downloads/05-value-proposition-canvas.pdf)
 
@@ -134,7 +135,8 @@ https://www.peterjthomson.com/2013/11/value-proposition-canvas/
 
 [5]:	https://www.shopify.de/blog/value-propositions
 
-* [Diehl, Andreas - "Value Proposition Canvas – Dein Leistungsversprechen entwickeln"](https://digitaleneuordnung.de/blog/value-proposition-canvas/)
+*	[Thomson, Peter J. - "Value Proposition Canvas Template"](https://www.peterjthomson.com/2013/11/value-proposition-canvas/)
+*	[Diehl, Andreas - "Value Proposition Canvas – Dein Leistungsversprechen entwickeln"](https://digitaleneuordnung.de/blog/value-proposition-canvas/)
 
 * [Moore, Geoffrey - “Crossing the Chasm”](https://www.amazon.de/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook/dp/B00DB3D81G/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crossing+the+Chasm&qid=1586438825&sr=8-1)
 
