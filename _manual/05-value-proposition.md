@@ -24,17 +24,18 @@ Verwechsel auf keinen Fall Werbeslogans und Schlagworte mit deiner Value Proposi
 
 ## Geschichte
 
-Eine Methode, um eine Value Proposition zu beschreiben, stellt Alexander Osterwalder in seinem Buch [„Value Proposition Design“][4] vor. 
+Eine Methode, um eine Value Proposition zu beschreiben, stellt Alexander Osterwalder in seinem Buch [Value Proposition Design][4] vor. 
 
 Das Value Proposition Canvas hilft dir dabei, systematisch an deinem Wertversprechen zu arbeiten. 
 Im Fokus liegt die Schöpfung von Wert und Nutzen für das ausgewählte Kundensegment.
 
 ## Funktionsweise
 
-{% include figure image_path="/assets/images/05-value-proposition-canvas.pdf" alt="Strategyzer’s Value Proposition Canvas" caption="Strategyzer’s Value Proposition Canvas" %}
+{% include figure image_path="/assets/images/05-value-proposition-canvas.PNG" alt="Strategyzer’s Value Proposition Canvas" caption="Strategyzer’s Value Proposition Canvas" %}
 
 
 Das Value Proposition Canvas besteht aus zwei Teilen:
+
 Auf der rechten Seite das ausgewählte Kundensegment und auf der linken Seite die Value Proposition. 
 Indem du beide Teile gegenüberstellst, zeigst du auf, welche Inhalte aufeinander einzahlen.
 
@@ -106,9 +107,8 @@ Beispiel einer ausformulierten Value Proposition:
 Zur Erarbeitung der Value Proposition empfehlen wir das [Strategyzer’s Value Proposition Canvas][3].
 
 
-Eine großartige Anpassung des Modells von Osterwalder zeigt Peter J. Thomson. 
+Eine Anpassung des Modells von Osterwalder zeigt Peter J. Thomson. 
 Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus der Verhaltenspsychologie angereichert. 
-Mit welchem der beiden Varianten du weiterarbeiten möchtest, liegt ganz bei dir.
 
 
 ## Fragen
@@ -124,9 +124,9 @@ Mit welchem der beiden Varianten du weiterarbeiten möchtest, liegt ganz bei dir
 ## Quellen, Links und Hinweise
 
 
-[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section "oncampus Forum zu Business Model"
+[1]: https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47704 "oncampus Forum zu Value Proposition"
 
-[2]:	https://vimeo.com/208131526
+[2]: https://vimeo.com/208131526
 
 [3]:	[Strategyzer`s Value Proposition Canvas Template] (/assets/downloads/05-value-proposition-canvas.pdf)
 
