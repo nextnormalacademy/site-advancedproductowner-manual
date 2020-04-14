@@ -31,11 +31,7 @@ Im Fokus liegt die Schöpfung von Wert und Nutzen für das ausgewählte Kundense
 
 ## Funktionsweise
 
-{% include figure image_path="/assets/images/05-value-proposition-canvas.PNG" alt="Strategyzer’s Value Proposition Canvas" caption="Strategyzer’s Value Proposition Canvas" %}
-
-
-
-{%	include figure image_path="/assets/images/06-business-model-canvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from Strategyzer.com" %}
+{% include figure image_path="/assets/images/05-value-proposition-canvas.png" alt="Strategyzer’s Value Proposition Canvas" caption="Strategyzer’s Value Proposition Canvas" %}
 
 
 Das Value Proposition Canvas besteht aus zwei Teilen:
@@ -43,7 +39,7 @@ Das Value Proposition Canvas besteht aus zwei Teilen:
 Auf der rechten Seite das ausgewählte Kundensegment und auf der linken Seite die Value Proposition. 
 Indem du beide Teile gegenüberstellst, zeigst du auf, welche Inhalte aufeinander einzahlen.
 
-[Dieses Video erklärt das Strategyzer’s Value Proposition Canvas][2]
+[Dieses Video erklärt das Strategyzer’s Value Proposition Canvas][https://vimeo.com/208131526]
 
 Durch den Einsatz des Value Proposition Canvas erreicht man einen **"Problem Solution Fit"**. 
 Das interessante hierbei ist, dass du diesen Problem Solution Fit beobachten und sogar messen kannst!
@@ -151,34 +147,3 @@ Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus 
 [image-5]:	/assets/images/audio-book-headphones-person.png
 [image-6]:	/assets/images/e-learning-book-laptop.png
 [image-7]:	/assets/images/library.png
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Diskussionen
-
-[Hier geht es zur den Diskussionen][1] über *Value Proposition* auf dem oncampus.
-
-## Quellen, Links und Hinweise
-
-
-[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section "oncampus Forum zu Business Model"
-[2]:	[Strategyzer’s Value Proposition Canvas Explained](https://vimeo.com/208131526)
-[3]:	/assets/downloads/05-value-proposition-canvas.pdf
-
-
-
-[image-1]:	/assets/images/read-light-idea.png
-[image-2]:	/assets/images/read-light-idea.png
-[image-3]:	/assets/images/read-light-idea.png
