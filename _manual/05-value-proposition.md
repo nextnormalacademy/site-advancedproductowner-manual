@@ -125,7 +125,7 @@ Wie das genau aussieht, kannst du dir [hier](https://www.peterjthomson.com/2013/
 ## Quellen, Links und Hinweise
 
 
-[1]: https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section "oncampus Forum zu Value Proposition"
+[1]: https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-8/47755-aufgabenforum-von-der-empathy-map-und-dem-business-model-zur-value-proposition "oncampus Forum zu Value Proposition"
 
 [2]: https://vimeo.com/208131526
 
