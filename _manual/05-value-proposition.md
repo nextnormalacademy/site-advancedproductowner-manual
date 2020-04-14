@@ -39,7 +39,7 @@ Das Value Proposition Canvas besteht aus zwei Teilen:
 Auf der rechten Seite das ausgewählte Kundensegment und auf der linken Seite die Value Proposition. 
 Indem du beide Teile gegenüberstellst, zeigst du auf, welche Inhalte aufeinander einzahlen.
 
-[Dieses Video erklärt das Strategyzer’s Value Proposition Canvas][https://vimeo.com/208131526]
+[Dieses Video erklärt das Strategyzer’s Value Proposition Canvas](https://vimeo.com/208131526)
 
 Durch den Einsatz des Value Proposition Canvas erreicht man einen **"Problem Solution Fit"**. 
 Das interessante hierbei ist, dass du diesen Problem Solution Fit beobachten und sogar messen kannst!
@@ -108,7 +108,8 @@ Zur Erarbeitung der Value Proposition empfehlen wir das [Strategyzer’s Value P
 
 
 Eine Anpassung des Modells von Osterwalder zeigt Peter J. Thomson. 
-Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus der Verhaltenspsychologie angereichert. 
+Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus der Verhaltenspsychologie angereichert.
+Wie das genau aussieht, kannst du dir [hier] (https://www.peterjthomson.com/2013/11/value-proposition-canvas/) ansehen. 
 
 
 ## Fragen
