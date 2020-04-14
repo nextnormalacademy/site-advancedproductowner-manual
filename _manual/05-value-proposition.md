@@ -34,6 +34,10 @@ Im Fokus liegt die Schöpfung von Wert und Nutzen für das ausgewählte Kundense
 {% include figure image_path="/assets/images/05-value-proposition-canvas.PNG" alt="Strategyzer’s Value Proposition Canvas" caption="Strategyzer’s Value Proposition Canvas" %}
 
 
+
+{%	include figure image_path="/assets/images/06-business-model-canvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from Strategyzer.com" %}
+
+
 Das Value Proposition Canvas besteht aus zwei Teilen:
 
 Auf der rechten Seite das ausgewählte Kundensegment und auf der linken Seite die Value Proposition. 
@@ -124,20 +128,20 @@ Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus 
 ## Quellen, Links und Hinweise
 
 
-[1]: https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47704 "oncampus Forum zu Value Proposition"
+[1]: https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section "oncampus Forum zu Value Proposition"
 
 [2]: https://vimeo.com/208131526
 
-[3]:	[Strategyzer`s Value Proposition Canvas Template] (/assets/downloads/05-value-proposition-canvas.pdf)
+[3]: /assets/downloads/05-value-proposition-canvas.pdf
 
-[4]:	[Osterwalter, Alexander et al. - "Value Proposition Design"](https://www.amazon.de/Value-Proposition-Design-Fortsetzung-Bestsellers/dp/359350331X/ref=sr_1_2?dchild=1&keywords=Value+Proposition+Design&qid=1586343609&sr=8-2)
+[4]: https://www.amazon.de/Value-Proposition-Design-Fortsetzung-Bestsellers/dp/359350331X/ref=sr_1_2?dchild=1&keywords=Value+Proposition+Design&qid=1586343609&sr=8-2
 
-[5]:	https://www.shopify.de/blog/value-propositions
+[5]: https://www.shopify.de/blog/value-propositions
 
 *	[Thomson, Peter J. - "Value Proposition Canvas Template"](https://www.peterjthomson.com/2013/11/value-proposition-canvas/)
 *	[Diehl, Andreas - "Value Proposition Canvas – Dein Leistungsversprechen entwickeln"](https://digitaleneuordnung.de/blog/value-proposition-canvas/)
-
-* [Moore, Geoffrey - “Crossing the Chasm”](https://www.amazon.de/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook/dp/B00DB3D81G/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crossing+the+Chasm&qid=1586438825&sr=8-1)
+*	[Moore, Geoffrey - “Crossing the Chasm”](https://www.amazon.de/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook/dp/B00DB3D81G/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crossing+the+Chasm&qid=1586438825&sr=8-1)
+*	[Osterwalter, Alexander et al. - "Value Proposition Design"](https://www.amazon.de/Value-Proposition-Design-Fortsetzung-Bestsellers/dp/359350331X/ref=sr_1_2?dchild=1&keywords=Value+Proposition+Design&qid=1586343609&sr=8-2)
 
 
 [image-1]:	/assets/images/flag-warning.png
