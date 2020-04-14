@@ -109,7 +109,7 @@ Zur Erarbeitung der Value Proposition empfehlen wir das [Strategyzer’s Value P
 
 Eine Anpassung des Modells von Osterwalder zeigt Peter J. Thomson. 
 Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus der Verhaltenspsychologie angereichert.
-Wie das genau aussieht, kannst du dir [hier] (https://www.peterjthomson.com/2013/11/value-proposition-canvas/) ansehen. 
+Wie das genau aussieht, kannst du dir [hier](https://www.peterjthomson.com/2013/11/value-proposition-canvas/) ansehen. 
 
 
 ## Fragen
