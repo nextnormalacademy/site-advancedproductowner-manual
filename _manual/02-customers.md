@@ -8,7 +8,7 @@ toc: true
 Kunden sind die Personen oder Organisationen, die dich mit der Entwicklung deines Produkts oder Services beauftragen.
 
 In den meisten Fällen wird ein Kunde für deine Arbeit bezahlen.
-Das kann in einmalige Form bei Auftragsentwicklungen oder beim Kauf einer App passieren. Es kann aber auch in regelmäßiger Form bei Serviceangeboten oder Abos geschehen.
+Das kann einmalig bei Auftragsentwicklungen oder beim Kauf einer App passieren. Es kann aber regelmäßig, wie bei Serviceangeboten oder Abos, geschehen.
 
 ## Der Kunde im Agilen Manifest
 
@@ -25,20 +25,17 @@ Heisse Anforderungsänderungen selbst spät in der Entwicklung willkommen. Agile
 {: .notice--info}
 
 Mit dem Kunden kannst du also zusammenarbeiten oder Verträge verhandeln.
-Als Product Owner möchtest du ihn unbedingt zufrieden stellen und er steht in einem Wettbewerb.
+Als Product Owner möchtest du ihn unbedingt zufrieden stellen. Der Kunde steht seinerseits in einem Wettbewerb mit anderen Marktteilnehmern.
 
 ## Kunde und Stakeholder
 
-Stakeholder sind alle die Personen oder Institutionen, die Interesse am Verlauf eines Prozesses oder Projektes haben.
+Stakeholder sind alle Personen oder Institutionen, die Interesse am Verlauf eines Prozesses oder Projektes haben.
 Sie haben nicht notwendigerweise Interesse am Ergebnis.
 
-Ob sich dein Produkt gut verkauft, darf dem Betriebsrat formal egal sein.
-Ob du und dein Team sich an die Betriebsvereinbarungen und Arbeitszeitregeln halten, ist dem Stakeholder Betriebsrat aber wichtig.
+Ob sich dein Produkt gut verkauft, ist dem Betriebsrat formal nicht wichtig.
+Ob du und dein Team sich an die Betriebsvereinbarungen und Arbeitszeitregeln halten, ist dem Stakeholder "Betriebsrat" aber wichtig.
 
-Ein anderes Beispiel ist häufig in regulierten Bereichen wie der Medizintechnik oder der Luftfahrt anzutreffen.
-Hier gibt es Stakeholder, die sich dafür interessieren, dass dein Produkt über gewisse Eigenschaften verfügt.
-
-In den beiden oben genannten Bereichen könnten das Sicherheitsaspekte sein.
+In regulierten Bereichen wie der Medizintechnik oder der Luftfahrt gibt es Stakeholder, die sich dafür interessieren, dass dein Produkt über gewisse Eigenschaften verfügt. Das könnten zum Beispiel  Sicherheitsaspekte sein.
 Solche Stakeholder haben ein sekundäres Interesse an deinem Produkt.
 Das bedeutet, dass ihnen dein Produkt eigentlich egal ist, so lange du ihre Interessen berücksichtigst und das nachweisen kannst.
 
@@ -92,10 +89,10 @@ Sind sie unzufrieden oder nicht in der Lage, damit zu arbeiten, musst du als Pro
 Mit großer Wahrscheinlichkeit wirst du für dein Produkt unterschiedliche Gruppen von Benutzern kennenlernen.
 Solche Gruppen können sich unterscheiden hinsichtlich der Häufigkeit und Intensität der Benutzung (Power User), des Nutzungswissens über dein Produkt (Key User) oder auch den Interessen an einzelnen Funktionen, die dein Produkt bereitstellt.
 
-In den Disziplinen des Usability Engineerings und der User Experience haben sich in den letzten Jahren viele Werkzeuge und Methoden etabliert, die dabei helfen.
-Einige davon lernst du in diesem Handbuch kennen, für andere benötigst du Unterstützung durch UX Engineers.
+In den Disziplinen des Usability Engineerings und der User Experience haben sich in den letzten Jahren viele Werkzeuge und Methoden etabliert, die bei der Interaktion mit Benutzern helfen.
+Einige davon lernst du in diesem Handbuch kennen. Für andere benötigst du Unterstützung durch UX Engineers.
 
-Manchmal sind deine Kunden gleichzeitig deine Benutzer
+Manchmal sind deine Kunden gleichzeitig deine Benutzer.
 
 ![image-left][image-5]{: .align-left}
 **Benutzer** sind alle, die aktiv mit deinem Produkt oder Service arbeiten, um einen Nutzen zu erzeugen.
