@@ -25,7 +25,7 @@ Eine Methode, um ein Geschäftsmodell zu beschreiben, stellt Alexander Osterwald
 Das Business Model Canvas eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 {: .notice--primary}
 
-{%	include figure image_path="/assets/images/06-business-model-canvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from Strategyzer.com" %}
+{%	include figure image_path="/assets/images/06-business-model-canvas-basic.jpg" alt="Business Model Canvas released under Creative Commons license from Strategyzer.com" caption="Business Model Canvas released under Creative Commons license from Strategyzer.com" %}
 
 ## Funktionsweise
 
