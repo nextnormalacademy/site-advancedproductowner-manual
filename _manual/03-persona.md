@@ -10,12 +10,12 @@ Personas helfen dir dabei deine Kunden besser zu verstehen und ihre tatsächlich
 ## Ziel
 
 Personas fassen die Charakteristika, Wünsche und Bedürfnisse einer Kundengruppe in Form eines einzelnen Individuums zusammen.
-Sie helfen dir und deinem Entwicklungsteam damit eine engere Beziehung zur Kundengruppe aufzubauen. 
+Sie helfen dir und deinem Entwicklungsteam, eine engere Beziehung zur Kundengruppe aufzubauen. 
 
 Durch diese engere Beziehung kannst du sicherstellen, dass sich die Produktentwicklung möglichst nah an echten Bedürfnissen und Problemen deiner Kunden orientiert.
 
-Wobei dir Personas auch helfen können, ist die Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Kundengruppen.
-So kannst du dir Konflikte vor Augen führen und unterschiedliche Werte bei der weiteren Entwicklung gegeneinander abwägen.
+Auch bei der Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Kundengruppen helfen Personas.
+So kannst du dir Konflikte vor Augen führen und unterschiedliche Interessen bei der weiteren Entwicklung gegeneinander abwägen.
 
 ## Geschichte
 
