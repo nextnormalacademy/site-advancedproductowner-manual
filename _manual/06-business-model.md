@@ -85,7 +85,7 @@ Um dein Produkt zu bauen, brauchst du Geld für Ressourcen, Aktivitäten und die
 Wofür gibst du dein Geld aus? Welche anderen Ausgaben hast du noch?
 
 Die Zahlenfolge zeigt dir, in welcher Reihenfolge du dein Canvas füllen solltest.
-{%	include figure 	image_path="/assets/images/lektion04-BMC-Reihenfolge.png" alt="Reihenfolge zur Bearbeitung des Business Model Canvas nach Alexander Osterwalder" caption="Reihenfolge zur Bearbeitung des Business Model Canvas nach Alexander Osterwalder" %}
+{%	include figure image_path="/assets/images/lektion04-BMC-Reihenfolge.png" alt="Reihenfolge zur Bearbeitung des Business Model Canvas nach Alexander Osterwalder" caption="Reihenfolge zur Bearbeitung des Business Model Canvas nach Alexander Osterwalder" %}
 
 
 Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
