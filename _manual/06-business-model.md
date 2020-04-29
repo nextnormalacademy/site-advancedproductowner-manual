@@ -31,19 +31,19 @@ Das Business Model Canvas eine gemeinsame Sprache zur Beschreibung, Visualisieru
 
 Das Business Model besteht aus neun grundlegenden Geschäftsmodellbausteinen.
 
-**1.	Kunden**
+**1.	Kundensegmente (Customers)**
 
 Zum Glück hast du dir schon ausgiebig Gedanken zu deinen Kunden- und Nutzergruppen gemacht. 
 Wer gehört zur Kunden- und Nutzergruppe? Wen möchtest du mit deinem Produkt glücklich machen?
 
-**2.	Nutzen**
+**2.	Wertangebote (Value Proposition)**
 
 Beschreibe hier was dein Produkt besonders macht. 
 Rufe dir zum Beispiel dein Wertversprechen in Erinnerung. 
 Welchen Mehrwert und/oder Vorteil bietest du deinen Kunden? 
 
 
-**3.	Kanäle**
+**3.	Kanäle (Channels)**
 
 Du kennst mittlerweile deine Kunden.
 Durch die Empathy Map hast du einen Eindruck ihrer Welt bekommen. 
@@ -51,35 +51,35 @@ Wie kannst du am besten in ihre Welt eintauchen?
 Wie machst du auf dein Produkt aufmerksam? Wie motivierst du deine Kunden zur nachhaltigen Interaktion? 
 Wie sieht die Verbindung zwischen Produkt und Kunde aus?
 
-**4.	Kundenbeziehung**
+**4.	Kundenbeziehungen (Customer Relationships)**
 
 Wie das gesamte Business Model können sich auch die einzelnen Bausteine im Laufe der Zeit ändern. 
 Auch Kundenbeziehungen können sich verändern. Daher frage dich, welche Art von Beziehung möchtest du JETZT zu deinen Kunden aufbauen? 
 Hast du zum Beispiel das Ziel einen möglichst großen oder einen möglichst loyalen Kundenstamm aufzubauen?
 
-**5.	Einnahmen**
+**5.	Einnahmequellen (Revenue)**
 
 Du solltest dir überlegen, wie du dich von deinen Kunden bezahlen lassen möchtest. 
 Möchtest du Abos, Rabatte oder Specials anbieten? Wie sieht deine Preispolitik aus? 
 Welche anderen Einnahmen kannst du durch dein Produkt realisieren?
 
-**6.	Ressourcen**
+**6.	Schlüsselressourcen (Key Resources)**
 
 Es gibt vier verschiedene Arten von Ressourcen, 
 die du betrachten solltest: Menschlich, physisch, geistig und finanziell. 
 Auf was musst du zurückgreifen, um den Nutzen deines Prduktes zu realisieren?
 Was ist notwendig, um dein Geschäftsmodell zu betreiben?
 
-**7.	Aktivitäten**
+**7.	Schlüsselaktivitäten (Key Activities)**
 
 Was genau musst du tun, damit dein Produkt funktioniert? Welche Aufgaben gibt es zu erledigen?
 
-**8.	Partner**
+**8.	Schlüsselpartner (Key Partners)**
 
 Dein Produkt existiert in einem Netzwerk aus Partnern. 
 Wen brauchst du, um dein Geschäftsmodell zu betreiben? Wer hilft dir dabei? Auf wen bist du angewiesen?
 
-**9.	Ausgaben**
+**9.	Kostenstruktur (Costs)**
 
 Um dein Produkt zu bauen, brauchst du Geld für Ressourcen, Aktivitäten und die Zusammenarbeit mit Partnern. 
 Wofür gibst du dein Geld aus? Welche anderen Ausgaben hast du noch?
