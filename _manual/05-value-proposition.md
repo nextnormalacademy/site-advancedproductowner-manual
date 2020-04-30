@@ -64,6 +64,9 @@ Jedes Value Proposition Canvas wird für ein ausgewähltes Kundensegment erstell
 Im Laufe des Produktlebenszyklus kannst du dann die einzelnen Produktfeatures auf die Belange deiner Kunden mappen. 
 So erhältst du einen Überblick aller Werte, die dein Produkt für deine unterschiedlichen Kundensegmente erzeugt.
 
+Interessante Einblicke zur Arbeit mit dem Value Proposition Canvas bietet dir dieses Webinar von Strategyzer:
+
+
 Durch das Value Proposition Canvas gewinnst du einen Überblick, was dein Nutzenversprechen beinhalten sollte. 
 Du hast es jedoch noch nicht formuliert. Die Value Proposition auf auf den Punkt zu bringen ist nicht immer einfach.
 
@@ -134,6 +137,8 @@ Wie das genau aussieht, kannst du dir [hier](https://www.peterjthomson.com/2013/
 [4]: https://www.amazon.de/Value-Proposition-Design-Fortsetzung-Bestsellers/dp/359350331X/ref=sr_1_2?dchild=1&keywords=Value+Proposition+Design&qid=1586343609&sr=8-2
 
 [5]: https://www.shopify.de/blog/value-propositions
+
+[6]: https://www.youtube.com/watch?v=r0mtUQnny94
 
 *	[Thomson, Peter J. - "Value Proposition Canvas Template"](https://www.peterjthomson.com/2013/11/value-proposition-canvas/)
 *	[Diehl, Andreas - "Value Proposition Canvas – Dein Leistungsversprechen entwickeln"](https://digitaleneuordnung.de/blog/value-proposition-canvas/)
