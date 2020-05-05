@@ -135,7 +135,8 @@ Als Ergebnis erhält du ein Dashboard deiner Persona.
 Schön hierbei ist, dass das digitale Ergebnis einfach zu bearbeiten und zu teilen ist.
 Allerdings sind die Fragen und damit die Details der Persona nicht individualisierbar und der Comic-Avatar hilft nur bedingt, die Persona als echten Kunden wahrzunehmen.
 
-Eine einfaches Template für Personas von Roman Pichler findest du [hier][3].
+Eine einfaches Template für Personas von Roman Pichler als PDF findest du [hier][3].
+Holger Vornholt war so gut das Template in PPT zu überführen, das findest du [hier][10].
 {: .notice--success}
 
 ## Fragen
@@ -151,9 +152,14 @@ Eine einfaches Template für Personas von Roman Pichler findest du [hier][3].
 
 [Hier geht es zu den Diskussionen][4] über *Personas* auf dem oncampus.
 
+## Downloads
+
+* [Roman Pichler Persona Template als PDF][3]
+* [Holger Vornholt Persona Template als PPT][10]
+
 ## Quellen, Links und Hinweise
 
-* [Roman Pichlers Persona Template][5]
+* [Website von Roman Pichlers zu Personas inklusive Video][5]
 * [Personas for Concepts][6]
 * [Persona Beispiel][7]
 * [Personas Make Users Memorable for Product Team Members][8]
@@ -168,6 +174,7 @@ Eine einfaches Template für Personas von Roman Pichler findest du [hier][3].
 [7]:	https://www.romanpichler.com/blog/persona-template-for-agile-product-management/
 [8]:	https://www.nngroup.com/articles/persona/
 [9]:	https://xtensio.com/user-persona/
+[10]:	/assets/downloads/03-Holger_Vornholt_Persona_Template.pptx
 
 [image-1]:	/assets/images/lab-flask-experiment.png
 [image-2]:	/assets/images/lab-flask-experiment.png
