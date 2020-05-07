@@ -6,7 +6,7 @@ toc: true
 ---
 
 Dein Produkt oder Service erzeugt Wert auf eine bestimmte Art und Weise.
-Diese Art und Weise ist dein zugrundeliegende Geschäfftsmodell. 
+Diese Art und Weise ist dein zugrundeliegende Geschäftsmodell. 
 
 ![image-left][image-1]{: .align-left}
 Dein Geschäftsmodell beschreibt das Grundprinzip, nach welchem dein Produkt Nutzen erzeugt.
@@ -25,7 +25,7 @@ Eine Methode, um ein Geschäftsmodell zu beschreiben, stellt Alexander Osterwald
 Das Business Model Canvas eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 {: .notice--primary}
 
-{%	include figure image_path="/assets/images/06-business-model-canvas-basic.jpg" alt="Business Model Canvas released under Creative Commons license from Strategyzer.com" caption="Business Model Canvas released under Creative Commons license from Strategyzer.com" %}
+{%	include figure image_path="assets/images/06-business-model-canvas-basic.jpg" alt="Business Model Canvas released under Creative Commons license from Strategyzer.com" caption="Business Model Canvas released under Creative Commons license from Strategyzer.com" %}
 
 ## Funktionsweise
 
@@ -92,7 +92,7 @@ Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
 Das Zusammenspiel dieser Bausteine wird in [diesem Video][1] erklärt.
 
-![image-left][image-2]{: .align-left}
+![image-left][image-3]{: .align-left}
 **Wissenswertes:**
 Das Business Model Canvas bietet dir eine gemeinsame Sprache, um mit unterschiedlichen Stakeholdern über dein Geschäftsmodell reden zu können.
 Je nachdem mit wem du über dein Geschäftsmodell sprechen möchtest, 
@@ -145,7 +145,7 @@ Drucke es in A0 aus und vervollständige es mit Post-Its.
 Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an.
 Wenn du in einem Verteilten Team arbeitest helfen dir digitale Templates.
 
-![image-left][image-3]{: .align-left}
+![image-left][image-4]{: .align-left}
 Eine interessante Übung für das Denken in Geschäftsmodellen ist das von Tim Clark, Alexnder Osterwalder und Yves Pigneur entwickelte Buch „Business Model You“.
 In dieser Variante wird die Idee des Geschäftsmodells auf die persönliche Karriere übertragen.
 {: .notice--primary}
@@ -192,3 +192,4 @@ Das Template für das Business Model von Strategyzer findest du [hier][5].
 [image-1]:	/assets/images/read-light-idea.png
 [image-2]:	/assets/images/read-light-idea.png
 [image-3]:	/assets/images/read-light-idea.png
+[image-4]:	/assets/images/read-light-idea.png
