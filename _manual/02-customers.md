@@ -43,7 +43,7 @@ Ob du und dein Team sich an die Betriebsvereinbarungen und Arbeitszeitregeln hal
 
 In regulierten Bereichen wie der Medizintechnik oder der Luftfahrt hast du mit Stakeholdern zu tun, die sich ausschließlich dafür interessieren, dass dein Produkt über gewisse Eigenschaften verfügt.
 Sie können deinem Produkt unter Umständen eine Marktzulassung verweigern, wenn es diese Eigenschaften nicht hat.
-Das eigentliche Produkt ist ihnen völlig egal,  so lange du ihre Interessen berücksichtigst und das nachweisen kannst.
+Das eigentliche Produkt ist ihnen völlig egal, so lange du ihre Interessen berücksichtigst und das nachweisen kannst.
 
 Kunden haben manchmal auch Interesse am Verlauf des Projektes oder der Produktentwicklung, besonders dann, wenn das gemeinsame Vorhaben von einiger Unsicherheit geprägt ist.
 Das primäre Interesse eines Kunden bezieht sich aber auf das Ergebnis, also das Produkt oder den Service.
