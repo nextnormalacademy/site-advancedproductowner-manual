@@ -58,7 +58,8 @@ Vielleicht interessierst du dich für ganz spezielle Fragestellungen - dann spri
 ### Symbole und Hinweise
 
 **Zitate:**
-Alle Zitate heben wir explizit hervor. So kannst du sie in den Quellen wiederfinden und weiter in die Tiefe gehen, wenn du möchtest.
+Alle Zitate heben wir explizit hervor.
+So kannst du sie in den Quellen wiederfinden und weiter in die Tiefe gehen, wenn du möchtest.
 {: .notice--info}
 
 **Downloads:**
