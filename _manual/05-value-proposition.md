@@ -86,13 +86,13 @@ Als Template sieht diese wie folgt aus:
 
 ## Beispiele
 
-Beispiele findest du zahlreich im Netz. Du kannst bei Einstein1.net ein [Value Proposition Canvas für Tesla][2] anschauen: 
+Beispiele findest du zahlreich im Netz. Du kannst bei Einstein1.net ein [Value Proposition Canvas für Tesla][2] anschauen:
  
 {% include figure image_path="/assets/images/05-value-proposition-beispiel-tesla.png" alt="Value Proposition Canvas für Tesla by einstein1.net" caption="Value Proposition Canvas für Tesla by einstein1.net" %}
 
-Beispiel einer ausformulierten Value Proposition: 
- 
-“Uber is the smartest way to get around. One tap and a car comes directly to you. Your driver knows exactly where to go. And payment is completely cashless.”
+Beispiel einer ausformulierten Value Proposition:
+
+*“Uber is the smartest way to get around. One tap and a car comes directly to you. Your driver knows exactly where to go. And payment is completely cashless.”*
 
 ## Tools
 
