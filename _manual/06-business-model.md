@@ -43,7 +43,6 @@ Beschreibe hier was dein Produkt besonders macht.
 Rufe dir zum Beispiel dein Wertversprechen in Erinnerung. 
 Welchen Mehrwert und/oder Vorteil bietest du deinen Kunden? 
 
-
 ### Kanäle (Channels)
 
 Du kennst mittlerweile deine Kunden.
@@ -90,6 +89,8 @@ Wofür gibst du dein Geld aus?
 Welche anderen Ausgaben hast du noch?
 
 Die Reihenfolge zeigt dir, welche Bereiche deines Business Model Canvas du nacheinander füllen solltest.
+
+{%	include figure image_path="/assets/images/lektion04-BMC-Reihenfolge.png" alt="Reihenfolge zur Bearbeitung des Business Model Canvas nach Alexander Osterwalder" caption="Reihenfolge zur Bearbeitung des Business Model Canvas nach Alexander Osterwalder" %}
 
 Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
