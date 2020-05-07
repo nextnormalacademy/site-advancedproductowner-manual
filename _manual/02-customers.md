@@ -8,7 +8,7 @@ toc: true
 Als Product Owner dreht sich für dich alles um den Kunden.
 Die Frage, wer oder was deine Kunden sind, ist aber oft gar nicht so leicht zu beantworten.
 
-Je nach Kontext, kann der  Begriff *Kunde*  verschiedene Bedeutungen haben.
+Je nach Kontext, kann der  Begriff **Kunde**  verschiedene Bedeutungen haben.
 Viele der Methoden und Werkzeuge, die wir im Advanced Product Owner Handbuch vorstellen, verwenden den Begriff ebenfalls nicht einheitlich.
 
 Um den Dschungel der Definitionen etwas zu lichten, wollen wir hier kurz beschreiben, wie wir im Advanced Product Owner Handbuch damit umgehen.
@@ -114,11 +114,11 @@ Auch wenn die Benutzer dein Produkt noch so gut finden, auch wenn du mit den bes
 
 ## Wie verwenden wir den Begriff “Kunde” im Handbuch?
 
-Wir haben uns entschieden, im Advanced Product Owner Handbuch keine eigene Definition des Begriffs *Kunde* zu schaffen.
+Wir haben uns entschieden, im Advanced Product Owner Handbuch keine eigene Definition des Begriffs **Kunde** zu schaffen.
 Wir wollen uns auch nicht auf eine einzige festlegen, weil am Ende der Kontext deines Produkts entscheidend ist.
 
 Wir versuchen bei der Verwendung aller in diesem Kapitel erwähnten Begriffe größtmögliche Konsistenz zu bewahren.
-Allerdings verwenden viele der Werkzeuge  und Methoden, die wir vorstellen, den Begriff *Kunde* relativ unscharf.
+Allerdings verwenden viele der Werkzeuge  und Methoden, die wir vorstellen, den Begriff **Kunde** relativ unscharf.
 Wann immer wir der Ansicht sind, dass eigentlich eine andere Gruppe (Stakeholder, Fachexperten oder Benutzer) gemeint ist, weisen wir darauf hin.
 Wir halten uns aber bei den Beschreibungen der Werkzeuge und Methoden an die etablierten Begriffe im jeweiligen Kontext. 
 
