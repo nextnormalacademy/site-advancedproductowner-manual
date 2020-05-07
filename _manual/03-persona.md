@@ -159,7 +159,7 @@ Holger Vornholt hat das [Template nach Powerpoint][4] übertragen.
 
 ## Quellen, Links und Hinweise
 
-* [Website von Roman Pichlers zu Personas][8]
+* [Website von Roman Pichler zu Personas][8]
 * [Personas for Concepts][9]
 * [Persona Beispiel][10]
 * [Personas Make Users Memorable for Product Team Members][11]
