@@ -10,12 +10,12 @@ Personas helfen dir dabei deine Kunden besser zu verstehen und ihre tatsächlich
 ## Ziel
 
 Personas fassen die Charakteristika, Wünsche und Bedürfnisse einer Kundengruppe in Form eines einzelnen Individuums zusammen.
-Sie helfen dir und deinem Entwicklungsteam damit eine engere Beziehung zur Kundengruppe aufzubauen. 
+Sie helfen dir und deinem Entwicklungsteam, eine engere Beziehung zur Kundengruppe aufzubauen. 
 
 Durch diese engere Beziehung kannst du sicherstellen, dass sich die Produktentwicklung möglichst nah an echten Bedürfnissen und Problemen deiner Kunden orientiert.
 
-Wobei dir Personas auch helfen können, ist die Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Kundengruppen.
-So kannst du dir Konflikte vor Augen führen und unterschiedliche Werte bei der weiteren Entwicklung gegeneinander abwägen.
+Auch bei der Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Kundengruppen helfen Personas.
+So kannst du dir Konflikte vor Augen führen und unterschiedliche Interessen bei der weiteren Entwicklung gegeneinander abwägen.
 
 ## Geschichte
 
@@ -135,7 +135,8 @@ Als Ergebnis erhält du ein Dashboard deiner Persona.
 Schön hierbei ist, dass das digitale Ergebnis einfach zu bearbeiten und zu teilen ist.
 Allerdings sind die Fragen und damit die Details der Persona nicht individualisierbar und der Comic-Avatar hilft nur bedingt, die Persona als echten Kunden wahrzunehmen.
 
-Eine einfaches Template für Personas von Roman Pichler findest du [hier][3].
+Ein einfaches Template für Personas von Roman Pichler als PDF findest du [hier][3].
+Holger Vornholt hat das [Template nach Powerpoint][4] übertragen.
 {: .notice--success}
 
 ## Fragen
@@ -149,25 +150,33 @@ Eine einfaches Template für Personas von Roman Pichler findest du [hier][3].
 
 ## Diskussionen
 
-[Hier geht es zu den Diskussionen][4] über *Personas* auf dem oncampus.
+[Hier geht es zu den Diskussionen][5] über *Personas* auf dem oncampus.
+
+## Downloads
+
+* [Roman Pichlers Persona Template als PDF][6]
+* [Holger Vornholt Version des Persona Template als PPTX][7]
 
 ## Quellen, Links und Hinweise
 
-* [Roman Pichlers Persona Template][5]
-* [Personas for Concepts][6]
-* [Persona Beispiel][7]
-* [Personas Make Users Memorable for Product Team Members][8]
-* [Templates für unterschiedliche Typen von Persona][9]
+* [Website von Roman Pichler zu Personas][8]
+* [Personas for Concepts][9]
+* [Persona Beispiel][10]
+* [Personas Make Users Memorable for Product Team Members][11]
+* [Templates für unterschiedliche Typen von Persona][12]
 
 [1]:	https://www.muuuh.de/hub/consulting/personas-was-ist-das-wie-mache-ich-es-und-worauf-muss-ich-achten "Artikel: Personas - Was ist das, wie mache ich es und worauf muss ich achten?"
 [2]:	https://www.hubspot.de/make-my-persona
 [3]:	/assets/downloads/03-persona-template-roman-pichler.pdf
-[4]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-5/47469-aufgabenforum-von-der-idee-zur-persona
-[5]:	https://www.romanpichler.com/tools/the-persona-template
-[6]:	https://challenges.openideo.com/blog/personas-for-concepts
-[7]:	https://www.romanpichler.com/blog/persona-template-for-agile-product-management/
-[8]:	https://www.nngroup.com/articles/persona/
-[9]:	https://xtensio.com/user-persona/
+[4]:	/assets/downloads/03-persona-template-holger-vornholt.pptx
+[5]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-5/47469-aufgabenforum-von-der-idee-zur-persona
+[6]:	/assets/downloads/03-persona-template-roman-pichler.pdf
+[7]:	/assets/downloads/03-persona-template-holger-vornholt.pptx
+[8]:	https://www.romanpichler.com/tools/the-persona-template
+[9]:	https://challenges.openideo.com/blog/personas-for-concepts
+[10]:	https://www.romanpichler.com/blog/persona-template-for-agile-product-management/
+[11]:	https://www.nngroup.com/articles/persona/
+[12]:	https://xtensio.com/user-persona/
 
 [image-1]:	/assets/images/lab-flask-experiment.png
 [image-2]:	/assets/images/lab-flask-experiment.png

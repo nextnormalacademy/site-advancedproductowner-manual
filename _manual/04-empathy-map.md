@@ -133,22 +133,27 @@ Das Template für die Empathy Map von Dave Gray findest du [hier][4].
 
 [Hier geht es zur den Diskussionen][5] über *Empathy Maps* auf dem oncampus.
 
+## Downloads
+
+* [Das Empathy Map Template von Dave Gray als PDF][6]
+
 ## Quellen, Links und Hinweise
 
-* [Updated Empathy Map Canvas][6]
-* [Empathy Map Template Download][7]
-* [Vizzlo Empathy Map][8]
-* [Empathy Map auf Miro][9]
+* [Updated Empathy Map Canvas][7]
+* [Empathy Map Template Download][8]
+* [Vizzlo Empathy Map][9]
+* [Empathy Map auf Miro][10]
 
 [1]:	https://www.interaction-design.org/literature/article/needs-before-wants-in-user-experiences-maslow-and-the-hierarchy-of-needs
 [2]:	https://miro.com/templates/empathy-map/
 [3]:	https://vizzlo.com/create/empathy-map
 [4]:	/assets/downloads/04-empathy-map-template-dave-gray.pdf
 [5]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47434-handbuch-empathy-map "oncampus Forum zur Empathy Map"
-[6]:	https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a
+[6]:	/assets/downloads/04-empathy-map-template-dave-gray.pdf
 [7]:	https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a
-[8]:	https://vizzlo.com/create/empathy-map
-[9]:	https://miro.com/templates/empathy-map/
+[8]:	https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a
+[9]:	https://vizzlo.com/create/empathy-map
+[10]:	https://miro.com/templates/empathy-map/
 
 [image-1]:	/assets/images/flag-warning.png
 [image-2]:	/assets/images/read-search.png

@@ -6,7 +6,7 @@ toc: true
 ---
 
 Dein Produkt oder Service erzeugt Wert auf eine bestimmte Art und Weise.
-Diese Art und Weise ist dein zugrundeliegende Geschäfftsmodell. 
+Diese Art und Weise ist dein zugrundeliegende Geschäftsmodell. 
 
 ![image-left][image-1]{: .align-left}
 Dein Geschäftsmodell beschreibt das Grundprinzip, nach welchem dein Produkt Nutzen erzeugt.
@@ -25,31 +25,88 @@ Eine Methode, um ein Geschäftsmodell zu beschreiben, stellt Alexander Osterwald
 Das Business Model Canvas eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 {: .notice--primary}
 
-{%	include figure image_path="/assets/images/06-business-model-canvas-basic.jpg" alt="Business Modell Canvas released under Creative Commons license from Strategyzer.com" caption="Business Modell Canvas released under Creative Commons license from Strategyzer.com" %}
+{% include figure image_path="assets/images/06-business-model-canvas-basic.jpg" alt="Business Model Canvas released under Creative Commons license from Strategyzer.com" caption="Business Model Canvas released under Creative Commons license from Strategyzer.com" %}
 
 ## Funktionsweise
 
-Das Business Model besteht aus neun grundlegenden Geschäftsmodellbausteinen:
+Das Business Model besteht aus neun grundlegenden Geschäftsmodellbausteinen.
 
-* Customer Segment (Kundensegmentierung)
-* Value Proposition (Werteversprechen)
-* Channels (Kanäle)
-* Customer Relationship (Kundenbeziehung)
-* Revenue Stream (Einnahmequellen)
-* Key Resources (Schlüsselressourcen)
-* Key Activities (Schlüsselaktivitäten)
-* Key Partnerships (Zentrale Partnerschaften)
-* Cost Structure (Kostenstruktur)
+### Kundensegmente (Customers)
 
-Diese Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
+Zum Glück hast du dir schon ausgiebig Gedanken zu deinen Kunden- und Nutzergruppen gemacht. 
+Wer gehört zur Kunden- und Nutzergruppe?
+Wen möchtest du mit deinem Produkt glücklich machen?
+
+### Wertangebote (Value Proposition)
+
+Beschreibe hier was dein Produkt besonders macht. 
+Rufe dir zum Beispiel dein Wertversprechen in Erinnerung. 
+Welchen Mehrwert und/oder Vorteil bietest du deinen Kunden? 
+
+
+### Kanäle (Channels)
+
+Du kennst mittlerweile deine Kunden.
+Durch die Empathy Map hast du einen Eindruck ihrer Welt bekommen. 
+Wie kannst du am besten in ihre Welt eintauchen? 
+Wie machst du auf dein Produkt aufmerksam? Wie motivierst du deine Kunden zur nachhaltigen Interaktion? 
+Wie sieht die Verbindung zwischen Produkt und Kunde aus?
+
+### Kundenbeziehungen (Customer Relationships)
+
+Wie das gesamte Business Model können sich auch die einzelnen Bausteine im Laufe der Zeit ändern. 
+Auch Kundenbeziehungen können sich verändern.
+Daher frage dich, welche Art von Beziehung möchtest du JETZT zu deinen Kunden aufbauen? 
+Hast du zum Beispiel das Ziel einen möglichst großen oder einen möglichst loyalen Kundenstamm aufzubauen?
+
+### Einnahmequellen (Revenue)
+
+Du solltest dir überlegen, wie du dich von deinen Kunden bezahlen lassen möchtest. 
+Möchtest du Abos, Rabatte oder Specials anbieten?
+Wie sieht deine Preispolitik aus? 
+Welche anderen Einnahmen kannst du durch dein Produkt realisieren?
+
+### Schlüsselressourcen (Key Resources)
+
+Es gibt vier verschiedene Arten von Ressourcen, die du betrachten solltest: Menschlich, physisch, geistig und finanziell.
+Auf was musst du zurückgreifen, um den Nutzen deines Prduktes zu realisieren?
+Was ist notwendig, um dein Geschäftsmodell zu betreiben?
+
+### Schlüsselaktivitäten (Key Activities)
+
+Was genau musst du tun, damit dein Produkt funktioniert?
+Welche Aufgaben gibt es zu erledigen?
+
+### Schlüsselpartner (Key Partners)
+
+Dein Produkt existiert in einem Netzwerk aus Partnern. 
+Wen brauchst du, um dein Geschäftsmodell zu betreiben?
+Wer hilft dir dabei? Auf wen bist du angewiesen?
+
+### Kostenstruktur (Costs)
+
+Um dein Produkt zu bauen, brauchst du Geld für Ressourcen, Aktivitäten und die Zusammenarbeit mit Partnern. 
+Wofür gibst du dein Geld aus?
+Welche anderen Ausgaben hast du noch?
+
+Die Reihenfolge zeigt dir, welche Bereiche deines Business Model Canvas du nacheinander füllen solltest.
+
+Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
 Das Zusammenspiel dieser Bausteine wird in [diesem Video][1] erklärt.
+
+![image-left][image-3]{: .align-left}
+Das Business Model Canvas bietet dir eine gemeinsame Sprache, um mit unterschiedlichen Stakeholdern über dein Geschäftsmodell reden zu können.
+Je nachdem mit wem du über dein Geschäftsmodell sprechen möchtest, kannst du das Canvas an deinem Kontext ausrichten.
+Zum Beispiel kannst du bei Einnahmen und Ausgaben auch nicht monetäre Aspekte aufführen.
+Dazu könnten Anerkennung, Bekanntheit oder neue Kontakte gehören.
+{: .notice--primary}
 
 ## Einsatz
 
 Für die Arbeit mit dem BMC werden fünf Phasen empfohlen:
 
-{% include figure image_path="/assets/images/06-business-model-5-phases.png" alt="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" caption=" Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" %}
+{% include figure image_path="/assets/images/06-business-model-5-phases.png" alt="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" caption="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" %}
 
 ### 1. Mobilisieren
 
@@ -89,8 +146,8 @@ Drucke es in A0 aus und vervollständige es mit Post-Its.
 Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an.
 Wenn du in einem Verteilten Team arbeitest helfen dir digitale Templates.
 
-![image-left][image-3]{: .align-left}
-Eine interessante Übung für das Denken in Geschäftsmodellen ist das von Tim Clark, Alexnder Osterwalder und Yves Pigneur entwickelte Buch „Business Model You“.
+![image-left][image-4]{: .align-left}
+Eine interessante Übung für das Denken in Geschäftsmodellen ist das von Tim Clark, Alexander Osterwalder und Yves Pigneur entwickelte Buch „Business Model You“.
 In dieser Variante wird die Idee des Geschäftsmodells auf die persönliche Karriere übertragen.
 {: .notice--primary}
 
@@ -116,11 +173,15 @@ Das Template für das Business Model von Strategyzer findest du [hier][5].
 
 [Hier geht es zur den Diskussionen][6] über *Business Model* auf dem oncampus.
 
+## Downloads
+
+* [Das Business Model Canvas von Strategyzer als PDF][7]
+
 ## Quellen, Links und Hinweise
 
-* Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas][7]
-* Clark, Tim; Osterwalder, Alexander; Pigneur, Yves:[Business Model You][8]
-* [Hier][9] gibt es eine kostenfreie online Preview des Business Model Generation. Bei Abgabe Deiner Emailadresse kannst du dir die Seiten auch downloaden.
+* Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas][8]
+* Clark, Tim; Osterwalder, Alexander; Pigneur, Yves:[Business Model You][9]
+* [Hier][10] gibt es eine kostenfreie online Preview des Business Model Generation. Bei Abgabe Deiner Emailadresse kannst du dir die Seiten auch downloaden.
 
 
 [1]:	https://vimeo.com/78350794
@@ -129,10 +190,12 @@ Das Template für das Business Model von Strategyzer findest du [hier][5].
 [4]:	https://leanstack.com/business-model-canvas-alternative
 [5]:	/assets/downloads/06-business-model-canvas.pdf
 [6]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model"
-[7]:	https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas
-[8]:	https://businessmodelyou.com
-[9]:	https://www.strategyzer.com/books/business-model-generation
+[7]:	/assets/downloads/04-empathy-map-template-dave-gray.pdf
+[8]:	https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas
+[9]:	https://businessmodelyou.com
+[10]:	https://www.strategyzer.com/books/business-model-generation
 
 [image-1]:	/assets/images/read-light-idea.png
 [image-2]:	/assets/images/read-light-idea.png
 [image-3]:	/assets/images/read-light-idea.png
+[image-4]:	/assets/images/read-light-idea.png
