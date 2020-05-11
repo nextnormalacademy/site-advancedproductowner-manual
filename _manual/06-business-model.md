@@ -91,7 +91,7 @@ Welche anderen Ausgaben hast du noch?
 
 Die Reihenfolge zeigt dir, welche Bereiche deines Business Model Canvas du nacheinander füllen solltest.
 
-{% include figure image_path="/assets/images/06-business-model-canvas_sequence.pdf" alt="Reihenfolge zur Bearbeitung des Business Model Canvas" caption="Reihenfolge zur Bearbeitung des Business Model Canvas" %}
+{% include figure image_path="/assets/images/06-business-model-sequence.png" alt="Reihenfolge zur Bearbeitung des Business Model Canvas" caption="Reihenfolge zur Bearbeitung des Business Model Canvas" %}
 
 Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
