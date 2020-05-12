@@ -9,27 +9,37 @@ Personas helfen dir dabei deine Kunden besser zu verstehen und ihre tatsächlich
 
 ## Ziel
 
-Personas fassen die Charakteristika, Wünsche und Bedürfnisse einer Kunden- oder Nutzergruppe in Form eines einzelnen Individuums zusammen. Sie ermöglichen dir und deinem Entwicklungsteam, eine engere Beziehung zu ihnen aufzubauen.  
+Personas fassen die Charakteristika, Wünsche und Bedürfnisse einer Kunden- oder Nutzergruppe in Form eines einzelnen Individuums zusammen. 
+Sie ermöglichen dir und deinem Entwicklungsteam, eine engere Beziehung zu ihnen aufzubauen.  
 
 Durch diese engere Beziehung stellst du sicher, dass sich die Produktentwicklung nah an echten Bedürfnissen und Problemen deiner Zielgruppe orientiert.
 
-Auch bei der Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Zielgruppen unterstützen Personas. So kannst du dir Konflikte vor Augen führen und unterschiedliche Interessen gegeneinander abwägen. Ein Konflikt kann bspw. zwischen verschiedenen Kundensegmenten oder zwischen Käufern und Nutzern deines Produkts bestehen.
+Auch bei der Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Zielgruppen unterstützen Personas. So kannst du dir Konflikte vor Augen führen und unterschiedliche Interessen gegeneinander abwägen. 
+Ein Konflikt kann bspw. zwischen verschiedenen Kundensegmenten oder zwischen Käufern und Nutzern deines Produkts bestehen.
 
 ## Geschichte
 
 In Rom bezeichneten Personas Theathermasken, die den Schauspielern dazu dienten, sich besser in ihre Rollen einzufinden. 
 
-Zuerst adaptierte das Marketing Personas. Dort wurden und werden auf Basis von Kundendaten Modelle erstellt. Diese Datenmodelle sind mathematisch und für viele Menschen nicht greifbar. Um die Modelle greifbarer zu machen, werden sie als Personas „personalisiert“. Sie beschreiben die Kundengruppen näher und erlauben die Planung gezielter Marketingmaßnahmen.
+Zuerst adaptierte das Marketing Personas. 
+Dort wurden und werden auf Basis von Kundendaten Modelle erstellt. 
+Diese Datenmodelle sind mathematisch und für viele Menschen nicht greifbar. 
+Um die Modelle greifbarer zu machen, werden sie als Personas „personalisiert“. 
+Sie beschreiben die Kundengruppen näher und erlauben die Planung gezielter Marketingmaßnahmen.
 
-In der Softwareentwicklung wurden Personas durch Alan Cooper bekannt. Er gilt als Erfinder der User Personas, wie wir sie heute nutzen.
+In der Softwareentwicklung wurden Personas durch Alan Cooper bekannt. 
+Er gilt als Erfinder der User Personas, wie wir sie heute nutzen.
 
 
-Alan Cooper sagt, er habe schon 1983 seine erste Persona namens „Kathy“ entwickelt. Während der Softwareentwicklung habe Cooper immer wieder fiktive Dialoge mit „Kathy“ gehalten. So identifizierte und priorisierte er die Funktionen seiner Software, die für Kathy besonders wertstiftend waren. [Quelle][1]
+Alan Cooper sagt, er habe schon 1983 seine erste Persona namens „Kathy“ entwickelt. 
+Während der Softwareentwicklung habe Cooper immer wieder fiktive Dialoge mit „Kathy“ gehalten. 
+So identifizierte und priorisierte er die Funktionen seiner Software, die für Kathy besonders wertstiftend waren. [Quelle][1]
 {: .notice--info}
 
 ## Funktionsweise
 
-Beschreibe deine Persona als fiktive Person. Gib ihr konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele, die repräsentativ für deine ausgewählte Kunden- oder Nutzergruppe sind.
+Beschreibe deine Persona als fiktive Person. 
+Gib ihr konkrete Eigenschaften, Wünsche, Herausforderungen und Ziele, die repräsentativ für deine ausgewählte Kunden- oder Nutzergruppe sind.
 
 Hier eine Liste möglicher Eigenschaften für deine Persona:
 
@@ -50,12 +60,15 @@ Deine Persona sollte möglichst **merk**-würdig sein.
 
 Name und Foto können dir im ersten Moment irrelevant erscheinen, doch sie helfen dir und deinem Team die Persona zu verinnerlichen. 
 
-Lege ein besonderes Augenmerk auf Eigenschaften, die im Kontext deines Produktes relevant sind. Konkrete Verhaltensmuster der Persona liefern im Designprozess entscheidende Hinweise. 
+Lege ein besonderes Augenmerk auf Eigenschaften, die im Kontext deines Produktes relevant sind. 
+Konkrete Verhaltensmuster der Persona liefern im Designprozess entscheidende Hinweise. 
 
 Ist deine Persona zum Beispiel detailverliebt, solltest du besondere Informationen über dein Produkt bereitstellen, um die Persona zufriedenzustellen oder zum Kauf zu bewegen. 
 
 ![image-left][image-1]{: .align-left}
-Versuche im Team eine möglichst glaubwürdige und lebensechte Persona zu kreieren. Gebt ihr Eigenschaften, die einen nachhaltigen Eindruck bei euch hinterlassen. Du wirst merken, dass dir die unterschiedlichen Sichtweisen deiner Teammitglieder hierbei sehr helfen. {: .notice--primary}
+Versuche im Team eine möglichst glaubwürdige und lebensechte Persona zu kreieren. 
+Gebt ihr Eigenschaften, die einen nachhaltigen Eindruck bei euch hinterlassen. 
+Du wirst merken, dass dir die unterschiedlichen Sichtweisen deiner Teammitglieder hierbei sehr helfen. {: .notice--primary}
 
 ## Einsatz
 
@@ -63,7 +76,10 @@ Es ist egal ob du dabei bist ein neues Produkt zu planen oder um ein bestehendes
 
 Prinzipiell kannst du zu jeder Zeit beginnen mit Personas zu arbeiten.
 
-Solltest du ein neues Produkt planen und noch keine Informationen über deine potentiellen Kunden- und Nutzergruppen haben, nutze Personas als Hypothesen. Erstelle dir deine Wunsch-Personas! Wer sind sie und warum nutzen sie dein Produkt? Gib ihnen ein Gesicht. Mit Feedback von potentiellen und bestehenden Kunden und Nutzern bestätigst oder revidierst du dann Annahmen über die Persona und entwickelst sie weiter. Du gewinnst dadurch ein besseres Verständnis der Wünsche an dein Produkt.
+Solltest du ein neues Produkt planen und noch keine Informationen über deine potentiellen Kunden- und Nutzergruppen haben, nutze Personas als Hypothesen. Erstelle dir deine Wunsch-Personas! 
+Wer sind sie und warum nutzen sie dein Produkt? Gib ihnen ein Gesicht. 
+Mit Feedback von potentiellen und bestehenden Kunden und Nutzern bestätigst oder revidierst du dann Annahmen über die Persona und entwickelst sie weiter. 
+Du gewinnst dadurch ein besseres Verständnis der Wünsche an dein Produkt.
 
 Auch wenn du ein bestehendes Produkt verbessern möchtest liefern Personas hilfreiche Denkanstöße.
 
