@@ -14,7 +14,8 @@ Sie ermöglichen dir und deinem Entwicklungsteam, eine engere Beziehung zu ihnen
 
 Durch diese engere Beziehung stellst du sicher, dass sich die Produktentwicklung nah an echten Bedürfnissen und Problemen deiner Zielgruppe orientiert.
 
-Auch bei der Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Zielgruppen unterstützen Personas. So kannst du dir Konflikte vor Augen führen und unterschiedliche Interessen gegeneinander abwägen. 
+Auch bei der Auseinandersetzung mit konträren Anforderungen von unterschiedlichen Zielgruppen unterstützen Personas. 
+So kannst du dir Konflikte vor Augen führen und unterschiedliche Interessen gegeneinander abwägen. 
 Ein Konflikt kann bspw. zwischen verschiedenen Kundensegmenten oder zwischen Käufern und Nutzern deines Produkts bestehen.
 
 ## Geschichte
@@ -88,11 +89,14 @@ Feedback von Kunden hilft dir dabei, deine Personas weiterzuentwickeln.
 Damit kannst du deine Annahmen über deine Personas bestätigen oder revidieren.
 Sie werden dir in jedem Fall dabei helfen, die Wünsche an dein Produkt besser zu verstehen. 
 
-In einem meiner Softwareprojekte war die Persona Michael so präsent im Entwicklungsteam, dass es völlig normal war, wenn Michaels Meinung in Diskussionen einfloss: „Das wird Michael nicht gefallen“. Und so kam es, dass unser Griesgram Michael zwar nicht sehr beliebt, aber umso hilfreicher im Entscheidungsprozess war.
+In einem meiner Softwareprojekte war die Persona Michael so präsent im Entwicklungsteam, dass es völlig normal war, wenn Michaels Meinung in Diskussionen einfloss: „Das wird Michael nicht gefallen“. 
+Und so kam es, dass unser Griesgram Michael zwar nicht sehr beliebt, aber umso hilfreicher im Entscheidungsprozess war.
 
-Das Skizzieren eines konkreten Szenarios, in dem ein Zielgruppenvertreter dein Produkt gerne nutzt, kann dir bei der Personabeschreibung helfen. Denke genau darüber nach, wie deine Persona unter bestimmten Bedingungen reagieren wird.
+Das Skizzieren eines konkreten Szenarios, in dem ein Zielgruppenvertreter dein Produkt gerne nutzt, kann dir bei der Personabeschreibung helfen. 
+Denke genau darüber nach, wie deine Persona unter bestimmten Bedingungen reagieren wird.
 
-Wie detailliert du deine Persona ausgestaltest, hängt von deiner Zielsetzung ab. Und davon, wieviel Zeit du dir nehmen möchtest.
+Wie detailliert du deine Persona ausgestaltest, hängt von deiner Zielsetzung ab. 
+Und davon, wieviel Zeit du dir nehmen möchtest.
 
 
 ![image-left][image-2]{: .align-left}
@@ -124,9 +128,12 @@ Je nach Zielsetzung empfiehlt sich ein anderes Setting und ein anderes Tool.
 
 Zwischen einem 20-minütigen Teamworkshop und einem eigenen Projekt zur Personaerstellung ist alles möglich. 
 
-Wir empfehlen dir in jedem Fall mit einem interdisziplinären Team zu arbeiten, das möglichst unterschiedliche Sichtweisen in die Personaerstellung einfließen lässt. Da Personas deine Zielgruppe repräsentieren, solltest du dich um einen Austausch mit Vertretern dieser Zielgruppe bemühen. Personas stellen fiktive Personen dar, basieren aber auf echten Menschen.
+Wir empfehlen dir in jedem Fall mit einem interdisziplinären Team zu arbeiten, das möglichst unterschiedliche Sichtweisen in die Personaerstellung einfließen lässt. 
+Da Personas deine Zielgruppe repräsentieren, solltest du dich um einen Austausch mit Vertretern dieser Zielgruppe bemühen. 
+Personas stellen fiktive Personen dar, basieren aber auf echten Menschen.
 
-Zur analogen Erarbeitung kannst du ein Flipchart oder ein Whiteboard nutzen. Fertige Personas kannst du als Aufsteller oder Poster aufhängen.  
+Zur analogen Erarbeitung kannst du ein Flipchart oder ein Whiteboard nutzen. 
+Fertige Personas kannst du als Aufsteller oder Poster aufhängen.  
 
 Ein Online Tools für die Erstellung einer Persona ist beispielsweise die Plattform [Hubspot "Make my Persona"][2].
 Sie zeichnet sich durch einen Leitfaden aus, der dich durch den Erstellungsprozess führt.
