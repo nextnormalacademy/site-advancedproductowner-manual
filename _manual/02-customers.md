@@ -5,22 +5,13 @@ excerpt: “Differenzierte Betrachtung des Begriffs Kunde, Unterscheidung zu Sta
 toc: true
 ---
 
-Der Begriff *Kunde* kann je nach Kontext verschiedene Bedeutungen haben. Wir gehen im Folgenden auf einige dieser Kontexte und Bedeutungen ein. Im Anschluss formulieren wir das Verständnis des Begriffs, das dem Advanced Product Owner Handbuch zugrunde liegt.
+Als Product Owner dreht sich für dich alles um den Kunden.
+Die Frage, wer oder was deine Kunden sind, ist aber oft gar nicht so leicht zu beantworten.
 
-## Verschiedene Arten von Kunden
-Ein Kunde ist ein Wirtschaftssubjekt, das ein Geschäft mit seinem Geschäftspartner abschließt. Dieses Geschäft kann zum Beispiel der Kauf eines Produktes sein. Es kann sich aber auch um Leasing, Miete, Pacht, Tausch oder um den Bezug einer Dienstleistung handeln. In den meisten Fällen wird ein Kunde für deine Arbeit bezahlen. Das kann einmalig bei Auftragsentwicklungen oder beim Kauf einer App passieren. Es kann aber auch regelmäßig, wie bei Serviceangeboten oder Abos, geschehen.
+Je nach Kontext, kann der  Begriff **Kunde**  verschiedene Bedeutungen haben.
+Viele der Methoden und Werkzeuge, die wir im Advanced Product Owner Handbuch vorstellen, verwenden den Begriff ebenfalls nicht einheitlich.
 
-Aus deutscher zivilrechtlicher Perspektive gibt es keinen *Kunden*. Wirtschaftssubjekte, die eine Leistung oder ein Produkt beziehen, sind *Verbraucher* oder *Unternehmer*. Verbraucher werden häufig auch *Privatkunden* genannt. Sie schließen das Geschäft nicht aus gewerblichen oder beruflich selbständigen Gründen ab. *Unternehmer* werden auch als *Geschäftskunden* bezeichnet. Aus dieser Unterscheidung ergeben sich wiederum Business-to-Business(B2B)- oder Business-to-Customer(B2C)-Beziehungen. 
-
-Auf dem Weg vom Produktanbieter bis zum Endkunden, dem letzten Abnehmer einer Ware oder einer Dienstleistung, kann es je nach Distributionsstrategie verschiedene Beziehungen geben.
-
-{%	include figure image_path="/assets/images/B2B_B2C_Beziehungen.png" alt="B2B- und B2C-Beziehungen" caption="Beispiel für eine Konstellation von B2B- und B2C-Beziehungen" %}
-
-Die Händler zwischen dem Produkthersteller und dem Endkunden sind hier Absatzmittler.
-
-Darüber hinaus kann es auch Business-to--Administration-Beziehungen bei Geschäften mit der öffentlichen Verwaltung oder Consumer-to-Consumer-Beziehungen bei Geschäften zwischen Verbrauchern geben. 
-
-Hat ein Wirtschaftssubjekt vorerst lediglich die Absicht zum Geschäftsabschluss, handelt es sich um einen potenziellen Kunden.
+Um den Dschungel der Definitionen etwas zu lichten, wollen wir hier kurz beschreiben, wie wir im Advanced Product Owner Handbuch damit umgehen.
 
 ## Der Kunde im Agilen Manifest
 
@@ -37,24 +28,29 @@ Heisse Anforderungsänderungen selbst spät in der Entwicklung willkommen. Agile
 {: .notice--info}
 
 Mit dem Kunden kannst du also zusammenarbeiten oder Verträge verhandeln.
-Als Product Owner möchtest du ihn unbedingt zufrieden stellen. Der Kunde steht seinerseits in einem Wettbewerb mit anderen Marktteilnehmern.
+Als Product Owner möchtest du ihn unbedingt zufrieden stellen.
+Der Kunde steht seinerseits in einem Wettbewerb mit anderen Marktteilnehmern.
 
 ## Kunde und Stakeholder
 
-Wie beim Begriff des Kunden gibt es auch beim Begriff des *Stakeholders* unterschiedliche Definitionen. 
+Stakeholder sind alle die Personen oder Institutionen, die entweder am Verlauf oder Ergebnis eines Vorhabens interessiert sind oder dieses Vorhaben beeinflussen können.
+Das Vorhaben kann ein Projekt, ein Prozess oder die Entwicklung deines Produkts sein.
 
-Bei Projekten wird der Begriff mit "Interessengruppen“, „interessierten Parteien“, „Anspruchsberechtigten“ oder „Anspruchsgruppen“ übersetzt. Stakeholder sind somit alle Personen oder Institutionen, die Interesse am Verlauf oder am Ergebnis eines Prozesses oder Projektes haben. 
+Deine Stakeholder sind mit hoher Wahrscheinlichkeit keine homogene Gruppe, sondern haben viele verschiedene Perspektiven.
 
-Es ist möglich, dass Stakeholder lediglich Interesse am Verlauf, nicht aber am Ergebnis haben und vice versa. Ob sich dein Produkt gut verkauft, ist dem Stakeholder „Betriebsrat“ formal nicht wichtig. Ob du und dein Team sich an die Betriebsvereinbarungen und Arbeitszeitregeln halten hingegen schon. 
+Ob sich dein Produkt gut verkauft, darf dem Betriebsrat formal egal sein.
+Ob du und dein Team sich an die Betriebsvereinbarungen und Arbeitszeitregeln halten, ist dem Stakeholder Betriebsrat aber wichtig.
 
-In regulierten Bereichen wie der Medizintechnik oder der Luftfahrt gibt es Stakeholder, die sich dafür interessieren, dass dein Produkt über gewisse Eigenschaften verfügt. Das könnten zum Beispiel Sicherheitsaspekte sein. Solche Stakeholder haben ein sekundäres Interesse an deinem Produkt. Das bedeutet, dass ihnen dein Produkt eigentlich egal ist, so lange du ihre Interessen berücksichtigst und das nachweisen kannst.
+In regulierten Bereichen wie der Medizintechnik oder der Luftfahrt hast du mit Stakeholdern zu tun, die sich ausschließlich dafür interessieren, dass dein Produkt über gewisse Eigenschaften verfügt.
+Sie können deinem Produkt unter Umständen eine Marktzulassung verweigern, wenn es diese Eigenschaften nicht hat.
+Das eigentliche Produkt ist ihnen völlig egal, so lange du ihre Interessen berücksichtigst und das nachweisen kannst.
 
-Kunden haben manchmal auch Interesse am Verlauf des Projektes oder der Produktentwicklung, besonders dann, wenn das gemeinsame Vorhaben von einiger Unsicherheit geprägt ist. Das primäre Interesse eines Kunden bezieht sich aber auf das Ergebnis, also das Produkt oder den Service.
-
-{%	include figure image_path="/assets/images/Beziehung_Stakeholder_Kunden.png" alt="Beziehungen der Gruppen Stakeholder und Kunden" caption="Kunden sind eine Teilmenge von Stakeholdern" %}
+Kunden haben manchmal auch Interesse am Verlauf des Projektes oder der Produktentwicklung, besonders dann, wenn das gemeinsame Vorhaben von einiger Unsicherheit geprägt ist.
+Das primäre Interesse eines Kunden bezieht sich aber auf das Ergebnis, also das Produkt oder den Service.
 
 ![image-left][image-1]{: .align-left} 
-Die beiden Gruppen „Stakeholder“ und „Kunden“ sind nicht identisch. Kunden sind eine Art von Stakeholdern.
+Nicht alle Stakeholder sind Kunden, aber alle deine Kunden sind Stakeholder.
+Um mit deinem Produkt erfolgreich zu sein, reicht es nicht, nur deine Kunden zu kennen - du musst auch wissen, wer deine Stakeholder sind.
 {: .notice--warning}
 
 ![image-left][image-2]{: .align-left}
@@ -86,7 +82,8 @@ Benutzer sind Personen, die mit deinem Produkt oder Service aktiv arbeiten, um d
 Dieser Nutzen kann persönlicher Natur sein oder auch ein Nutzen für die Organisation, die dem Benutzer die Aufgabe gegeben hat, mit deinem Produkt oder Service zu arbeiten.
 
 ![image-left][image-4]{: .align-left}
-**Benutzer** sollten nicht mit **Anwendern** verwechselt werden.
+**Benutzer** wird häufig mit **Anwender** synonym verwendet.
+Beide Begriffe haben aber insbesondere in der Softwareentwicklung eine unterschiedliche Bedeutung.
 Benutzer sind immer Menschen, Anwender können auch ganze Organisationen sein.
 Die Perspektive von Anwendern wird üblicherweise von Kunden und Fachexperten vertreten.
 {: .notice--warning}
@@ -99,7 +96,8 @@ Mit großer Wahrscheinlichkeit wirst du für dein Produkt unterschiedliche Grupp
 Solche Gruppen können sich unterscheiden hinsichtlich der Häufigkeit und Intensität der Benutzung (Power User), des Nutzungswissens über dein Produkt (Key User) oder auch den Interessen an einzelnen Funktionen, die dein Produkt bereitstellt.
 
 In den Disziplinen des Usability Engineerings und der User Experience haben sich in den letzten Jahren viele Werkzeuge und Methoden etabliert, die bei der Interaktion mit Benutzern helfen.
-Einige davon lernst du in diesem Handbuch kennen. Für andere benötigst du Unterstützung durch UX Engineers.
+Einige davon lernst du in diesem Handbuch kennen.
+Für andere benötigst du Unterstützung durch UX Engineers.
 
 Manchmal sind deine Kunden gleichzeitig deine Benutzer.
 
@@ -112,16 +110,15 @@ Sie sind es, die im Usability Engineering, im User Experience Design und in Usab
 
 In jedem Fall ist ein Kunde jemand, der eine Kosten/Nutzen-Abwägung bezüglich deines Produktes oder Services trifft.
 Kunden sind es, mit denen du Verträge schließt und deren wirtschaftliches Interesse du im Auge behalten musst.
-Auch wenn die Benutzer dein Produkt noch so gut finden, auch wenn du mit den besten Fachexperten gearbeitet hast: der Erfolg deines Produktes wird dadurch entschieden, dass Kunden bereit sind, dafür zu bezahlen. Der Endkunde als letzter Abnehmer hat eine hohe Bedeutung.
+Auch wenn die Benutzer dein Produkt noch so gut finden, auch wenn du mit den besten Fachexperten gearbeitet hast: der Erfolg deines Produktes wird dadurch entschieden, dass Kunden bereit sind, dafür zu bezahlen.
 
 ## Wie verwenden wir den Begriff “Kunde” im Handbuch?
 
-Wir folgen der Definition 
+Wir haben uns entschieden, im Advanced Product Owner Handbuch keine eigene Definition des Begriffs **Kunde** zu schaffen.
+Wir wollen uns auch nicht auf eine einzige festlegen, weil am Ende der Kontext deines Produkts entscheidend ist.
 
-**„Ein Kunde ist ein Wirtschaftssubjekt, das ein Geschäft mit seinem Geschäftspartner abschließt.“**
-
-Wir versuchen bei der Verwendung größtmögliche Konsistenz zu bewahren.
-Allerdings verwenden viele der Werkzeuge  und Methoden, die wir vorstellen, den Begriff *Kunde* relativ unscharf.
+Wir versuchen bei der Verwendung aller in diesem Kapitel erwähnten Begriffe größtmögliche Konsistenz zu bewahren.
+Allerdings verwenden viele der Werkzeuge  und Methoden, die wir vorstellen, den Begriff **Kunde** relativ unscharf.
 Wann immer wir der Ansicht sind, dass eigentlich eine andere Gruppe (Stakeholder, Fachexperten oder Benutzer) gemeint ist, weisen wir darauf hin.
 Wir halten uns aber bei den Beschreibungen der Werkzeuge und Methoden an die etablierten Begriffe im jeweiligen Kontext. 
 
@@ -134,7 +131,6 @@ Wir halten uns aber bei den Beschreibungen der Werkzeuge und Methoden an die eta
 * [Wikipedia: Stakeholder][4]
 * [Wikipedia: Experte][5]
 * [Wikipedia: Benutzer][6]
-* [Welt der BWL: Absatzmittler][7]
 
 [1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47702-handbuch-kunden "oncampus Forum zu Kunden"
 [2]:	http://agilemanifesto.org/iso/de/manifesto.html "Das Agile Manifest"
@@ -142,13 +138,9 @@ Wir halten uns aber bei den Beschreibungen der Werkzeuge und Methoden an die eta
 [4]:	https://de.wikipedia.org/wiki/Stakeholder
 [5]:	https://de.wikipedia.org/wiki/Experte
 [6]:	https://de.wikipedia.org/wiki/Benutzer
-[7]:	https://welt-der-bwl.de/Absatzmittler
 
-
-[image-1]:	/assets/images/B2B_B2C_Beziehungen.png
-[image-2]:	/assets/images/Beziehung_Stakeholder_Kunden.png
+[image-1]:	/assets/images/read-light-idea.png
+[image-2]:	/assets/images/flag-warning.png
 [image-3]:	/assets/images/flag-warning.png
 [image-4]:	/assets/images/read-light-idea.png
 [image-5]:	/assets/images/read-light-idea.png
-[image-6]:	/assets/images/flag-warning.png
-[image-7]:	/assets/images/read-light-idea.png
