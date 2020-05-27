@@ -160,8 +160,8 @@ Holger Vornholt war so gut das Template in PPT zu überführen, das findest du [
 
 ## Downloads
 
-* [Roman Pichler Persona Template als PDF][3]
-* [Holger Vornholt Persona Template als PPT][10]
+* [Roman Pichlers Persona Template als PDF][3]
+* [Holger Vornholts Persona Template als PPT][10]
 
 ## Quellen, Links und Hinweise
 
