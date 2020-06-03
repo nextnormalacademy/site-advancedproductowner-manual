@@ -6,84 +6,98 @@ toc: true
 ---
  
 Die Empathy Map hilft dir dabei, ein tiefgehendes Verständnis für deine Kunden zu entwickeln. 
-Dabei stehen deren Emotionen und Gedanken im Vordergrund.
+Dabei geht es um ihre Umwelt, ihre Emotionen, Gedanken und ihr Verhalten.
 So kannst du dein Produkt durch die Brille deiner Kunden erleben.
 
 ## Ziel
 
-Je besser dein Verständnis für deine Kunden, desto eher wird dein Produkt ihre Erwartungen und Bedürfnisse befriedigen.
+Je besser dein Verständnis für deine Kunden, desto eher wird dein Produkt ihre Erwartungen und Bedürfnisse erfüllen.
 
 ![image-left][image-1]{: .align-left} 
-Beim Kundenverständnis geht es um weit mehr, als das reine Interpretieren von Kundendaten. 
-Vielmehr sollst du dich anhand konkreter Situationen in deine Kunden hineinversetzen können, so dass du ihre Gedanken und Emotionen nachvollziehen kannst.
+Beim Kundenverständnis geht es um weit mehr als das reine Interpretieren von Kundendaten. 
+Vielmehr sollst du dich in deine Kunden hineinversetzen können, so dass du ihre Gedanken und Emotionen im Zusammenhang mit deinem Wertangebot nachvollziehen kannst.
 {: .notice--warning}
 
-Entdecke Wünsche, Ängste und Gedanken deiner Kunden. Baue eine emotionale Beziehung zu ihnen auf und berücksichtige sie bei der Produktentwicklung.
+Entdecke Einflüsse, Wünsche, Ängste und Gedanken deiner Kunden. 
+Baue eine emotionale Beziehung zu ihnen auf und berücksichtige sie bei der Entwicklung deines Wertangebots (Value Proposition), der Marketingbotschaften und -kanäle und der Gestaltung der Beziehung zu deinen Kunden (Customer Relationships). 
 
 ## Geschichte
 
 Die Empathy Map ist eine Methode aus dem Human-centered Design. 
-Sie wurde von Autor und Xplane-Gründer Dave Gray als Hilfsmittel entwickelt, um ein tiefes, gemeinsames Verständnis und Einfühlungsvermögen für Kunden zu entwickeln. 
-Sie kann in Workshops bei der Zielgruppenanalyse und bei der Weiterentwicklung von Personas helfen, indem Probleme und Bedürfnisse in konkreten Situationen deiner Kunden aufgedeckt werden.
+Sie wurde von Autor und Xplane-Gründer Dave Gray als Hilfsmittel entwickelt, um ein tiefes, gemeinsames Verständnis und Einfühlungsvermögen für Kunden zu ermöglichen. 
+Sie kann in Workshops bei der Zielgruppenanalyse und bei der Weiterentwicklung von Personas helfen. 
+Die Empathy Map unterstützt dich beim Aufdecken von Problemen und Bedürfnissen deiner Kunden. Du kannst diese visualisieren und mit Stakeholdern diskutieren.
 
 ## Funktionsweise
 
-Die Empathy Map führt dich und dein Team anhand von Leitfragen durch die Umwelt deiner Kunden. 
+Die Empathy Map führt dich und dein Team anhand von Leitfragen durch die Lebenswelt deiner Kunden. 
 
 {%	include figure 	image_path="/assets/images/04-empathy-map-canvas.png" alt="Empathy Map Template entwickelt durch Dave Gray verfügbar auf www.xplane.com" caption="Empathy Map Template entwickelt durch Dave Gray verfügbar auf www.xplane.com" %}
-Beschreibe zunächst die Kundengruppe und das Szenario für die Empathy Map (Frage 1 und 2).
-Danach bearbeite die übrigen Fragen:
+Beschreibe zunächst die Kundengruppe und die Situation, in der sich eine beispielhafte Vertreterin deiner Kundengruppe befindet (Frage 1 und 2). 
+Beschreibe die Situation in Hinblick auf das Produkt, das du entwickelst. Hierbei kann es sich zum Beispiel um eine Kaufentscheidung handeln.
+Diese Informationen schaffen den Kontext für die Beantwortung der weiteren Fragen der Empathy Map.
+Danach bearbeite diese Fragen:
 
 ### Was deine Kundengruppe sieht
 
-Wie sieht ein typischer Tag oder eine spezifische Situation aus der Perspektive deiner Kundengruppe aus?
-Wie sieht der Arbeitsplatz aus, welche Personen trifft sie regelmäßig oder besonders selten?
+Was sieht eine Vertreterin deiner Kundengruppe in ihrer Umwelt?
+Was umgibt sie?
+Mit welchen Angeboten wird sie täglich konfrontiert?
+Wer sind ihre Freunde und wie verhalten sie sich?
+Welche Probleme nimmt sie wahr?
 Auch Informationen und Ressourcen, die deine Kundengruppe wahrnimmt und nutzt, können hier gesammelt werden.
 
 ### Was deine Kundengruppe sagt
 
-Worüber unterhält sich deine Kundengruppe gerne oder ungern?
+Was sagt die Vertreterin der Kundengruppe in der Öffentlichkeit, z.B. in Bezug auf dein Wertangebot oder das der Wettbewerber oder ihre Prioritäten?
+Was erzählt sie vielleicht anderen?
+Worüber unterhält sie sich gerne oder ungern?
 Welche Art von Sprache verwendet sie?
-Wie ändert sich die Sprache in unterschiedlichen Situationen?
+Wie ändert sich ihre Sprache in unterschiedlichen Situationen?
+Achte hierbei auch auf mögliche Konflikte zwischen dem, was sie sagt und dem, was sie wirklich denkt oder tut.
 
 ### Was deine Kundengruppe tut
 
-Was sind typische Handlungen deiner Kundengruppe?
-Gibt es Routinen im Privaten und Beruf?
-Wofür verwendet deine Kundengruppe viel Zeit oder was liegt ihr besonders?
-Dieser Teil der Empathy Map schildert die Außenwirkung deiner Kundengruppe und kann auch enthalten, wie deine Kundengruppe von anderen wahrgenommen wird.
+Wie verhält sich die Vertreterin der Kundengruppe in der Öffentlichkeit?
+Was sind typische Handlungen?
+Wofür wendet sie viel Zeit auf?
+Dieser Teil der Empathy Map schildert die Außenwirkung deiner Kundengruppe und enthält auch, wie sie von anderen wahrgenommen wird.
 
 ### Was deine Kundengruppe hört
 
-Welche akustischen Eindrücke bekommt deine Kundengruppe im Verlauf des Tages oder in einer bestimmten Situation mit?
-Dabei kannn es sich um Straßenlärm oder Gemurmel der Kollegen im Hintergrund handeln.
-Aber auch gezielte Informationen wie Ausschnitte aus Gesprächen oder typische Statements aus dem Umfeld können hier in deine Map einfließen.
+Wie beeinflusst die Umwelt die Vertreterin der Kundengruppe?
+Was sagen ihre Freunde?
+Wer beeinflusst sie wirklich und warum?
+Welche Medien konsumiert sie?
+Gezielte Informationen wie Ausschnitte aus Gesprächen oder typische Statements aus dem Umfeld können hier in deine Map einfließen.
 
 ### Was deine Kundengruppe denkt und fühlt
 
-Mit der letzten Frage kommst zu zum zentralen Feld der Empathy Map.
-Aufbauend auf den Eindrücken aus der Umwelt deine Kundengruppe kannst du nun den Blick auf ihr Inneres richten.
-Dies unterscheidet die Empathy Map im besonderen Maße von Personas, da es in Interviews schwer ist, die inneren Zustände der Probanden abzufragen oder abzuleiten.
+Mit der letzten Frage kommst du zum zentralen Feld der Empathy Map.
+Aufbauend auf den Eindrücken aus der Umwelt deiner Kundengruppe kannst du nun den Blick auf ihr Inneres richten.
+Was sind die Hindernisse, Frustrationen und Ängste der Vertreterin der Kundengruppe in Bezug auf die Erfüllung ihrer Ziele (Frage 2)?
+Was möchte oder muss sie wirklich erreichen? Was sind ihre Hoffnungen, Wünsche und Bedürfnisse?
 
-Macht euch im Team Gedanken zu diesen Fragen. Ihr erhaltet so tieferes und vor allem gemeinsames Verständnis über eure Kunden.
+Macht euch im Team Gedanken zu diesen Fragen. Ihr erhaltet so tieferes und vor allem gemeinsames Verständnis eurer Kunden.
 
 ![image-left][image-2]{: .align-left}
 Wenn du mehr über Bedürfnisse erfahren möchtest, informiere dich über die Bedürfnispyramide des US-amerikanischen Psychologen Abraham Maslow.
-Ein Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [Needs Before Wants in User Experiences – Maslow and the Hierarchy of Needs][1] 
+Einen Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [Needs Before Wants in User Experiences – Maslow and the Hierarchy of Needs][1] 
 {: .notice--primary}
 
 ## Einsatz
 
 Prinzipiell kannst du immer beginnen mit Empathy Maps zu arbeiten. 
-Es ist egal ob du dabei bist ein neues Produkt zu planen oder um ein bestehendes Produkt zu verbessern.
+Es ist egal ob du dabei bist, ein neues Produkt zu planen oder ein bestehendes Produkt zu verbessern.
 
-Wir empfehlen dir jedoch dir vorher Gedanken über mögliche Kundengruppen gemacht zu haben.
-So kannst du die Empathy Map nun nutzen, um zum Beispiel bestehende Personas weiter auszubauen.
+Wir empfehlen dir jedoch, dir vorher Gedanken über mögliche Kundengruppen zu machen.
+Erstelle die Empathy Map für deine wichtigste(n) Kundengruppe(n).
+Du kannst die Empathy Map nutzen, um zum Beispiel bestehende Personas weiter auszubauen.
 Workshops, Interviews oder Fragebögen bestehender oder potentieller Kunden können dir dabei helfen.
 
 Idealerweise nutzt du die Empathy Map bereits zu Beginn des Designprozesses.
-Auf diese Weise kannst du auch im späteren Projektverkauf immer wieder darauf zurückgegreifen.
-Du kannst die Empathy Map auch zu einem späteren Zeitpunkt erstellen.
+Auf diese Weise kannst du auch im späteren Projektverlauf immer wieder darauf zurückgreifen.
+Du kannst die Empathy Map jedoch auch zu einem späteren Zeitpunkt erstellen.
 Beispielsweise, wenn du neue Teammitglieder bekommen hast und ihnen den Einstieg erleichtern möchtest.
 
 ![image-left][image-3]{: .align-left}
@@ -95,12 +109,12 @@ Damit erhaltet ihr ein breites Spektrum verschiedener Sichtweisen.
 
 Kläre zu Beginn des Workshops den Kontext, in dem sich die Kundengruppe befindet.
 Bringt, falls vorhanden, bereits erstelle Personas und anderen Input mit.
-Dann macht ihr euch im Team Gedanken zu den Fragen der Empahty Map, diskutiert und findet gemeinsam Antworten. 
+Dann macht ihr euch im Team Gedanken zu den Fragen der Empathy Map, diskutiert und findet gemeinsam Antworten. 
 
-Neue Erkenntnisse aus der Emapthy Map kannst du wiederum in deine Personas zurück fließen zu lassen.
+Neue Erkenntnisse aus der Empathy Map kannst du wiederum in deine Personas zurück fließen zu lassen.
 
 Diesen Vorgang kannst du im weiteren Projektverlauf nach Belieben wiederholen, ausbauen oder anders gestalten.
-Ein guter Ansatzpunkt wäre zum Beispiel, wenn du neue Erkenntnisse über eine Kundengruppen gewonnen hast.
+Ein guter Zeitpunkt zur Wiederholung wäre zum Beispiel, wenn du neue Erkenntnisse über eine Kundengruppen gewonnen hast.
 
 ## Beispiele
 
@@ -109,7 +123,7 @@ Ein guter Ansatzpunkt wäre zum Beispiel, wenn du neue Erkenntnisse über eine K
 ## Tools
 
 Häufig genutzt wird das Empathy Map Canvas von Dave Gray.
-Die Vorlage kannst du drucken und mit Post-its vervollständigen.
+Die Vorlage kannst du drucken und mit Post-Its vervollständigen.
 Oder du malst die Vorlage direkt auf ein Flipchart.
 Das Ergebnis kannst du anschließend in den Räumlichkeiten deines Entwicklungsteams positionieren.
 
