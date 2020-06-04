@@ -8,7 +8,7 @@ toc: true
 Dein Produkt oder Service erzeugt Wert auf eine bestimmte Art und Weise.
 Diese Art und Weise ist dein zugrundeliegende Geschäftsmodell. 
 
-![image-left][image-1]{: .align-left}
+![image-left](/assets/images/read-light-idea.png){: .align-left}
 Dein Geschäftsmodell beschreibt das Grundprinzip, nach welchem dein Produkt Nutzen erzeugt.
 {: .notice--primary}
 
@@ -21,7 +21,7 @@ Das hilft dir dabei sicherzustellen, dass du alle Facetten berücksichtigt hast 
 
 Eine Methode, um ein Geschäftsmodell zu beschreiben, stellt Alexander Osterwalder in seinem Buch "Business Model Generation" vor.
 
-![image-left][image-2]{: .align-left}
+![image-left](/assets/images/read-light-idea.png){: .align-left}
 Das Business Model Canvas eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 {: .notice--primary}
 
@@ -95,9 +95,9 @@ Die Reihenfolge zeigt dir, welche Bereiche deines Business Model Canvas du nache
 
 Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
-Das Zusammenspiel dieser Bausteine wird in [diesem Video][1] erklärt.
+Das Zusammenspiel dieser Bausteine wird in [diesem Video](https://vimeo.com/78350794) erklärt.
 
-![image-left][image-3]{: .align-left}
+![image-left](/assets/images/read-light-idea.png){: .align-left}
 Das Business Model Canvas bietet dir eine gemeinsame Sprache, um mit unterschiedlichen Stakeholdern über dein Geschäftsmodell reden zu können.
 Je nachdem mit wem du über dein Geschäftsmodell sprechen möchtest, kannst du das Canvas an deinem Kontext ausrichten.
 Zum Beispiel kannst du bei Einnahmen und Ausgaben auch nicht monetäre Aspekte aufführen.
@@ -148,7 +148,7 @@ Drucke es in A0 aus und vervollständige es mit Post-Its.
 Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an.
 Wenn du in einem Verteilten Team arbeitest helfen dir digitale Templates.
 
-![image-left][image-4]{: .align-left}
+![image-left](/assets/images/read-light-idea.png){: .align-left}
 Eine interessante Übung für das Denken in Geschäftsmodellen ist das von Tim Clark, Alexander Osterwalder und Yves Pigneur entwickelte Buch „Business Model You“.
 In dieser Variante wird die Idee des Geschäftsmodells auf die persönliche Karriere übertragen.
 {: .notice--primary}
@@ -156,12 +156,12 @@ In dieser Variante wird die Idee des Geschäftsmodells auf die persönliche Karr
 ## Beispiele
 
 Beispielhafte BMCs für unterschiedliche Unternehmensgrößen sind zahlreich im Netz vertreten.
-Hier findest du beispielsweise [das BMC von IKEA auf der canvanizer Website][2].
+Hier findest du beispielsweise [das BMC von IKEA auf der canvanizer Website](https://canvanizer.com/canvas/1MaI4WS_4Bc).
 
 ## Tools
 
-Das [Strategizer Online Tool][3] bietet dir Möglichkeit das BMC online zu erstellen, speichern und teilen.
-Eine schlankere Variante ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas][4].
+Das [Strategizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet dir Möglichkeit das BMC online zu erstellen, speichern und teilen.
+Eine schlankere Variante ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas](https://leanstack.com/business-model-canvas-alternative).
 
 Das Template für das Business Model von Strategyzer findest du [hier][5].
 {: .notice--success}
@@ -173,31 +173,14 @@ Das Template für das Business Model von Strategyzer findest du [hier][5].
 
 ## Diskussionen
 
-[Hier geht es zur den Diskussionen][6] über *Business Model* auf dem oncampus.
+[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model") über *Business Model* auf dem oncampus.
 
 ## Downloads
 
-* [Das Business Model Canvas von Strategyzer als PDF][7]
+* [Das Business Model Canvas von Strategyzer als PDF](/assets/downloads/06-business-model-canvas.pdf)
 
 ## Quellen, Links und Hinweise
 
-* Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas][8]
-* Clark, Tim; Osterwalder, Alexander; Pigneur, Yves:[Business Model You][9]
-* [Hier][10] gibt es eine kostenfreie online Preview des Business Model Generation. Bei Abgabe Deiner Emailadresse kannst du dir die Seiten auch downloaden.
-
-
-[1]:	https://vimeo.com/78350794
-[2]:	https://canvanizer.com/canvas/1MaI4WS_4Bc
-[3]:	https://canvanizer.com/new/business-model-canvas
-[4]:	https://leanstack.com/business-model-canvas-alternative
-[5]:	/assets/downloads/06-business-model-canvas.pdf
-[6]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model"
-[7]:	/assets/downloads/04-empathy-map-template-dave-gray.pdf
-[8]:	https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas
-[9]:	https://businessmodelyou.com
-[10]:	https://www.strategyzer.com/books/business-model-generation
-
-[image-1]:	/assets/images/read-light-idea.png
-[image-2]:	/assets/images/read-light-idea.png
-[image-3]:	/assets/images/read-light-idea.png
-[image-4]:	/assets/images/read-light-idea.png
+* Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas](https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas)
+* Clark, Tim; Osterwalder, Alexander; Pigneur, Yves:[Business Model You](https://businessmodelyou.com)
+* [Hier](https://www.strategyzer.com/books/business-model-generation) gibt es eine kostenfreie online Preview des Business Model Generation. Bei Abgabe Deiner Emailadresse kannst du dir die Seiten auch downloaden.
