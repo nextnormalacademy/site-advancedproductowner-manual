@@ -96,8 +96,6 @@ Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
 Das Zusammenspiel dieser Bausteine wird in [diesem Video](https://vimeo.com/) erklärt.
 
-{% include video id="78350794" provider="vimeo" %}
-
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Das Business Model Canvas bietet dir eine gemeinsame Sprache, um mit unterschiedlichen Stakeholdern über dein Geschäftsmodell reden zu können.
 Je nachdem mit wem du über dein Geschäftsmodell sprechen möchtest, kannst du das Canvas an deinem Kontext ausrichten.
