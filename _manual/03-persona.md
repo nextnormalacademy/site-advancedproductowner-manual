@@ -33,7 +33,7 @@ Er gilt als Erfinder der User Personas, wie wir sie heute nutzen.
 
 Alan Cooper sagt, er habe schon 1983 seine erste Persona namens „Kathy“ entwickelt.
 Während der Softwareentwicklung habe Cooper immer wieder fiktive Dialoge mit „Kathy“ gehalten.
-So identifizierte und priorisierte er die Funktionen seiner Software, die für Kathy besonders wertstiftend waren. [Quelle][1]
+So identifizierte und priorisierte er die Funktionen seiner Software, die für Kathy besonders wertstiftend waren. [Quelle](https://www.muuuh.de/hub/consulting/personas-was-ist-das-wie-mache-ich-es-und-worauf-muss-ich-achten)
 {: .notice--info}
 
 ## Funktionsweise
@@ -63,7 +63,7 @@ Lege ein besonderes Augenmerk auf Eigenschaften, die im Kontext deines Produktes
 Konkrete Verhaltensmuster der Persona liefern im Designprozess entscheidende Hinweise.
 Ist deine Persona zum Beispiel detailverliebt, solltest du besondere Informationen über dein Produkt bereitstellen, um die Persona zufriedenzustellen oder zum Kauf zu bewegen.
 
-![image-left][image-1]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/lab-flask-experiment.png){: .align-left}
 Versuche im Team eine möglichst glaubwürdige und lebensechte Persona zu kreieren.
 Gebt ihr Eigenschaften, die einen nachhaltigen Eindruck bei euch hinterlassen.
 Du wirst merken, dass dir die unterschiedlichen Sichtweisen deiner Teammitglieder hierbei sehr helfen.
@@ -99,7 +99,7 @@ Denke genau darüber nach, wie deine Persona unter bestimmten Bedingungen reagie
 Wie detailliert du deine Persona ausgestaltest, hängt von deiner Zielsetzung ab.
 Und davon, wieviel Zeit du dir nehmen möchtest.
 
-![image-left][image-2]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/lab-flask-experiment.png){: .align-left}
 Eine beliebte Methode, um die Persona in der alltäglichen Arbeit nicht in Vergessenheit geraten zu lassen, ist die Gestaltung von Pappaufstellern oder Persona Sedcards.
 Diese kannst du gut sichtbar in der Nähe deines Entwicklungsteams platzieren.
 Probier es am besten selbst aus!
@@ -120,7 +120,7 @@ Besonders schön finden wir konkrete Aussagen oder Zitate, die von deiner Person
 
 Es gibt verschiedene Möglichkeiten, um Personas zu erstellen.
 
-![image-left][image-3]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left}
 Wichtig ist zu wissen, was für Personas du erstellen und wozu du sie nutzen möchtest.
 Möchtest du eine erste Idee über mögliche Personas gewinnen oder sehr detaillierte Personas erstellen?
 Je nach Zielsetzung empfiehlt sich ein anderes Setting und ein anderes Tool.
@@ -135,14 +135,14 @@ Personas stellen fiktive Personen dar, basieren aber auf echten Menschen.
 Zur analogen Erarbeitung kannst du ein Flipchart oder ein Whiteboard nutzen.
 Fertige Personas kannst du als Aufsteller oder Poster aufhängen.
 
-Ein Online Tools für die Erstellung einer Persona ist beispielsweise die Plattform [Hubspot "Make my Persona"][2].
+Ein Online Tools für die Erstellung einer Persona ist beispielsweise die Plattform [Hubspot "Make my Persona"](https://www.hubspot.de/make-my-persona).
 Sie zeichnet sich durch einen Leitfaden aus, der dich durch den Erstellungsprozess führt.
 Als Ergebnis erhält du ein Dashboard deiner Persona.
 Schön hierbei ist, dass das digitale Ergebnis einfach zu bearbeiten und zu teilen ist.
 Allerdings sind die Fragen und damit die Details der Persona nicht individualisierbar und der Comic-Avatar hilft nur bedingt, die Persona als echten Kunden wahrzunehmen.
 
-Ein einfaches Template für Personas von Roman Pichler als PDF findest du [hier][3].
-Holger Vornholt hat das [Template nach Powerpoint][4] übertragen.
+Ein einfaches Template für Personas von Roman Pichler als PDF findest du [hier]({{site.baseurl}}/assets/downloads/03-persona-template-roman-pichler.pdf).
+Holger Vornholt hat das [Template nach Powerpoint]({{site.baseurl}}/assets/downloads/03-persona-template-holger-vornholt.pptx) übertragen.
 {: .notice--success}
 
 ## Fragen
@@ -156,34 +156,17 @@ Holger Vornholt hat das [Template nach Powerpoint][4] übertragen.
 
 ## Diskussionen
 
-[Hier geht es zu den Diskussionen][5] über *Personas* auf dem oncampus.
+[Hier geht es zu den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-5/47469-aufgabenforum-von-der-idee-zur-persona) über *Personas* auf dem oncampus.
 
 ## Downloads
 
-* [Roman Pichlers Persona Template als PDF][3]
-* [Holger Vornholts Persona Template als PPT][4]
+* [Roman Pichlers Persona Template als PDF]({{site.baseurl}}/assets/downloads/03-persona-template-roman-pichler.pdf)
+* [Holger Vornholts Persona Template als PPT]({{site.baseurl}}/assets/downloads/03-persona-template-holger-vornholt.pptx)
 
 ## Quellen, Links und Hinweise
 
-* [Website von Roman Pichler zu Personas][8]
-* [Personas for Concepts][9]
-* [Persona Beispiel][10]
-* [Personas Make Users Memorable for Product Team Members][11]
-* [Templates für unterschiedliche Typen von Persona][12]
-
-[1]:	https://www.muuuh.de/hub/consulting/personas-was-ist-das-wie-mache-ich-es-und-worauf-muss-ich-achten "Artikel: Personas - Was ist das, wie mache ich es und worauf muss ich achten?"
-[2]:	https://www.hubspot.de/make-my-persona
-[3]:	/assets/downloads/03-persona-template-roman-pichler.pdf
-[4]:	/assets/downloads/03-persona-template-holger-vornholt.pptx
-[5]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-5/47469-aufgabenforum-von-der-idee-zur-persona
-[6]:	/assets/downloads/03-persona-template-roman-pichler.pdf
-[7]:	/assets/downloads/03-persona-template-holger-vornholt.pptx
-[8]:	https://www.romanpichler.com/tools/the-persona-template
-[9]:	https://challenges.openideo.com/blog/personas-for-concepts
-[10]:	https://www.romanpichler.com/blog/persona-template-for-agile-product-management/
-[11]:	https://www.nngroup.com/articles/persona/
-[12]:	https://xtensio.com/user-persona/
-
-[image-1]:	/assets/images/lab-flask-experiment.png
-[image-2]:	/assets/images/lab-flask-experiment.png
-[image-3]:	/assets/images/flag-warning.png
+* [Website von Roman Pichler zu Personas](https://www.romanpichler.com/tools/the-persona-template)
+* [Personas for Concepts](https://challenges.openideo.com/blog/personas-for-concepts)
+* [Persona Beispiel](https://www.romanpichler.com/blog/persona-template-for-agile-product-management/)
+* [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/)
+* [Templates für unterschiedliche Typen von Persona](https://xtensio.com/user-persona/)

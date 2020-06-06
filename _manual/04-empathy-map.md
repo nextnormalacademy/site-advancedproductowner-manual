@@ -13,7 +13,7 @@ So kannst du dein Produkt durch die Brille deiner Kunden erleben.
 
 Je besser dein Verständnis für deine Kunden, desto eher wird dein Produkt ihre Erwartungen und Bedürfnisse erfüllen.
 
-![image-left](/assets/images/flag-warning.png){: .align-left} 
+![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Beim Kundenverständnis geht es um weit mehr als das reine Interpretieren von Kundendaten. 
 Vielmehr sollst du dich in deine Kunden hineinversetzen können, so dass du ihre Gedanken und Emotionen im Zusammenhang mit deinem Wertangebot nachvollziehen kannst.
 {: .notice--warning}
@@ -84,7 +84,7 @@ Was sind ihre Hoffnungen, Wünsche und Bedürfnisse?
 Macht euch im Team Gedanken zu diesen Fragen.
 Ihr erhaltet so tieferes und vor allem gemeinsames Verständnis eurer Kunden.
 
-![image-left](/assets/images/read-search.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-search.png){: .align-left}
 Wenn du mehr über Bedürfnisse erfahren möchtest, informiere dich über die Bedürfnispyramide des US-amerikanischen Psychologen Abraham Maslow.
 Einen Einstieg gibt dir zum Beispiel die Interaction Design Foundation in ihrem Artikel [Needs Before Wants in User Experiences – Maslow and the Hierarchy of Needs](https://www.interaction-design.org/literature/article/needs-before-wants-in-user-experiences-maslow-and-the-hierarchy-of-needs)
 {: .notice--primary}
@@ -104,7 +104,7 @@ Auf diese Weise kannst du auch im späteren Projektverlauf immer wieder darauf z
 Du kannst die Empathy Map jedoch auch zu einem späteren Zeitpunkt erstellen.
 Beispielsweise, wenn du neue Teammitglieder bekommen hast und ihnen den Einstieg erleichtern möchtest.
 
-![image-left](/assets/images/lab-flask-experiment.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/lab-flask-experiment.png){: .align-left}
 Zur Erstellung einer ersten Empathy Map empfiehlt David Gray einen ca. 20 minütigen Team Workshop.
 Voraussetzung ist, dass euch eure Kundengruppe zumindest grob bekannt ist.
 Achte darauf, dass das Team aus Personen mit unterschiedlichen Hintergründen besteht.
@@ -139,7 +139,7 @@ Auch [Vizzlo](https://vizzlo.com/create/empathy-map) bietet eine online editierb
 
 Am besten informierst du dich vor der ersten Empathy Map, welches Tool eure individuellen Anforderungen am besten erfüllt.
 
-Das Template für die Empathy Map von Dave Gray findest du [hier](/assets/downloads/04-empathy-map-template-dave-gray.pdf).
+Das Template für die Empathy Map von Dave Gray findest du [hier]({{site.baseurl}}/assets/downloads/04-empathy-map-template-dave-gray.pdf).
 {: .notice--success}
 
 ## Fragen
@@ -149,11 +149,11 @@ Das Template für die Empathy Map von Dave Gray findest du [hier](/assets/downlo
 
 ## Diskussionen
 
-[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47434-handbuch-empathy-map "oncampus Forum zur Empathy Map") über *Empathy Maps* auf dem oncampus.
+[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47434-handbuch-empathy-map) über *Empathy Maps* auf dem oncampus.
 
 ## Downloads
 
-* [Das Empathy Map Template von Dave Gray als PDF](/assets/downloads/04-empathy-map-template-dave-gray.pdf)
+* [Das Empathy Map Template von Dave Gray als PDF]({{site.baseurl}}/assets/downloads/04-empathy-map-template-dave-gray.pdf)
 
 ## Quellen, Links und Hinweise
 
