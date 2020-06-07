@@ -48,12 +48,12 @@ Das eigentliche Produkt ist ihnen völlig egal, so lange du ihre Interessen ber�
 Kunden haben manchmal auch Interesse am Verlauf des Projektes oder der Produktentwicklung, besonders dann, wenn das gemeinsame Vorhaben von einiger Unsicherheit geprägt ist.
 Das primäre Interesse eines Kunden bezieht sich aber auf das Ergebnis, also das Produkt oder den Service.
 
-![image-left][image-1]{: .align-left} 
+![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Nicht alle Stakeholder sind Kunden, aber alle deine Kunden sind Stakeholder.
 Um mit deinem Produkt erfolgreich zu sein, reicht es nicht, nur deine Kunden zu kennen - du musst auch wissen, wer deine Stakeholder sind.
 {: .notice--warning}
 
-![image-left][image-2]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 **Stakeholder** haben Interesse an der Entstehung deines Produktes oder am Produkt selbst. Sie können dich dabei unterstützen oder behindern, dein Produkt oder deinen Service erfolgreich zu machen. 
 {: .notice--primary}
 
@@ -70,7 +70,7 @@ Manche deiner Kunden sind gleichzeitig Fachexperten, erwarten solltest du das ab
 Häufig sind die Fachexperten eine kleine Gruppe von Personen, die Interesse an deinem Produkt haben, wenn es um Aspekte wie funktionale Korrektheit, Anwendbarkeit im Arbeitsalltag und die Menge der Funktionalitäten geht.
 Wirtschaftlichkeit darf den Fachexperten egal sein, dafür hat dein Kunde dich.
 
-![image-left][image-3]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 **Fachexperten** sind deine Unterstützer, wenn es um Business Analyse, Requirements Engineering und Akzeptanztests geht.
 Sie geben dir Informationen zu Anforderungen und wertvolles Feedback.
 {: .notice--primary}
@@ -81,7 +81,7 @@ Die dritte Gruppe, die leicht mit Kunden zu verwechseln ist, ist die der Benutze
 Benutzer sind Personen, die mit deinem Produkt oder Service aktiv arbeiten, um damit einen Nutzen zu erzeugen.
 Dieser Nutzen kann persönlicher Natur sein oder auch ein Nutzen für die Organisation, die dem Benutzer die Aufgabe gegeben hat, mit deinem Produkt oder Service zu arbeiten.
 
-![image-left][image-4]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left}
 **Benutzer** wird häufig mit **Anwender** synonym verwendet.
 Beide Begriffe haben aber insbesondere in der Softwareentwicklung eine unterschiedliche Bedeutung.
 Benutzer sind immer Menschen, Anwender können auch ganze Organisationen sein.
@@ -101,7 +101,7 @@ Für andere benötigst du Unterstützung durch UX Engineers.
 
 Manchmal sind deine Kunden gleichzeitig deine Benutzer.
 
-![image-left][image-5]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 **Benutzer** sind alle, die aktiv mit deinem Produkt oder Service arbeiten, um einen Nutzen zu erzeugen.
 Sie sind es, die im Usability Engineering, im User Experience Design und in Usability-Tests im Mittelpunkt stehen.
 {: .notice--primary}
@@ -123,24 +123,11 @@ Wann immer wir der Ansicht sind, dass eigentlich eine andere Gruppe (Stakeholder
 Wir halten uns aber bei den Beschreibungen der Werkzeuge und Methoden an die etablierten Begriffe im jeweiligen Kontext. 
 
 ## Diskussionen
-[Hier geht es zur den Diskussionen][1] über *Kunden* auf dem oncampus.
+[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47702-handbuch-kunden) über *Kunden* auf dem oncampus.
 
 ## Links, Literatur & Quellen
-* [Das Agile Manifest][2]
-* [Wikipedia: Kunde][3]
-* [Wikipedia: Stakeholder][4]
-* [Wikipedia: Experte][5]
-* [Wikipedia: Benutzer][6]
-
-[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47702-handbuch-kunden "oncampus Forum zu Kunden"
-[2]:	http://agilemanifesto.org/iso/de/manifesto.html "Das Agile Manifest"
-[3]:	https://de.wikipedia.org/wiki/Kunde
-[4]:	https://de.wikipedia.org/wiki/Stakeholder
-[5]:	https://de.wikipedia.org/wiki/Experte
-[6]:	https://de.wikipedia.org/wiki/Benutzer
-
-[image-1]:	/assets/images/read-light-idea.png
-[image-2]:	/assets/images/flag-warning.png
-[image-3]:	/assets/images/flag-warning.png
-[image-4]:	/assets/images/read-light-idea.png
-[image-5]:	/assets/images/read-light-idea.png
+* [Das Agile Manifest](http://agilemanifesto.org/iso/de/manifesto.html)
+* [Wikipedia: Kunde](https://de.wikipedia.org/wiki/Kunde)
+* [Wikipedia: Stakeholder](https://de.wikipedia.org/wiki/Stakeholder)
+* [Wikipedia: Experte](https://de.wikipedia.org/wiki/Experte)
+* [Wikipedia: Benutzer](https://de.wikipedia.org/wiki/Benutzer)

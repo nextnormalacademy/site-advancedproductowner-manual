@@ -66,37 +66,37 @@ So kannst du sie in den Quellen wiederfinden und weiter in die Tiefe gehen, wenn
 Hier haben wir etwas für dich zum Download bereitgestellt.
 {: .notice--success}
 
-![image-left][image-1]{: .align-left} 
+![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 **Achtung:**
 Mit dieser Kennzeichnung weisen wir dich auf Fallstricke, Missverständliches und Themen hin, bei denen du aufmerksam arbeiten solltest.
 {: .notice--warning}
 
-![image-left][image-2]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 **Wissenswertes:**
 Diese Hervorhebung beschreibt grundlegendes Wissen oder fasst Abschnitte kurz und knapp zusammen.
 {: .notice--primary}
 
-![image-left][image-3]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-search.png){: .align-left}
 **Suchhinweise:**
 Mit dieser Hervorhebung geben wir dir Tipps, wonach du suchen kannst, um das Thema weiter zu vertiefen.
 {: .notice--primary}
 
-![image-left][image-4]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/lab-flask-experiment.png){: .align-left}
 **Experimente:**
 Hin und wieder beschreiben wir Experimente, die du machen kannst, um Werkzeuge und Methoden auszuprobieren.
 {: .notice--primary}
 
-![image-left][image-5]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/audio-book-headphones-person.png){: .align-left}
 **Zusammengefasst (Podcast):**
 Mit dieser Hervorhebung kennzeichnen wir Zusammenfassungen aus einem Podcast.
 {: .notice--primary}
 
-![image-left][image-6]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/e-learning-book-laptop.png){: .align-left}
 **Zusammengefasst (Website):**
 Mit dieser Hervorhebung kennzeichnen wir Zusammenfassungen von anderen Quellen im Web.
 {: .notice--primary}
 
-![image-left][image-7]{: .align-left}
+![image-left]({{site.baseurl}}/assets/images/library.png){: .align-left}
 **Zusammengefasst (Literatur):**
 Mit dieser Hervorhebung kennzeichnen wir Zusammenfassungen von Büchern oder Artikeln.
 {: .notice--primary}
@@ -116,14 +116,4 @@ Sollte dir etwas auffallen, das wir übersehen haben, sprich uns bitte in unsere
 Zu jedem Kapitel gibt es ein Diskussionsforum in unserem begleitenden MOOC.
 Die Foren sind jeweils am Ende des Kapitels verlinkt.
 
-[Hier geht es zur den Diskussionen][1] zum *Advanced Product Owner Handbuch* auf dem oncampus.
-
-[1]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-allgemeine-diskussionen "oncampus Forum zu Real Options"
-
-[image-1]:	/assets/images/flag-warning.png
-[image-2]:	/assets/images/read-light-idea.png
-[image-3]:	/assets/images/read-search.png
-[image-4]:	/assets/images/lab-flask-experiment.png
-[image-5]:	/assets/images/audio-book-headphones-person.png
-[image-6]:	/assets/images/e-learning-book-laptop.png
-[image-7]:	/assets/images/library.png
+[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-allgemeine-diskussionen) zum *Advanced Product Owner Handbuch* auf dem oncampus.

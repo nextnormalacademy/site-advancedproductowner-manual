@@ -8,7 +8,7 @@ toc: true
 Dein Produkt oder Service erzeugt Wert auf eine bestimmte Art und Weise.
 Diese Art und Weise ist dein zugrundeliegende Geschäftsmodell. 
 
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Dein Geschäftsmodell beschreibt das Grundprinzip, nach welchem dein Produkt Nutzen erzeugt.
 {: .notice--primary}
 
@@ -21,7 +21,7 @@ Das hilft dir dabei sicherzustellen, dass du alle Facetten berücksichtigt hast 
 
 Eine Methode, um ein Geschäftsmodell zu beschreiben, stellt Alexander Osterwalder in seinem Buch "Business Model Generation" vor.
 
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Das Business Model Canvas eine gemeinsame Sprache zur Beschreibung, Visualisierung, Bewertung, Validierung und Veränderung von Geschäftsmodellen.
 {: .notice--primary}
 
@@ -42,7 +42,6 @@ Wen möchtest du mit deinem Produkt glücklich machen?
 Beschreibe hier was dein Produkt besonders macht. 
 Rufe dir zum Beispiel dein Wertversprechen in Erinnerung. 
 Welchen Mehrwert und/oder Vorteil bietest du deinen Kunden? 
-
 
 ### Kanäle (Channels)
 
@@ -95,9 +94,9 @@ Die Reihenfolge zeigt dir, welche Bereiche deines Business Model Canvas du nache
 
 Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
-Das Zusammenspiel dieser Bausteine wird in [diesem Video](https://vimeo.com/78350794) erklärt.
+Das Zusammenspiel dieser Bausteine wird in [diesem Video](https://vimeo.com/) erklärt.
 
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Das Business Model Canvas bietet dir eine gemeinsame Sprache, um mit unterschiedlichen Stakeholdern über dein Geschäftsmodell reden zu können.
 Je nachdem mit wem du über dein Geschäftsmodell sprechen möchtest, kannst du das Canvas an deinem Kontext ausrichten.
 Zum Beispiel kannst du bei Einnahmen und Ausgaben auch nicht monetäre Aspekte aufführen.
@@ -148,7 +147,7 @@ Drucke es in A0 aus und vervollständige es mit Post-Its.
 Besonders in einer analogen Workshopsituation bietet sich dieses Vorgehen an.
 Wenn du in einem Verteilten Team arbeitest helfen dir digitale Templates.
 
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Eine interessante Übung für das Denken in Geschäftsmodellen ist das von Tim Clark, Alexander Osterwalder und Yves Pigneur entwickelte Buch „Business Model You“.
 In dieser Variante wird die Idee des Geschäftsmodells auf die persönliche Karriere übertragen.
 {: .notice--primary}
@@ -163,7 +162,7 @@ Hier findest du beispielsweise [das BMC von IKEA auf der canvanizer Website](htt
 Das [Strategizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet dir Möglichkeit das BMC online zu erstellen, speichern und teilen.
 Eine schlankere Variante ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas](https://leanstack.com/business-model-canvas-alternative).
 
-Das Template für das Business Model von Strategyzer findest du [hier][5].
+Das Template für das Business Model von Strategyzer findest du [hier]({{site.baseurl}}/assets/downloads/06-business-model-canvas.pdf).
 {: .notice--success}
 
 ## Fragen
@@ -173,11 +172,11 @@ Das Template für das Business Model von Strategyzer findest du [hier][5].
 
 ## Diskussionen
 
-[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "oncampus Forum zu Business Model") über *Business Model* auf dem oncampus.
+[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model) über *Business Model* auf dem oncampus.
 
 ## Downloads
 
-* [Das Business Model Canvas von Strategyzer als PDF](/assets/downloads/06-business-model-canvas.pdf)
+* [Das Business Model Canvas von Strategyzer als PDF]({{site.baseurl}}/assets/downloads/06-business-model-canvas.pdf)
 
 ## Quellen, Links und Hinweise
 
