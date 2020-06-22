@@ -154,6 +154,7 @@ Das Template für die Empathy Map von Dave Gray findest du [hier]({{site.baseurl
 ## Downloads
 
 * [Das Empathy Map Template von Dave Gray als PDF]({{site.baseurl}}/assets/downloads/04-empathy-map-template-dave-gray.pdf)
+* [Das Empathy Map Template von Dave Gray als pptx]({{site.baseurl}}/assets/downloads/04-empathy-map-frank-schroeder.pptx)
 
 ## Quellen, Links und Hinweise
 
