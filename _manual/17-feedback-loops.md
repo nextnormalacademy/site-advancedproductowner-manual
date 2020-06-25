@@ -31,7 +31,7 @@ Feedback Loops bestehen aus vier Elementen, die jeweils für sich stehend betrac
 </div>
 {: .notice--primary}
 
-Um eine Feedbackschleife zielgerichtet nutzen zu können, benötigst du einen *Gegenstand* zu dem du Feedback aufnehmen möchtest.
+Um eine Feedbackschleife zielgerichtet nutzen zu können, benötigst du einen *Gegenstand*, zu dem du Feedback aufnehmen möchtest.
 Bei diesem Gegenstand wird es sich in den meisten Fällen um dein Produkt handeln.
 Feedback zum gesamten Produkt ist ab einer gewissen Größe und Komplexität des Produkts schwierig zu handhaben.
 Daher solltest du den Gegenstand der Feedbackschleife einschränken.
@@ -46,15 +46,15 @@ Der nächste Schritt besteht im Herausfiltern von Feedback aus den Rückmeldunge
 Dazu bedarf es einer *Interpretation* der Rückmeldung.
 Für diese Interpretation musst du neben dem Gegenstand auch noch den Kontext kennen, aus dem heraus die Rückmeldung gegeben wurde.
 Auch die Zugehörigkeit der Quelle der Rückmeldung ist relevant.
-Es macht einen Unterschied, ob eine Rückmeldung von Betroffenen oder Beteiligten kommt, ob sie ein potentieller Nutzer oder die Entwicklerin eines Wettbewerbsproduktes gegeben hat.
+Es ist ein Unterschied, ob eine Rückmeldung von Betroffenen oder Beteiligten kommt, ob sie ein potentieller Nutzer oder die Entwicklerin eines Wettbewerbsproduktes gegeben hat.
 
 Hast du das Feedback herausgefiltert, gilt es zu entscheiden, wie du darauf reagieren willst.
 Du musst *Handlungen* ableiten.
-Prinzipiell gibt es zwei Möglichkeiten: du kannst es berücksichtigen oder ignorieren.
+Prinzipiell gibt es zwei Möglichkeiten: du kannst das Feedback berücksichtigen oder ignorieren.
 Wenn du es berücksichtigen möchtest, gibt es wiederum mehrere Varianten, wie das passieren kann.
 Du kannst es direkt umsetzen und die Veränderung am betrachteten Gegenstand durchführen.
 Machmal willst du aber auch nur Teile davon umsetzen oder Aspekte mehrerer Feedbacks kombinieren.
-Und dann gibt es Feedback, das du heute noch nicht sicher bist, wie und wann du es umsetzen möchtest.
+Und dann gibt es Feedback, bei dem du heute noch nicht sicher bist, wie und wann du darauf reagieren möchtest.
 Solches Feedback solltest du als Backlog Item aufnehmen.
 
 ## Feedback Loops gestalten
@@ -69,14 +69,14 @@ Auf keinen Fall solltest du den Gegenstand benennen oder beschreiben als:
 * eine Liste von User Storys
 * einen generischen Begriff wie "das Produkt"
 
-Klar abgegrenzte Gegenstände, zu denen du nützliches Feedback erhalten kannst sind:
+Klar abgegrenzte Gegenstände, zu denen du nützliches Feedback erhalten kannst, sind:
 * eine klare Visualisierung
 * ein konkret benanntes Feature
 * der Unterschied zur letzen Version deines Produkts
 
 Es ist außerdem wichtig, dir bewusst zu machen, in welchem Kontext und Ambiente du den Gegenstand präsentierst.
-Das beeinflusst stark, wie du die Präsenation verläuft und hat damit Einfluss auf die Rückmeldungen.
-Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kunden oder im Internet vor unbekannten Menschen präsentierst sollte einen deutlichen Unterschied machen.
+Das beeinflusst stark, wie die Präsenation verläuft und hat damit Einfluss auf die Rückmeldungen.
+Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kunden oder im Internet vor unbekannten Menschen präsentierst sollte eine deutlicher Unterschied sein.
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
 Die mächtigste Möglichkeit, Rückmeldungen zu erhalten, besteht darin, andere Menschen den Gegenstand nutzen zu lassen.
@@ -85,14 +85,15 @@ Die mächtigste Möglichkeit, Rückmeldungen zu erhalten, besteht darin, andere 
 ### Rückmeldungen wahrnehmen
 
 Unabhängig vor wem und wo du den Gegenstand präsentierst: du möchtest wissen, was die Menschen zu ihm zu sagen haben.
-Manchmal erscheint dir das zu wenig, manchmal zu viel und deshalb musst du einen Weg finden, die Rückmeldungen wahrzunehmen.
+Manchmal erscheint dir das zu wenig, manchmal zu viel.
+Deshalb musst du einen Weg finden, die Rückmeldungen wahrzunehmen.
 
 Kontextabhängig kannst du dafür unterschiedliche Werkzeuge nutzen.
 In einem Sprint Review kannst du ein Protokoll aller Rückmeldungen führen oder sie an einem Flipchart sammeln.
 Auf einer Messe oder bei einer Präsentation im Internet wird das schon schwieriger.
-Hier bieten sich Methoden wie Interviews, Fragebogen oder Foren an, über die du die Rückmeldungen wahrnehmen kannst.
+Hier bieten sich Methoden wie Interviews, Fragebögen oder Foren an, über die du die Rückmeldungen wahrnehmen kannst.
 
-Beachte: je diffuser die Gruppe von Menschen ist, die dir Rückmeldungen geben, desto schwieriger wird es, diese wahrzunehmen.
+Beachte: je diffuser die Gruppe von Menschen ist, die dir Rückmeldungen gibt, desto schwieriger wird es, die Rückmeldungen wahrzunehmen.
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
 Die wichtigste Regel beim Wahrnehmen von Rückmeldungen ist: sammle alles!
@@ -100,7 +101,7 @@ Die wichtigste Regel beim Wahrnehmen von Rückmeldungen ist: sammle alles!
 
 ### Rückmeldungen interpretieren
 
-Um Rückmeldungen zu interpretieren und das Rauschen vom wertvollen Feedback zu trennen, benötigst du die oben bereits erwähnte klare Vorstellung, was der Gegenstand ist, zu dem du Feedback haben möchtest.
+Um Rückmeldungen zu interpretieren und das Rauschen vom wertvollen Feedback zu trennen, benötigst du die oben bereits erwähnte klare Vorstellung vom Gegenstand, zu dem du Feedback haben möchtest.
 
 Die Differenzierung von Feedback und Rauschen erfordert einige Übung und ist kein wissenschaftlich exakter Vorgang.
 Es gibt aber ein paar Heuristiken, die dir dabei helfen können, das wertvolle Feedback zu erkennen.
@@ -115,7 +116,7 @@ Eine Rückmeldung ist Rauschen wenn:
 * sie wenig handlungsleitend formuliert ist
 * sie nicht zum Gegenstand passt
 
-Es ist hilfreich, wenn du die Interpretation der Rückmelungen nicht allein machst, sondern dir einen Partner suchst.
+Es ist hilfreich, wenn du die Interpretation der Rückmelungen nicht allein machst, sondern dir eine:n Partner:in suchst.
 Die Person sollte je nach betrachtetem Gegenstand passende Kenntnisse mitbringen.
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
@@ -125,14 +126,14 @@ Wenn eine Rückmeldung heute Rauschen ist, kann es sein, dass die gleiche Rückm
 
 ### Handlungen ableiten
 
-Zu guter letzt entscheidest Du, was du mit dem gesammelten Feedback anfangen möchtest.
+Zu guter Letzt entscheidest Du, was du mit dem gesammelten Feedback anfangen möchtest.
 Du wirst - wenn dein Gegenstand klar benannt ist - mehr wertvolles Feedback erhalten, als du umsetzen kannst.
 
-Im Sinne eines guten Erwartungsmanagements solltest du deinen Feedbackgebern transparent und zeitnah berichten, was du mit ihrem Feedback tun möchtest.
-Je nach Kontext kannst du den Feedbackgebern sehr direkt antworten.
-Zeige deinen Feedbackgebern, wenn ihre Rückmeldungen zu direkten Veränderungen deines Produkts führen oder auch nur zu Backlog Items oder Einträgen auf einer Roadmap.
+Im Sinne eines guten Erwartungsmanagements solltest du deine Feedbackgebenden transparent und zeitnah berichten, was du mit ihrem Feedback tun möchtest.
+Je nach Kontext kannst du den Feedbackgebenden sehr direkt antworten.
+Zeige deinen Feedbackgebenden, wenn ihre Rückmeldungen zu direkten Veränderungen deines Produkts führen oder auch nur zu Backlog Items oder Einträgen auf einer Roadmap.
 
-In jedem Fall ist es eine Motivation für deine Feedbackgeber, wenn sie wissen, dass du ihre Rückmeldungen wertschätzt - auch wenn sie vielleicht nicht in dein Produkt einfließen.
+In jedem Fall ist es eine Motivation für deine Feedbackgebenden, wenn sie wissen, dass du ihre Rückmeldungen wertschätzt - auch wenn sie vielleicht nicht in dein Produkt einfließen.
 
 Die Entscheidung, ein konkretes Feedback zu berücksichtigen oder nicht, ist die größte Macht und die größte Verantwortung, die du als Product Owner hast.
 Mit dieser Entscheidung bestimmst du maßgeblich über die Weiterentwicklung deines Produkts, dein Verhältnis zu deinen Feedbackgebern und damit auch über den Erfolg deines Produkts.
