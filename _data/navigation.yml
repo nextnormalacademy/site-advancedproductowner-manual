@@ -45,11 +45,15 @@ manual:
       - title: "Delivery Kanban"
         url: /coming-soon/
 #        url: /delivery-kanban/
+  - title: Addendum
+    children:
 #      - title: "Real Options"
 #        url: /real-options/
 #      - title: "Backlog of Options"
 #        url: /backlog-of-options/
-  - title: Anhang
+      - title: "Feedback Loops"
+        url: /feedback-loops/
+  - title: Meta
     children:
       - title: "Lizenz"
         url: /license/
