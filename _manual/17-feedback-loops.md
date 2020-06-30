@@ -47,7 +47,7 @@ Die Beobachtung dieses Gegenstands führt zu Reaktionen.
 Einige dieser Reaktionen wirst Du in Form von *Input* wahrnehmen.
 Der Input muss nicht zwangsläufig Feedback in deinem Sinne sein.
 Häufig äußern Menschen auch Meinungen, die durch andere Aspekte  wie aktuelle Emotionen, Erlebnisse, Erwartungen oder Gruppendynamik geprägt sind.
-Dieses *Rauschen* ist der größte Anteil des Inputs
+Dieses *Rauschen* ist der größte Anteil des Inputs.
 Für dich als Product Owner ist es wichtig, den Input auch nur als genau solchen zu betrachten: viel Rauschen, das ein wenig wertvolles Feedback enthält.
 
 Der nächste Schritt besteht im Herausfiltern des Feedbacks aus dem Input.
@@ -112,8 +112,8 @@ Klar abgegrenzte Gegenstände, zu denen du nützliches Feedback erhalten kannst,
 * der Unterschied zur letzen Version deines Produkts
 
 Es ist außerdem wichtig, dir bewusst zu machen, in welchem Kontext und Ambiente du den Gegenstand präsentierst.
-Das beeinflusst stark, wie die Präsenation verläuft und hat damit Einfluss auf den Input.
-Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kunden oder im Internet vor unbekannten Menschen präsentierst sollte eine deutlicher Unterschied sein.
+Das beeinflusst stark, wie die Präsentation verläuft und hat damit Einfluss auf den Input.
+Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kunden oder im Internet vor unbekannten Menschen präsentierst sollte ein deutlicher Unterschied sein.
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
 Die mächtigste Möglichkeit, Input zu erhalten, besteht darin, andere Menschen den Gegenstand nutzen zu lassen.
@@ -144,16 +144,16 @@ Die Differenzierung von Feedback und Rauschen erfordert einige Übung und ist ke
 Es gibt aber ein paar Heuristiken, die dir dabei helfen können, das wertvolle Feedback zu erkennen.
 
 Input ist Feedback wenn:
-* sie den Unterschied zwischen einer Erwartung und dem Gegenstand benennt
-* sie ein neu identifiziertes Bedürfnis beschreibt, das ohne den Gegenstand nicht erkannt werden konnte
-* sie deutlich macht, dass der Gegenstand die Erwartungen erfüllt
+* er den Unterschied zwischen einer Erwartung und dem Gegenstand benennt
+* er ein neu identifiziertes Bedürfnis beschreibt, das ohne den Gegenstand nicht erkannt werden konnte
+* er deutlich macht, dass der Gegenstand die Erwartungen erfüllt
 
 Input ist Rauschen wenn:
-* sie unklar formuliert ist und in mehr als eine Richtung interpretiert werden kann
-* sie wenig handlungsleitend formuliert ist
-* sie nicht zum Gegenstand passt
+* er unklar formuliert ist und in mehr als eine Richtung interpretiert werden kann
+* er wenig handlungsleitend formuliert ist
+* er nicht zum Gegenstand passt
 
-Es ist hilfreich, wenn du die Interpretation der Rückmelungen nicht allein machst, sondern dir eine:n Partner:in suchst.
+Es ist hilfreich, wenn du die Interpretation der Rückmeldungen nicht allein machst, sondern dir eine:n Partner:in suchst.
 Die Person sollte je nach betrachtetem Gegenstand passende Kenntnisse mitbringen.
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
@@ -166,11 +166,11 @@ Wenn ein Input heute Rauschen ist, kann es sein, dass der gleiche Input in einig
 Zu guter Letzt entscheidest Du, was du mit dem gesammelten Feedback anfangen möchtest.
 Du wirst - wenn dein Gegenstand klar benannt ist - mehr wertvolles Feedback erhalten, als du umsetzen kannst.
 
-Im Sinne eines guten Erwartungsmanagements solltest du deine Feedbackgebenden transparent und zeitnah berichten, was du mit ihrem Feedback tun möchtest.
-Je nach Kontext kannst du den Feedbackgebenden sehr direkt antworten.
-Zeige deinen Feedbackgebenden, wenn ihr Input zu direkten Veränderungen deines Produkts führen oder auch nur zu Backlog Items oder Einträgen auf einer Roadmap.
+Im Sinne eines guten Erwartungsmanagements solltest du deinen Feedbackgeber:innen transparent und zeitnah berichten, was du mit ihrem Feedback tun möchtest.
+Je nach Kontext kannst du den Feedbackgebeer:innen sehr direkt antworten.
+Zeige deinen Feedbackgeber:innen, wenn ihr Input zu direkten Veränderungen deines Produkts führen oder auch nur zu Backlog Items oder Einträgen auf einer Roadmap.
 
-In jedem Fall ist es eine Motivation für deine Feedbackgebenden, wenn sie wissen, dass du ihr Input wertschätzt - auch wenn sie vielleicht nicht in dein Produkt einfließen.
+In jedem Fall ist es eine Motivation für deine Feedbackgeber:innen, wenn sie wissen, dass du ihr Input wertschätzt - auch wenn sie vielleicht nicht in dein Produkt einfließen.
 
 Die Entscheidung, ein konkretes Feedback zu berücksichtigen oder nicht, ist die größte Macht und die größte Verantwortung, die du als Product Owner hast.
 Mit dieser Entscheidung bestimmst du maßgeblich über die Weiterentwicklung deines Produkts, dein Verhältnis zu deinen Feedbackgebern und damit auch über den Erfolg deines Produkts.
