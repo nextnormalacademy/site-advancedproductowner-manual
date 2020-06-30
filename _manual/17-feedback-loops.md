@@ -14,7 +14,7 @@ Feedback Loops sind ein wichtiges Werkzeug für Product Owner. Sie richtig einzu
 
 Dieses Kapitel soll die Grundlagen für einen effektiven Einsatz von Feedback Loops vermitteln.
 
-![image-left](/assets/images/flag-warning.png){: .align-left} 
+![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Es geht hier im Handbuch ausschließlich um Feedback und Feedbackmanagement als Bestandteil von Produktentwicklung und Produktmagagement.
 Persönliches Feedback im Sinne der Gruppendynamik wird nicht betrachtet.
 {: .notice--warning}
@@ -115,7 +115,7 @@ Es ist außerdem wichtig, dir bewusst zu machen, in welchem Kontext und Ambiente
 Das beeinflusst stark, wie die Präsentation verläuft und hat damit Einfluss auf den Input.
 Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kunden oder im Internet vor unbekannten Menschen präsentierst sollte ein deutlicher Unterschied sein.
 
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Die mächtigste Möglichkeit, Input zu erhalten, besteht darin, andere Menschen den Gegenstand nutzen zu lassen.
 {: .notice--primary}
 
@@ -132,7 +132,7 @@ Hier bieten sich Methoden wie Interviews, Fragebögen oder Foren an, über die d
 
 Beachte: je diffuser die Gruppe von Menschen ist, die dir Input gibt, desto schwieriger wird es, den Input wahrzunehmen.
 
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Die wichtigste Regel beim Wahrnehmen von Input ist: sammle alles!
 {: .notice--primary}
 
@@ -156,7 +156,7 @@ Input ist Rauschen wenn:
 Es ist hilfreich, wenn du die Interpretation der Rückmeldungen nicht allein machst, sondern dir eine:n Partner:in suchst.
 Die Person sollte je nach betrachtetem Gegenstand passende Kenntnisse mitbringen.
 
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Dein Produkt entwickelt sich weiter:
 Wenn ein Input heute Rauschen ist, kann es sein, dass der gleiche Input in einigen Wochen oder Monaten plötzlich Feedback ist, weil sich der Gegenstand verändert hat.
 {: .notice--primary}
