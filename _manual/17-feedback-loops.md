@@ -5,6 +5,9 @@ excerpt: "Feedback Loops"
 toc: true
 ---
 
+**-- DRAFT --**
+{: .notice--danger}
+
 ## Einführung
 
 Feedback Loops sind ein wichtiges Werkzeug für Product Owner. Sie richtig einzusetzen ist allerdings nicht ganz einfach.
@@ -16,39 +19,45 @@ Es geht hier im Handbuch ausschließlich um Feedback und Feedbackmanagement als 
 Persönliches Feedback im Sinne der Gruppendynamik wird nicht betrachtet.
 {: .notice--warning}
 
-In der agilen Community ist der PDCA- oder Deming-Cycle wohl die bekannteste Feedbackschleife.
+In der agilen Community ist der PDCA- oder Deming-Cycle wohl der bekannteste Feedback Loop.
 PDCA steht für Plan, Do, Check, Act und beschreibt die Phasen eines kontinuierlichen Verbesserungsprozesses.
+
+**-- DRAFT --**
+{: .notice--danger}
 
 ## Elemente von Feedback Loops
 
 <div markdown="1">
-![image-left](/assets/images/read-light-idea.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Feedback Loops bestehen aus vier Elementen, die jeweils für sich stehend betrachtet und verstanden werden müssen:
-- dem Gegenstand, zum dem das Feedback gegeben wird
-- der Rückmeldung zu diesem Gegenstand
-- der Interpretation dieser Rückmeldung
-- der Handlung, die diese Interpreation zur Folge hat
+- einer Beobachtung des Gegenstands, zum dem das Feedback gegeben wird
+- der Reaktion auf diese Beobachtung in Form von Input
+- der Verknüpfung von Beobachtung und Reaktion
+- der Verknüpfung des Inputs mit dem Gegenstand der Beobachtung
 </div>
 {: .notice--primary}
 
-Um eine Feedbackschleife zielgerichtet nutzen zu können, benötigst du einen *Gegenstand*, zu dem du Feedback aufnehmen möchtest.
+Um einen Feedback Loop zielgerichtet nutzen zu können, benötigst du einen *Gegenstand*, zu dem du Feedback aufnehmen möchtest.
 Bei diesem Gegenstand wird es sich in den meisten Fällen um dein Produkt handeln.
 Feedback zum gesamten Produkt ist ab einer gewissen Größe und Komplexität des Produkts schwierig zu handhaben.
-Daher solltest du den Gegenstand der Feedbackschleife einschränken.
+Daher solltest du den Gegenstand des Feedback Loop einschränken.
 So eine Einschränkung kann ein Produktinkrement sein oder auch ein neu hinzugekommenes Feature.
 
-Erhältst Du eine *Rückmeldung* zu diesem Gegenstand, musst du diese zunächst einmal wahrnehmen.
-Die Rückmeldung muss nicht zwangsläufig Feedback in deinem Sinne sein.
+Die Beobachtung dieses Gegenstands führt zu Reaktionen.
+Einige dieser Reaktionen wirst Du in Form von *Input* wahrnehmen.
+Der Input muss nicht zwangsläufig Feedback in deinem Sinne sein.
 Häufig äußern Menschen auch Meinungen, die durch andere Aspekte  wie aktuelle Emotionen, Erlebnisse, Erwartungen oder Gruppendynamik geprägt sind.
-Für dich als Product Owner ist es wichtig, die Rückmeldungen auch nur als genau solche zu betrachten.
+Dieses *Rauschen* ist der größte Anteil des Inputs
+Für dich als Product Owner ist es wichtig, den Input auch nur als genau solchen zu betrachten: viel Rauschen, das ein wenig wertvolles Feedback enthält.
 
-Der nächste Schritt besteht im Herausfiltern von Feedback aus den Rückmeldungen
-Dazu bedarf es einer *Interpretation* der Rückmeldung.
-Für diese Interpretation musst du neben dem Gegenstand auch noch den Kontext kennen, aus dem heraus die Rückmeldung gegeben wurde.
-Auch die Zugehörigkeit der Quelle der Rückmeldung ist relevant.
-Es ist ein Unterschied, ob eine Rückmeldung von Betroffenen oder Beteiligten kommt, ob sie ein potentieller Nutzer oder die Entwicklerin eines Wettbewerbsproduktes gegeben hat.
+Der nächste Schritt besteht im Herausfiltern des Feedbacks aus dem Input.
+Dazu bedarf es einer *Interpretation* der Inputs.
+Für diese Interpretation musst du neben dem Gegenstand auch einiges über die Verknüpfung von Beobachtung und Input wissen.
+Du musst den Kontext kennen, aus dem heraus der Input gegeben wurde.
+Auch die Zugehörigkeit der Quelle des Inputs ist relevant.
+Es ist ein Unterschied, ob ein Input von Betroffenen oder Beteiligten kommt, ob sie ein potentieller Nutzer oder die Entwicklerin eines Wettbewerbsproduktes gegeben hat.
 
-Hast du das Feedback herausgefiltert, gilt es zu entscheiden, wie du darauf reagieren willst.
+Hast du das Feedback aus dem Input herausgefiltert, gilt es zu entscheiden, wie du darauf reagieren willst.
 Du musst *Handlungen* ableiten.
 Prinzipiell gibt es zwei Möglichkeiten: du kannst das Feedback berücksichtigen oder ignorieren.
 Wenn du es berücksichtigen möchtest, gibt es wiederum mehrere Varianten, wie das passieren kann.
@@ -56,6 +65,34 @@ Du kannst es direkt umsetzen und die Veränderung am betrachteten Gegenstand dur
 Machmal willst du aber auch nur Teile davon umsetzen oder Aspekte mehrerer Feedbacks kombinieren.
 Und dann gibt es Feedback, bei dem du heute noch nicht sicher bist, wie und wann du darauf reagieren möchtest.
 Solches Feedback solltest du als Backlog Item aufnehmen.
+
+**-- DRAFT --**
+{: .notice--danger}
+
+## Flight Level
+
+* Strategische Ebene
+* Taktische Ebene
+* Operative Ebene
+
+**-- DRAFT --**
+{: .notice--danger}
+
+## Latenz und Kadenz
+
+* Latenz: wie lange dauert es, bis ich nach dem Triggern des Feedback Loop Feedback erhalte
+* Kadenz: wie häufig kann oder werde ich den Feedback Loop triggern
+
+**-- DRAFT --**
+{: .notice--danger}
+
+## Bewertung von Feedback Loops
+
+* welchen Nutzen ziehe ich aus einem Feedback Loop
+* wann höre ich auf, bestimmte Feedback Loops zu nutzen
+
+**-- DRAFT --**
+{: .notice--danger}
 
 ## Feedback Loops gestalten
 
@@ -75,43 +112,43 @@ Klar abgegrenzte Gegenstände, zu denen du nützliches Feedback erhalten kannst,
 * der Unterschied zur letzen Version deines Produkts
 
 Es ist außerdem wichtig, dir bewusst zu machen, in welchem Kontext und Ambiente du den Gegenstand präsentierst.
-Das beeinflusst stark, wie die Präsenation verläuft und hat damit Einfluss auf die Rückmeldungen.
+Das beeinflusst stark, wie die Präsenation verläuft und hat damit Einfluss auf den Input.
 Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kunden oder im Internet vor unbekannten Menschen präsentierst sollte eine deutlicher Unterschied sein.
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
-Die mächtigste Möglichkeit, Rückmeldungen zu erhalten, besteht darin, andere Menschen den Gegenstand nutzen zu lassen.
+Die mächtigste Möglichkeit, Input zu erhalten, besteht darin, andere Menschen den Gegenstand nutzen zu lassen.
 {: .notice--primary}
 
-### Rückmeldungen wahrnehmen
+### Input wahrnehmen
 
 Unabhängig vor wem und wo du den Gegenstand präsentierst: du möchtest wissen, was die Menschen zu ihm zu sagen haben.
 Manchmal erscheint dir das zu wenig, manchmal zu viel.
-Deshalb musst du einen Weg finden, die Rückmeldungen wahrzunehmen.
+Deshalb musst du einen Weg finden, den Input wahrzunehmen.
 
 Kontextabhängig kannst du dafür unterschiedliche Werkzeuge nutzen.
-In einem Sprint Review kannst du ein Protokoll aller Rückmeldungen führen oder sie an einem Flipchart sammeln.
+In einem Sprint Review kannst du ein Protokoll allen Inputs führen oder sie an einem Flipchart sammeln.
 Auf einer Messe oder bei einer Präsentation im Internet wird das schon schwieriger.
-Hier bieten sich Methoden wie Interviews, Fragebögen oder Foren an, über die du die Rückmeldungen wahrnehmen kannst.
+Hier bieten sich Methoden wie Interviews, Fragebögen oder Foren an, über die du den Input wahrnehmen kannst.
 
-Beachte: je diffuser die Gruppe von Menschen ist, die dir Rückmeldungen gibt, desto schwieriger wird es, die Rückmeldungen wahrzunehmen.
+Beachte: je diffuser die Gruppe von Menschen ist, die dir Input gibt, desto schwieriger wird es, den Input wahrzunehmen.
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
-Die wichtigste Regel beim Wahrnehmen von Rückmeldungen ist: sammle alles!
+Die wichtigste Regel beim Wahrnehmen von Input ist: sammle alles!
 {: .notice--primary}
 
-### Rückmeldungen interpretieren
+### Input interpretieren
 
-Um Rückmeldungen zu interpretieren und das Rauschen vom wertvollen Feedback zu trennen, benötigst du die oben bereits erwähnte klare Vorstellung vom Gegenstand, zu dem du Feedback haben möchtest.
+Um Input zu interpretieren und das Rauschen vom wertvollen Feedback zu trennen, benötigst du die oben bereits erwähnte klare Vorstellung vom Gegenstand, zu dem du Feedback haben möchtest.
 
 Die Differenzierung von Feedback und Rauschen erfordert einige Übung und ist kein wissenschaftlich exakter Vorgang.
 Es gibt aber ein paar Heuristiken, die dir dabei helfen können, das wertvolle Feedback zu erkennen.
 
-Eine Rückmeldung ist Feedback wenn:
+Input ist Feedback wenn:
 * sie den Unterschied zwischen einer Erwartung und dem Gegenstand benennt
 * sie ein neu identifiziertes Bedürfnis beschreibt, das ohne den Gegenstand nicht erkannt werden konnte
 * sie deutlich macht, dass der Gegenstand die Erwartungen erfüllt
 
-Eine Rückmeldung ist Rauschen wenn:
+Input ist Rauschen wenn:
 * sie unklar formuliert ist und in mehr als eine Richtung interpretiert werden kann
 * sie wenig handlungsleitend formuliert ist
 * sie nicht zum Gegenstand passt
@@ -121,7 +158,7 @@ Die Person sollte je nach betrachtetem Gegenstand passende Kenntnisse mitbringen
 
 ![image-left](/assets/images/read-light-idea.png){: .align-left}
 Dein Produkt entwickelt sich weiter:
-Wenn eine Rückmeldung heute Rauschen ist, kann es sein, dass die gleiche Rückmeldung in einigen Wochen oder Monaten plötzlich Feedback ist, weil sich der Gegenstand verändert hat.
+Wenn ein Input heute Rauschen ist, kann es sein, dass der gleiche Input in einigen Wochen oder Monaten plötzlich Feedback ist, weil sich der Gegenstand verändert hat.
 {: .notice--primary}
 
 ### Handlungen ableiten
@@ -131,9 +168,9 @@ Du wirst - wenn dein Gegenstand klar benannt ist - mehr wertvolles Feedback erha
 
 Im Sinne eines guten Erwartungsmanagements solltest du deine Feedbackgebenden transparent und zeitnah berichten, was du mit ihrem Feedback tun möchtest.
 Je nach Kontext kannst du den Feedbackgebenden sehr direkt antworten.
-Zeige deinen Feedbackgebenden, wenn ihre Rückmeldungen zu direkten Veränderungen deines Produkts führen oder auch nur zu Backlog Items oder Einträgen auf einer Roadmap.
+Zeige deinen Feedbackgebenden, wenn ihr Input zu direkten Veränderungen deines Produkts führen oder auch nur zu Backlog Items oder Einträgen auf einer Roadmap.
 
-In jedem Fall ist es eine Motivation für deine Feedbackgebenden, wenn sie wissen, dass du ihre Rückmeldungen wertschätzt - auch wenn sie vielleicht nicht in dein Produkt einfließen.
+In jedem Fall ist es eine Motivation für deine Feedbackgebenden, wenn sie wissen, dass du ihr Input wertschätzt - auch wenn sie vielleicht nicht in dein Produkt einfließen.
 
 Die Entscheidung, ein konkretes Feedback zu berücksichtigen oder nicht, ist die größte Macht und die größte Verantwortung, die du als Product Owner hast.
 Mit dieser Entscheidung bestimmst du maßgeblich über die Weiterentwicklung deines Produkts, dein Verhältnis zu deinen Feedbackgebern und damit auch über den Erfolg deines Produkts.
