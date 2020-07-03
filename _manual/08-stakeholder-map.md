@@ -19,24 +19,30 @@ Das Mapping deiner Stakehodler hilft dir bei dieser Aufgabe.
 
 ## Ziel
 
-Um fundierte Entscheidungen bezüglich des Umgangs mit Management deiner Stakeholdern zu treffen, musst du dir zunächst einen Überblick und eine konkrete Strategie überlegen.
+Damit du fundierte Entscheidungen über den Umgang mit deinen Stakeholdern treffen kannst, brauchst du eine Übersicht und strategische Einordnung deiner Stakeholder.
+Das Mapping deiner Stakeholder erlaubt dir genau das, sodass du konkrete Maßnahmen ableiten kannst.
 
 
 ## Geschichte
 
-1918 entwickelte Mary Parker Follet in seinem Werk „The New State“ erstmals ein „Stakeholder Konzept“.
-Wobei er sein Konzept als ein „interpenetraiting system“ bezeichnete. 
+Im Jahr 1918 entwickelte Mary Parker Follet in ihrem Werk „The New State“ erstmals ein „Stakeholder Konzept“.
+Wobei sie ihr Konzept als ein „interpenetraiting system“ bezeichnete und noch nicht von Stakeholdern sprach.
+Follet befasste sich mit Erfolgsfaktoren für Einbindung und Engagement in sozialen Systemen.
+
 Der Begriff „Stakeholder“ wurde erstmal 1963 durch das Stanford Research Institute eingeführt. 
-Einzug in die Literatur des strategischen Managements fand der Begriff “Stakeholder” allerdings erst mit der Veröffentlichung von Freemans „Stockholders and Stakeholders: A new perspective on Corporate Governance“ 1984. 
-2010 veröffentlichte die International Standard Organisation (ISO) eine verallgemeinerte Definition (DIN ISO 26000), die sich auch auf die Stakeholder außerhalb der Unternehmen bezieht (Ventzke et al., 2010).
+Einzug in die Literatur des strategischen Managements fand der Begriff “Stakeholder” allerdings erst mit der Veröffentlichung von Freemans „Stockholders and Stakeholders: A new perspective on Corporate Governance“ im Jahr 1984. 
+
+
 
 ## Funktionsweise
 
 Das Managen von Stakeholdern lässt sich generisch in vier Teilaufgaben gliedern:
-Identifikation von Stakehodlern, Analyse von Stakeholdern,  Entwicklung einer Strategie und Umsetzen der Strategie.
+Identifikation von Stakehodlern, Analyse von Stakeholdern, Entwicklung einer Strategie zum Umgang mit Stakeholdern und Umsetzen der Strategie.
 
+Beachte hierbei, dass jede Stakeholderanalyse  immer eine Momentaufnahme ist.
+Sie muss im Lauf der Zeit aktualisiert werden, um wirksam zu bleiben.
+Zum einen können sich neue Stakeholder ergeben und bestehende Interesse können sich ändern.
 
-Eine Stakeholderanalyse ist immer eine Momentaufnahme und muss im Lauf der Zeit aktualisiert werden, um wirksam zu bleiben.
 
 ### Identifikation von Stakehodlern
 
@@ -67,8 +73,7 @@ Je besser du dein Produktumfeld kennst, desto leichter wird es dir fallen, Stake
 
 Sobald du deine wesentlichen Stakeholder gesammelt hast, gilt es sie genauer zu betrachten.
 
-Ein Tool, dass dir bei der Analyse deiner Stakeholder und der Entwicklung einer Engagement-Strategie hilft  ist die Stakeholder-Einfluss-Matrix, bzw. das Power-Interest-Grid.
-Entwickelt und veröffentlicht von Colin Eden und Fran Ackermann in ihrem Buch "Making Strategy".
+Ein Tool, dass dir bei der Analyse deiner Stakeholder und der Entwicklung einer Engagement-Strategie hilft  ist die Stakeholder-Einfluss-Matrix, bzw. das Power-Interest-Grid von Colin Eden und Fran Ackermann.
 
 ({{site.baseurl}}/assets/images/08-Stakeholder-Einfluss-Matrix.png)
 
@@ -115,16 +120,28 @@ Eine ausführliche Beschreibung der Stakeholdergruppen findest du [hier beim Rom
 
 ### 4. Umsetzung der Strategie
 
+Nachdem du dir konkrete MAßnahmen überlegt hast, musst du diese natürlich auch umsetzten.
+Du solltest prüfen, ob die deine Einschätzung für die jeweilige Einbindung auch für deine Stakeholder funktioniert.
+Wenn das nicht der Fall sein sollte, überarbeite deine Strategie.
+
+Wie bereits erwähnt solltest du regelmaig überlegen, ob sich neue Stakeholder gebildet haben und dir für sie wieder eine geeignete Maßnahme zur Einbindung überlegen.
+Auch bestehende Maßnahmen gilt es zu hintergragen und bei Bedarf anzupassen. 
+
 ## Einsatz
 
+Als Product Owner gehört die Analyse und Arbeit von und mit Stakeholdern zu deinen wichtigsten Aufgaben.
+Du bist der zentraler Ansprechpartner für dein Produkt.
+Es empiehlt sich daher ab Projektbeginn oder sogar vor dem offiziellen Start eines Projektes/Produktes damit zu beginnen.
 
-Olaf Hinz beschreibt in seinem Buch "Das Führungsteam", wie man im Rahmen der Stakeholderanalyse das Erwartungsgefüge ermittelt, d.h. wie man sich Klarheit über die Erwartungen der Stakeholder verschafft und gibt dafür drei Leitfragen:
+Die Erkenntnisse der Stakeholderanalyse können dir bereits zu Projektbeginn sehr nützlich sein:
+* Wen sollte ich zum Kickoff einladen?
+* Welche Beziehungen bestehen unter den Eingeladenen?
+* Wer hat Befürchtungen/Hemmungen im Zusammenhang mit dem Projekt/Produkt?
 
-* Was erwartet ein Stakeholder?
-* Welche typischen Fragen würde der jeweilige Stakeholder stellen?
-* Was darf man aus Sicht des einzelnen Stakeholders nicht tun?
-
-Hat man sich soweit Klarheit über die Erwartung der Stakehodler verschafft, gilt es zu entscheiden, welche Erwartungen übernommen und akzeptiert und welche Erwartungen nicht angenommen werden und welche Konsequenzen sich daraus ergeben.
+![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
+Nur weil du Stakeholdern und ihre Erwartungen identifiziert hast, bedeutet dies nicht, dass du die Erwartungen erfüllen musst.
+Entscheide stets überlegt, welche Erwartungen übernommen und akzeptiert und welche Erwartungen nicht angenommen werden und welche Konsequenzen sich daraus ergeben.
+{: .notice--warning}
 
 
 ## Beispiele
@@ -145,6 +162,9 @@ Dieses Beispiel zeigt, dass du intensiv darüber nachdenken solltest, welche Per
 
 ## Tools
 
+Ein Template vom Power-Interest-Grid findest du [hier]({{site.baseurl}}/assets/downloads/04-empathy-map-template-dave-gray.pdf).
+{: .notice--success}
+hier bei Roman Pichler.
 
 ## Fragen
 
@@ -158,5 +178,6 @@ Dieses Beispiel zeigt, dass du intensiv darüber nachdenken solltest, welche Per
 
 
 ## Quellen, Links und Hinweise
-* Blogbeitrag von Roman Pichler über "GETTING STAKEHOLDER ENGAGEMENT RIGHT https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/
+* Heroes of Employee Engagement: Nr. 2 Mary Parker Follett https://peakon.com/de/blog/future-work-de/mary-parker-follett-management-theoretikerin/
+* Blogbeitrag von Roman Pichler über "GETTING STAKEHOLDER ENGAGEMENT RIGHT" https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/
 
