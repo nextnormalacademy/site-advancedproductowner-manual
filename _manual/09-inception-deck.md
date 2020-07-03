@@ -25,7 +25,7 @@ Die Project Inception und das zugehörige Inception Deck wurden ungefähr 2004 v
 Je nach Quelle wird Luke Barrett oder Robin Gibbons als Urheber genannt. 
 Später stellten Jonathan Rasmusson und Jeff Patton das Inception Deck in ihren Werken vor. 
 
-Das Inception Deck wurde von Paolo Caroli weiterentwickelt. 
+Das Tool wurde von Paolo Caroli weiterentwickelt. 
 Caroli nennt diese Weiterentwicklung Lean Inception, da sie sich ausschließlich auf Fragen beschränkt, die das zu entwickelnde Produkt betreffen.
 
 ## Funktionsweise
@@ -34,39 +34,39 @@ Das Inception Deck besteht aus 10 Fragen bzw. Aufgaben, die erledigt werden müs
 
 Bild einfügen
 
-1. Warum sind wir hier?
+### 1. Warum sind wir hier?
 Hier wird festgehalten, was der Grund für die Entwicklung des Produkts ist. Warum investiert das Unternehmen? 
    
-2.   Elevator Pitch erstellen 
+### 2. Elevator Pitch erstellen 
 Stell dir vor, du hast 30 Sekunden, um jemanden von deinem Produkt zu überzeugen. 
 Was würdest du sagen?
  
-3. Product Box erstellen
+### 3. Product Box erstellen
 Wenn es dein Produkt im Geschäft zu kaufen gäbe: Wie sähe die Verpackung aus? Was würde drauf stehen, das potenzielle Käufer und Nutzer begeistert?
 
-4. Die NOT Liste
+### 4. Die NOT Liste
 Was ist für die kommende Phase des Produkts nicht vorgesehen? 
 Welche Funktionalitäten werdet ihr (noch) nicht umsetzen? 
 Welche Aktivtitäten lagert ihr lieber an Partner aus?
 
-5. Die Nachbarn treffen  
+### 5. Die Nachbarn treffen  
 Welche Menschen müsst ihr einbinden, bevor das Produkt live geht? 
 Wer ist Teil der Produkt Community?
 
-6. Die Lösung zeigen 
+### 6. Die Lösung zeigen 
 Wie sieht die grobe technische Architektur des Produkts aus?
 
-7.  Was hält uns nachts wach?
+### 7. Was hält uns nachts wach?
 Welche Risiken bestehen für den E	rfolg des Produkts?
 
-8. Wie groß ist das?  
+### 8. Wie groß ist das?  
 Wie lange wird die nächste Phase der Produktentwicklung ungefähr dauern? 
 Sind es 3 Monate, 6 Monate?
 
-9. Was muss dran glauben, wenn es eng wird?
+### 9. Was muss dran glauben, wenn es eng wird?
 Welche Hebel sind für die nächste Phase der Produktentwicklung am wichtigsten? Ist es Zeit, Umfang, Budget, Qualität?
 
-10. Was braucht es?  
+### 10. Was braucht es?  
 Wie viel Zeit werdet ihr brauchen, um die beschriebenen Ziele zu erreichen? 
 Wie viel wird es kosten und wie soll das Team aussehen?
 
@@ -76,52 +76,54 @@ Die Strukturierung der Folien hilft dir und deinen Stakeholdern bei der Beantwor
 
  
 ## Einsatz
-vor dem Start der operativen Arbeit an einem Projekt, um alle an Bord zu holen
-Kann auch zur Vorbereitung größerer Meilensteine eingesetzt werden
-Gemeinsam in einem Workshop erarbeitet werden
+Das Inception Deck wird in einem Workshop mit Stakeholdern erarbeitet, die maßgeblich zum Erfolg des Produkts beitragen. 
+Dies können Kunden, Team-Mitglieder und interne Stakeholder sein. 
+Besonders effektiv ist die Arbeit, wenn all diese Menschen an einem Ort zusammenkommen. 
+Einige Punkte des Inception Decks können im Vorfeld des Workshops ggf. schon vorbereitet werden. 
+So hast du als Product Owner hast vielleicht schon Ideen für die Antworten auf die Punkte 1-4.
 
-We piloted the idea of creating a cross-functional product focused pod. 
-This group of people were assembled as a team and had varied understandings of systems, architecture and applications. 
-It was then that we piloted our first inception.
+Bis ein Inception Deck ausgefüllt ist, kann es einige Tage oder auch bis zu zwei Wochen dauern.
 
-We bring all team members, key stakeholders and customers into the same room (yes, we fly remote members out for this)
+Den Inception Workshop und das daraus resultierende Inception Deck setzt du vor dem Start der operativen Arbeit an einem Projekt ein, um alle an Bord zu holen und die schwierigen Fragen zu beantworten.
+Da die im Inception Deck enthaltenen Informationen sich auf einen Zeitraum von ca. 6 Monaten beziehen, wird das Inception Deck regelmäßig angepasst. 
+Es dient dann zur Vorbereitung des nächsten großen Meilensteins.
 
-alle schwierigen Fragen beantworten, bevor das Projekt los geht
+Außerdem sollte das Inception Deck immer, wenn sich die Richtung der Produktarbeit oder ein Ziel ändert, überprüft werden.
 
-By putting the team through a series of exercises and capturing the output on a slide deck (usually PowerPoint), we can collectively get a pretty good idea about what this project is, what it isn’t, and what it’s going to take to deliver.
-
-This includes customers, stakeholders, team members, developers, testers, analysts—anyone who can materially contribute to the effective execution of the project.
-
-A typical inception deck can take anywhere from a couple days to about two weeks to build. It’s good for about six months of project planning and should be revisited anytime there is a major change in the spirit or direction of the project.
-
-Upon completion, teams like to put it up on the wall in their work areas to let it serve as a reminder about what they are working on and why.
-
+Das Inception Deck kann im Team Space aufgehängt werden um alle daran zu erinnern, was das Ziel ist.
    
 ## Beispiele
-
-https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
+Ein [Beispiel-Inception Deck findet ihr auf der Website von Jonathan Rasmusson.](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
 
 ## Tools
+Wir empfehlen das Inception Deck Template von Jonathan Rasmusson.
 https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
 weiterentwickelte Version https://martinfowler.com/articles/lean-inception/
 
 ## Fragen
+* Wen würdest du zu einem Inception Workshop einladen?
+* Welcher der 10 Punkte des Inception Decks wäre für dich und dein Team am schwersten zu beantworten?
+* Auf welche Punkte des Inception Decks würde jedes Teammitglied die gleiche Antwort geben?
+* Lohnt sich ein Inception Workshop für dein Produkt?
 
 
 ## Diskussionen
 [Hier geht es zur den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49994) über *Inception Decks* auf dem oncampus.
 
 ## Downloads
-https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
+[Das Inception Deck Template von Jonathan Rasmusson]()
+
 
 ## Quellen, Links und Hinweise
 
-https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
+[Ausführlichere Beschreibung des Inception Decks sowie ein Beispiel von Jonathan Rasmusson](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
-https://martinfowler.com/articles/lean-inception/
+[Artikel zur Lean Inception von Paolo Caroli](https://martinfowler.com/articles/lean-inception/)
 
-https://tech.ticketmaster.com/2016/05/26/how-agile-inceptions-are-changing-ticketmasters-team-culture/
+[Präsentation Lean Inception Activities von Paolo Caroli](https://www.slideshare.net/paulocaroli/lean-inception-activities)
 
-aufgezeichnete Meetup Session von Agile Oxfordshire Meetup
-https://www.youtube.com/watch?v=H-aRpAoEdrU
+[Artikel von Ticketmaster über den Einsatz von Inception Decks im Unternehmen](https://tech.ticketmaster.com/2016/05/26/how-agile-inceptions-are-changing-ticketmasters-team-culture/)
+
+[aufgezeichnete Meetup Session zu Inception Decks von Agile Oxfordshire Meetup](https://www.youtube.com/watch?v=H-aRpAoEdrU)
+
