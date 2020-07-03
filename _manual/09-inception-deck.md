@@ -16,8 +16,10 @@ Zu Beginn eines Vorhabens sind die Vorstellungen der Beteiligten davon, was "Erf
 Durch das Erarbeiten eines Inception Decks werden Vorstellungen und Annahmen transparent. 
 Das ermöglicht wiederum, sich auf eine gemeinsame Sichtweise zu Kontext, Zielen, Zielgruppen und zu erledigenden Dingen zu einigen. 
 
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Stakeholdern können auf Basis des Inception Decks eine Go- oder No go- Entscheidung für das Produkt treffen.
 Dein Produktteam trifft mit Hilfe des Inception Decks bessere Entscheidungen im Alltag. 
+{: .notice--primary}
 
 ## Geschichte
 
@@ -29,10 +31,9 @@ Das Tool wurde von Paolo Caroli weiterentwickelt.
 Caroli nennt diese Weiterentwicklung Lean Inception, da sie sich ausschließlich auf Fragen beschränkt, die das zu entwickelnde Produkt betreffen.
 
 ## Funktionsweise
-Das Inception Deck besteht aus 10 Fragen bzw. Aufgaben, die erledigt werden müssen, bevor das Vorhaben in die operative Phase starten kann.
+Das Inception Deck besteht aus 10 Punkten, die geklärt werden müssen, bevor das Vorhaben in die operative Phase starten kann.
 
-
-Bild einfügen
+{% include figure image_path="assets/images/07-inception-deck-questions.png" alt="Die 10 Punkte des Inception Decks nach Jonathan Rasmusson" caption="Die 10 Punkte des Inception Decks nach Jonathan Rasmusson" %}
 
 ### 1. Warum sind wir hier?
 Hier wird festgehalten, was der Grund für die Entwicklung des Produkts ist. Warum investiert das Unternehmen? 
@@ -95,7 +96,6 @@ Das Inception Deck kann im Team Space aufgehängt werden um alle daran zu erinne
 ## Beispiele
 Ein [Beispiel-Inception Deck findet ihr auf der Website von Jonathan Rasmusson.](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
-
 ## Tools
 Wir empfehlen das Inception Deck Template von Jonathan Rasmusson.
 https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
@@ -112,8 +112,7 @@ weiterentwickelte Version https://martinfowler.com/articles/lean-inception/
 [Hier geht es zur den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49994) über *Inception Decks* auf dem oncampus.
 
 ## Downloads
-[Das Inception Deck Template von Jonathan Rasmusson]()
-
+[Das Inception Deck Template von Jonathan Rasmusson als PPT-Template]({{site.baseurl}}/assets/downloads/07-inception-deck-jonathan-rasmusson.pptx)
 
 ## Quellen, Links und Hinweise
 
