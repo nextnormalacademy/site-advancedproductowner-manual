@@ -32,7 +32,7 @@ Follet befasste sich mit Erfolgsfaktoren für Einbindung und Engagement in sozia
 Der Begriff „Stakeholder“ wurde erstmal 1963 durch das Stanford Research Institute eingeführt. 
 Einzug in die Literatur des strategischen Managements fand der Begriff “Stakeholder” allerdings erst mit der Veröffentlichung von Freemans „Stockholders and Stakeholders: A new perspective on Corporate Governance“ im Jahr 1984. 
 
-
+Die DIN 69901-5:2009 definiert die Stakeholderanalyse als die "Analyse der Projektbeteiligten hinsichtlich deren Einfluss auf das Projekt und deren Einstellungen (positiv oder negativ)".
 
 ## Funktionsweise
 
@@ -73,11 +73,15 @@ Je besser du dein Produktumfeld kennst, desto leichter wird es dir fallen, Stake
 
 Sobald du deine wesentlichen Stakeholder gesammelt hast, gilt es sie genauer zu betrachten.
 
-Ein Tool, dass dir bei der Analyse deiner Stakeholder und der Entwicklung einer Engagement-Strategie hilft  ist die Stakeholder-Einfluss-Matrix, bzw. das Power-Interest-Grid von Colin Eden und Fran Ackermann.
+Ein Tool, dass dir bei der Analyse deiner Stakeholder und der Entwicklung einer Strategie für ihre weitere Einbindung hilft ist die Stakeholder-Einfluss-Matrix, bzw. das Power-Interest-Grid von Colin Eden und Fran Ackermann.
 
 ({{site.baseurl}}/assets/images/08-Stakeholder-Einfluss-Matrix.png)
 
-Die Matrix ist entlang der zwei Achsen "Interesse" und "Einfluss" aufgebaut und besteht aus vier Feldern. Jedes Feld mappt eine Stakeholdergruppe mit einer konkreten Vorgehensweise.
+Die Matrix ist entlang der zwei Achsen "Interesse" und "Einfluss" aufgebaut und besteht aus vier Feldern. 
+Jedes Feld mappt eine Stakeholdergruppe mit einer konkreten Vorgehensweise.
+
+Es gilt nun abzuschätzen, wie viel Einfluss deine identifizierten Stakeholder über dein Produkt haben, bzw. wie sehr sie dadurch betroffen sind (tatsächlich und gefühlt).
+Auf Basis dieser Kombination lassen sich konkrete Maßnahmen festlegen, um sie im weiteren Projektverlauf entsprechend ihrer Erwartungen einzubinden.
 
 **Collaborate with the Players**
 
@@ -120,7 +124,7 @@ Eine ausführliche Beschreibung der Stakeholdergruppen findest du [hier beim Rom
 
 ### 4. Umsetzung der Strategie
 
-Nachdem du dir konkrete MAßnahmen überlegt hast, musst du diese natürlich auch umsetzten.
+Nachdem du dir konkrete Maßnahmen überlegt hast, musst du diese natürlich auch umsetzten.
 Du solltest prüfen, ob die deine Einschätzung für die jeweilige Einbindung auch für deine Stakeholder funktioniert.
 Wenn das nicht der Fall sein sollte, überarbeite deine Strategie.
 
@@ -131,17 +135,43 @@ Auch bestehende Maßnahmen gilt es zu hintergragen und bei Bedarf anzupassen.
 
 Als Product Owner gehört die Analyse und Arbeit von und mit Stakeholdern zu deinen wichtigsten Aufgaben.
 Du bist der zentraler Ansprechpartner für dein Produkt.
-Es empiehlt sich daher ab Projektbeginn oder sogar vor dem offiziellen Start eines Projektes/Produktes damit zu beginnen.
+Und während sich Methoden und Tools erlernen und anwenden lassen, ist der Umgang mit Menschen nie einfach.
+Es erfordert neben fachlicher Expertise und Know-How ebenso rhetorisches Geschick, Empathie und Erfahrung.
 
-Die Erkenntnisse der Stakeholderanalyse können dir bereits zu Projektbeginn sehr nützlich sein:
+
+Wir empfehlen dir daher für den Einsatz des Stakeholder Mappings, so früh wie möglich anzufangen.
+Bereits vor dem offiziellen Start deines Projektes, kann dir die Stakeholder Analyse helfen, da du unter anderem wichtige Fragen adressieren kannst:
+
 * Wen sollte ich zum Kickoff einladen?
 * Welche Beziehungen bestehen unter den Eingeladenen?
-* Wer hat Befürchtungen/Hemmungen im Zusammenhang mit dem Projekt/Produkt?
+* Wer könnte sich durch mein Produkt bedroht/angegriffen fühlen?
+* Ohne wessen Unterstützung wird mein Produkt scheitern?
+
+Nutze die Stakeholder Analyse um eine neue Perspektive auf das Projektgeschehen zu gewinnen!
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Nur weil du Stakeholdern und ihre Erwartungen identifiziert hast, bedeutet dies nicht, dass du die Erwartungen erfüllen musst.
 Entscheide stets überlegt, welche Erwartungen übernommen und akzeptiert und welche Erwartungen nicht angenommen werden und welche Konsequenzen sich daraus ergeben.
 {: .notice--warning}
+
+Die Durchführung einer Stakeholderanalyse ist nicht sehr einfach.
+Es gibt viele Quellen für Burteilungsfehler, wie:
+
+* unsere eigenen, oft unbewussten Vorurteile
+* von sich selbst auf andere schließen
+* das fehlinterpretieren von Aussagen und Handlungen Anderer
+* Hierarchie-Effekte
+* Rollenperspektiven
+* der HALO-Effekt
+* Sympathie und Antipathie
+* vorhande persönliche Tendenzen, z.B. zur Milde, Mitte oder Härte
+* und viele mehr...
+
+Wir empfehlen dir daher die Stakeholderanalyse entweder alleine oder mit ausgewählten Vertrauten zu erstellen.
+
+Denn deine Beurteilung von Gruppen oder Individuen könnte dem ein oder anderen durchaus nicht gefallen und so zu Missverständnissen und Verärgerung führen.
+
+Abgesehen vom konkreten Maßnahmenplan am Ende der Analyse sollten Ergebnisse, in denen womöglich persönliche Einschätzungen zu einelnen Gruppen oder Personen enthalten sind vertraulich behandelt oder direkt vernichtet werden.
 
 
 ## Beispiele
@@ -160,21 +190,16 @@ Wenn sie nicht in das Projekt eingebunden werden – z.B. als Besatzung der Mül
 Dieses Beispiel zeigt, dass du intensiv darüber nachdenken solltest, welche Personen oder Gruppen etwas zu verlieren haben, wenn sich der Status Quo ändert. 
 
 
-## Tools
-
-Ein Template vom Power-Interest-Grid findest du [hier]({{site.baseurl}}/assets/downloads/04-empathy-map-template-dave-gray.pdf).
-{: .notice--success}
-hier bei Roman Pichler.
 
 ## Fragen
 
+* Wie wichtig ist dir dein Bauchgefühl bei der Beurteilung von Stakeholdern?
+* Welche Informationsquellen helfen dir beim Einschätzen von Stakeholdern?
+* Gibt es eine Stakeholdergruppe deren Einbindung dir schwer fällt? Wenn ja, welche und warum?
 
 ## Diskussionen
 
 [Hier geht es zu den Diskussionen](LINK EINFÜGEN) über *Stakehodler Maps* auf dem oncampus.
-
-
-## Downloads
 
 
 ## Quellen, Links und Hinweise
