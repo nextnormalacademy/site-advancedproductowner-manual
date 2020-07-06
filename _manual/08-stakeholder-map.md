@@ -8,38 +8,40 @@ published: false
 Eine wesentliche Aufgabe für dich als Product Owner ist die Kommunikation mit und das Einbeziehen deiner Stakeholder.
 Stakeholder können den Erfolg deines Produktes fördern oder behindern. 
 
-Was genau ein Stakeholder ist und welche unterschiedlichen Beweggründe und Interessen Stakeholder haben können, haben wir im Kapitel "Kunden" (Link) beschrieben.
+Was genau ein Stakeholder ist und welche unterschiedlichen Beweggründe und Interessen Stakeholder haben können, haben wir im Kapitel [Kunden](https://manual.advancedproductowner.com/customers/). beschrieben.
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Stakeholder Management meint nicht die Zufriedenstellung deiner Stakeholder.
 Stattdessen solltest du als Product Owner proaktiv dafür sorgen, deine Stakeholder so zu berücksichtigen und zu führen, dass dein Product seinen angestrebten Nutzen erfüllen kann.
 {: .notice--warning}
 
-Es gibt verschiedene Mapping Tools die fürs Stakeholder Mapping nützlich sind. Wir stellen hier das Power-Interest-Grid (zu deutsch: 
+Es gibt verschiedene Mapping Tools, die für den planvollen Umgang mit Stakeholden nützlich sind. Wir fokussieren uns hier auf die Stakeholder Map und das Power-Interest-Grid (zu deutsch: Stakeholder-Einfluss-Matrix). 
+Diese beiden Tools bauen aufeinander auf. 
 
 ## Ziel
 
-Um fundierte Entscheidungen über den Umgang mit deinen Stakeholdern zu treffen, brauchst du eine Übersicht und strategische Einordnung deiner Stakeholder.
-Das Mapping deiner Stakeholder erlaubt dir genau das, sodass du konkrete Maßnahmen ableiten kannst.
+Die Kombination der  beiden Tools hat zum Ziel, dass du 
 
+* eine Übersicht deiner Stakeholder gewinnst
+* weißt, wie du mit welchen Stakeholdern umgehen solltest
+
+Dies erlaubt dir zu planen, wie du mit welchen Stakeholdern interagierst.
+Du kannst Maßnahmen zur Kommunikation, Abstimmung und zum Lenken von Erwartungen ableiten.
+
+Dabei dient die Stakeholder Map der ersten Übersicht und das Power-Interest-Grid der Kategorisierung der Stakeholder in Gruppen, mit denen du jeweils verschieden umgehen solltest.
 
 ## Geschichte
 
-Im Jahr 1918 entwickelte Mary Parker Follet in ihrem Werk „The New State“ erstmals ein „Stakeholder Concept“.
-Sie bezeichnete ihr Konzept jedoch als ein „interpenetrating system“ und sprach noch nicht von Stakeholdern.
-Follet befasste sich mit Erfolgsfaktoren für Einbindung und Engagement in sozialen Systemen.
+Stakeholder Map
 
-Der Begriff „Stakeholder“ wurde erstmal 1963 durch das Stanford Research Institute eingeführt. 
-Einzug in die Literatur des strategischen Managements fand der Begriff “Stakeholder” allerdings erst mit der Veröffentlichung von Freemans „Stockholders and Stakeholders: A new perspective on Corporate Governance“ im Jahr 1984. 
+Das Power-Interest-Grid wurde von Mendelow entwickelt. 
 
-Die DIN 69901-5:2009 definiert die Stakeholderanalyse als die "Analyse der Projektbeteiligten hinsichtlich deren Einfluss auf das Projekt und deren Einstellungen (positiv oder negativ)".
+
+
 
 ## Funktionsweise
 
-Das Managen von Stakeholdern lässt sich generisch in vier Teilaufgaben gliedern:
-Identifikation von Stakehodlern, Analyse von Stakeholdern, Entwicklung einer Strategie zum Umgang mit Stakeholdern und Umsetzen der Strategie.
-
-Beachte hierbei, dass jede Stakeholderanalyse  immer eine Momentaufnahme ist.
+Beachte hierbei, dass jedes Mapping von Stakeholdern immer eine Momentaufnahme ist.
 Sie muss im Lauf der Zeit aktualisiert werden, um wirksam zu bleiben.
 Zum einen können sich neue Stakeholder ergeben und bestehende Interesse können sich ändern.
 
@@ -55,7 +57,7 @@ Die Kategorisierung von Stakeholdern sollte immer kontextspezifisch erfolgen.
 Berücksichtige bei der Identifikation deiner Stakeholder die gesamte Wertschöpfungskette deines Produktes.
 {: .notice--warning}
 
-Fragestellungen, die dir bei der Identifikation von Staleholdern helfen können sind:
+Fragestellungen, die dir bei der Identifikation von Stakeholdern helfen können, sind:
 * Wen brauche ich für die Entwicklung, Vermarktung und Bereitstellung von meinem Produkt?
 * Wer unterstützt mich innerhalb/außerhalb meiner Organisation? 
 * Wer blockiert mich innerhalb/außerhalb meiner Organisation?
@@ -71,7 +73,7 @@ Je besser du dein Produktumfeld kennst, desto leichter wird es dir fallen, Stake
 
 ### Analyse von Stakeholdern und Entwicklung einer Strategie
 
-Sobald du deine wesentlichen Stakeholder gesammelt hast, gilt es sie genauer zu betrachten.
+Sobald du deine wesentlichen Stakeholder gesammelt hast, gilt es, sie genauer zu betrachten.
 
 Ein Tool, dss dir bei der Analyse deiner Stakeholder und der Entwicklung einer Strategie für ihre weitere Einbindung hilft ist die Stakeholder-Einfluss-Matrix, bzw. das Power-Interest-Grid von Colin Eden und Fran Ackermann.
 
@@ -80,14 +82,14 @@ Ein Tool, dss dir bei der Analyse deiner Stakeholder und der Entwicklung einer S
 Die Matrix ist entlang der zwei Achsen "Interesse" und "Einfluss" aufgebaut und besteht aus vier Feldern. 
 Jedes Feld mappt eine Stakeholdergruppe mit einer konkreten Vorgehensweise.
 
-Es gilt nun abzuschätzen, wie viel Einfluss deine identifizierten Stakeholder über dein Produkt haben, bzw. wie sehr sie dadurch betroffen sind (tatsächlich und gefühlt).
+Nun schätzt du ab, wie viel Einfluss deine identifizierten Stakeholder auf dein Produkt haben, bzw. wie sehr sie dadurch betroffen sind (tatsächlich und gefühlt).
 Auf Basis dieser Kombination lassen sich konkrete Maßnahmen festlegen, um sie im weiteren Projektverlauf entsprechend ihrer Erwartungen einzubinden.
 
 **Collaborate with the Players**
 
-Stakeholder die sowohl ein großes Interesse an deinem Produkt als auch über großen Einfluss verfügen heißen "Player".
-Hierbei handelt es sich um wichtige Partner für dich als Product Owners.
-Du solltest versuchen eng mit Ihnen zusammenzuarbeiten.
+Stakeholder, die sowohl ein großes Interesse an deinem Produkt als auch über großen Einfluss verfügen, heißen "Player".
+Hierbei handelt es sich um wichtige Partner für dich als Product Owner.
+Du solltest versuchen, eng mit Ihnen zusammenzuarbeiten.
 Lade Player zum Beispiel zu Product Strategy und Roadmap Workshops und Sprint Reviews ein.
 Sicher dir ihre Mithilfe, nutze ihr Ideen und ihr Wissen und baue eine vertrauensvolle Beziehungen zu ihnen auf.
  
@@ -135,7 +137,7 @@ Auch bestehende Maßnahmen gilt es, zu hinterfragen und bei Bedarf anzupassen.
 
 Als Product Owner gehört die Analyse und Arbeit von und mit Stakeholdern zu deinen wichtigsten Aufgaben.
 Du bist der zentraler Ansprechpartner für dein Produkt.
-Und während sich Methoden und Tools erlernen und anwenden lassen, ist der Umgang mit Menschen nie einfach.
+Während sich Methoden und Tools erlernen und anwenden lassen, ist der Umgang mit Menschen nie einfach.
 Es erfordert neben fachlicher Expertise und Know-How ebenso rhetorisches Geschick, Empathie und Erfahrung.
 
 Wir empfehlen dir daher für den Einsatz des Stakeholder Mappings, so früh wie möglich anzufangen.
