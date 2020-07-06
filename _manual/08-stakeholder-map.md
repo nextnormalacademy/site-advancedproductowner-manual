@@ -8,14 +8,16 @@ published: false
 Eine wesentliche Aufgabe für dich als Product Owner ist die Kommunikation mit und das Einbeziehen deiner Stakeholder.
 Stakeholder können den Erfolg deines Produktes fördern oder behindern. 
 
-Was genau ein Stakeholder ist und welche unterschiedlichen Beweggründe und Interessen Stakeholder haben können, haben wir im Kapitel [Kunden](https://manual.advancedproductowner.com/customers/). beschrieben.
+Was genau ein Stakeholder ist haben wir im Kapitel [Kunden](https://manual.advancedproductowner.com/customers/). beschrieben.
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Stakeholder Management meint nicht die Zufriedenstellung deiner Stakeholder.
-Stattdessen solltest du als Product Owner proaktiv dafür sorgen, deine Stakeholder so zu berücksichtigen und zu führen, dass dein Product seinen angestrebten Nutzen erfüllen kann.
+Stattdessen solltest du als Product Owner proaktiv dafür sorgen, deine Stakeholder so einzubinden, dass dein Product seinen angestrebten Nutzen erfüllen kann.
 {: .notice--warning}
 
-Es gibt verschiedene Mapping Tools, die für den planvollen Umgang mit Stakeholden nützlich sind. Wir fokussieren uns hier auf die Stakeholder Map und das Power-Interest-Grid (zu deutsch: Stakeholder-Einfluss-Matrix). 
+Um angemessen mit deinen Stakeholdern zu interagieren, empfiehlt sich eingangs eine Stakeholderanalyse. 
+Es gibt verschiedene Mapping Tools, die für die Analyse deiner Stakeholder nützlich sind. 
+Wir fokussieren uns hier auf die Stakeholder Map und das Power-Interest-Grid (zu deutsch: Stakeholder-Einfluss-Matrix). 
 Diese beiden Tools bauen aufeinander auf. 
 
 ## Ziel
@@ -32,11 +34,9 @@ Dabei dient die Stakeholder Map der ersten Übersicht und das Power-Interest-Gri
 
 ## Geschichte
 
-Stakeholder Map
+Das Stakeholder Onion Diagram zur Stakeholderanalyse wurde 2002 von Ian Alexander entwickelt. 
 
-Das Power-Interest-Grid wurde von Mendelow entwickelt. 
-
-
+Das Power-Interest-Grid wurde wurde zuerst 1991 von Mendelow entwickelt und später von Colin Eden und Fran Ackermann adaptiert. 
 
 
 ## Funktionsweise
@@ -101,18 +101,9 @@ Sie können zu großartige Verbündete werden, wenn du es schaffst sie richtig e
 Versuche sie beispielsweise regelmäßig zu Sprint Reviews einzuladen und ermutige sie, ihr Feedback zu teilen.
 
 
-**Consult the Context Settler**
+**Consult the Context Setter**
 
 Stakeholder mit geringem Interesse an deinem Produkt, aber einem großen Einfluss heißen "Context Settler".
-
-They affect the product’s context but they take little interest in the product itself. 
-An example is the person in charge of the development group: 
-If the individual does not help staff the development team properly, then the success of the product may be at risk. 
-Make sure that the context setters feel that their opinions, concerns, and ideas are heard and understood. 
-Regularly consult them, for instance, by having one-on-one meetings. 
-This ensures that their ideas and concerns are heard and it helps avoid nasty surprises. 
-Don’t let the context setters intimidate you and don’t allow them to dictate decisions. 
-Be strong and have the courage to say no even if faced with a powerful and pushy stakeholder. 
 
 **Inform the Crowd**
 
@@ -123,8 +114,6 @@ Sollte es größere Änderungen oder Updates geben könnte auch ein Newsletter d
 
 Eine ausführliche Beschreibung der Stakeholdergruppen findest du [hier beim Roman Pichler](https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/).
 
-
-### 4. Umsetzung der Strategie
 
 Nachdem du dir konkrete Maßnahmen überlegt hast, musst du diese natürlich auch umsetzten.
 Du solltest prüfen, ob die deine Einschätzung für die jeweilige Einbindung auch für deine Stakeholder funktioniert.
@@ -143,7 +132,7 @@ Es erfordert neben fachlicher Expertise und Know-How ebenso rhetorisches Geschic
 Wir empfehlen dir daher für den Einsatz des Stakeholder Mappings, so früh wie möglich anzufangen.
 Bereits vor dem offiziellen Start deines Projektes kann dir die Stakeholder Analyse helfen, da du unter anderem wichtige Fragen adressieren kannst:
 
-* Wen sollte ich zum Kickoff einladen?
+* Wen sollte ich zum Kick-Off einladen?
 * Welche Beziehungen bestehen unter den Eingeladenen?
 * Wer könnte sich durch mein Produkt bedroht/angegriffen fühlen?
 * Ohne wessen Unterstützung wird mein Produkt scheitern?
@@ -190,8 +179,6 @@ Wenn sie nicht in das Projekt eingebunden werden – z.B. als Besatzung der Mül
 
 Dieses Beispiel zeigt, dass du intensiv darüber nachdenken solltest, welche Personen oder Gruppen etwas zu verlieren haben, wenn sich der Status Quo ändert. 
 
-
-
 ## Fragen
 
 * Wie wichtig ist dir dein Bauchgefühl bei der Beurteilung von Stakeholdern?
@@ -202,8 +189,8 @@ Dieses Beispiel zeigt, dass du intensiv darüber nachdenken solltest, welche Per
 
 [Hier geht es zu den Diskussionen](LINK EINFÜGEN) über *Stakeholder Maps* auf dem oncampus.
 
-
 ## Quellen, Links und Hinweise
 * Heroes of Employee Engagement: Nr. 2 Mary Parker Follett https://peakon.com/de/blog/future-work-de/mary-parker-follett-management-theoretikerin/
-* Blogbeitrag von Roman Pichler über "GETTING STAKEHOLDER ENGAGEMENT RIGHT" https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/
+* [Blogbeitrag von Roman Pichler "Getting Stakeholder Engagement Right"](https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/)
+
 
