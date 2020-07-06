@@ -5,28 +5,28 @@ excerpt: “Stakeholder Map”
 toc: true
 published: false
 ---
-Eine wesentliche Aufgabe des Product Owners ist das Management seiner Stakeholder.
-Die strategische Einbeziehung relevanter Stakeholder ist maßgebend für den Erfolg oder auch Nicht-Erfolg deines Produktes.
+Eine wesentliche Aufgabe für dich als Product Owner ist die Kommunikation mit und das Einbeziehen deiner Stakeholder.
+Stakeholder können den Erfolg deines Produktes fördern oder behindern. 
 
-Was genau ein Stakeholder ist und welche unterschiedlichen Beweggründe und Interesse Stakeholder haben können, haben wir im Kapitel "Kunde" bereits für dich beschrieben.
+Was genau ein Stakeholder ist und welche unterschiedlichen Beweggründe und Interessen Stakeholder haben können, haben wir im Kapitel "Kunden" (Link) beschrieben.
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
-Stakeholder Management meint nicht die Zufriedenstellung deiner Stakehodler.
+Stakeholder Management meint nicht die Zufriedenstellung deiner Stakeholder.
 Stattdessen solltest du als Product Owner proaktiv dafür sorgen, deine Stakeholder so zu berücksichtigen und zu führen, dass dein Product seinen angestrebten Nutzen erfüllen kann.
 {: .notice--warning}
 
-Das Mapping deiner Stakehodler hilft dir bei dieser Aufgabe. 
+Es gibt verschiedene Mapping Tools die fürs Stakeholder Mapping nützlich sind. Wir stellen hier das Power-Interest-Grid (zu deutsch: 
 
 ## Ziel
 
-Damit du fundierte Entscheidungen über den Umgang mit deinen Stakeholdern treffen kannst, brauchst du eine Übersicht und strategische Einordnung deiner Stakeholder.
+Um fundierte Entscheidungen über den Umgang mit deinen Stakeholdern zu treffen, brauchst du eine Übersicht und strategische Einordnung deiner Stakeholder.
 Das Mapping deiner Stakeholder erlaubt dir genau das, sodass du konkrete Maßnahmen ableiten kannst.
 
 
 ## Geschichte
 
-Im Jahr 1918 entwickelte Mary Parker Follet in ihrem Werk „The New State“ erstmals ein „Stakeholder Konzept“.
-Wobei sie ihr Konzept als ein „interpenetraiting system“ bezeichnete und noch nicht von Stakeholdern sprach.
+Im Jahr 1918 entwickelte Mary Parker Follet in ihrem Werk „The New State“ erstmals ein „Stakeholder Concept“.
+Sie bezeichnete ihr Konzept jedoch als ein „interpenetrating system“ und sprach noch nicht von Stakeholdern.
 Follet befasste sich mit Erfolgsfaktoren für Einbindung und Engagement in sozialen Systemen.
 
 Der Begriff „Stakeholder“ wurde erstmal 1963 durch das Stanford Research Institute eingeführt. 
@@ -44,7 +44,7 @@ Sie muss im Lauf der Zeit aktualisiert werden, um wirksam zu bleiben.
 Zum einen können sich neue Stakeholder ergeben und bestehende Interesse können sich ändern.
 
 
-### Identifikation von Stakehodlern
+### Identifikation von Stakeholdern
 
 Wollte man die Ziele und Ambitionen aller Stakeholder berücksichtigen, würde dies jeglichen sinnvollen Rahmen sprengen.
 Es empfiehlt sich daher auf die wesentlichen, d.h. einflussreichsten Stakehodler zu fokussieren.
@@ -73,7 +73,7 @@ Je besser du dein Produktumfeld kennst, desto leichter wird es dir fallen, Stake
 
 Sobald du deine wesentlichen Stakeholder gesammelt hast, gilt es sie genauer zu betrachten.
 
-Ein Tool, dass dir bei der Analyse deiner Stakeholder und der Entwicklung einer Strategie für ihre weitere Einbindung hilft ist die Stakeholder-Einfluss-Matrix, bzw. das Power-Interest-Grid von Colin Eden und Fran Ackermann.
+Ein Tool, dss dir bei der Analyse deiner Stakeholder und der Entwicklung einer Strategie für ihre weitere Einbindung hilft ist die Stakeholder-Einfluss-Matrix, bzw. das Power-Interest-Grid von Colin Eden und Fran Ackermann.
 
 ({{site.baseurl}}/assets/images/08-Stakeholder-Einfluss-Matrix.png)
 
@@ -128,8 +128,8 @@ Nachdem du dir konkrete Maßnahmen überlegt hast, musst du diese natürlich auc
 Du solltest prüfen, ob die deine Einschätzung für die jeweilige Einbindung auch für deine Stakeholder funktioniert.
 Wenn das nicht der Fall sein sollte, überarbeite deine Strategie.
 
-Wie bereits erwähnt solltest du regelmaig überlegen, ob sich neue Stakeholder gebildet haben und dir für sie wieder eine geeignete Maßnahme zur Einbindung überlegen.
-Auch bestehende Maßnahmen gilt es zu hintergragen und bei Bedarf anzupassen. 
+Wie bereits erwähnt solltest du regelmäßig überlegen, ob es neue Stakeholder gibt und dir für sie wieder eine geeignete Maßnahme zur Einbindung überlegen.
+Auch bestehende Maßnahmen gilt es, zu hinterfragen und bei Bedarf anzupassen. 
 
 ## Einsatz
 
@@ -138,24 +138,23 @@ Du bist der zentraler Ansprechpartner für dein Produkt.
 Und während sich Methoden und Tools erlernen und anwenden lassen, ist der Umgang mit Menschen nie einfach.
 Es erfordert neben fachlicher Expertise und Know-How ebenso rhetorisches Geschick, Empathie und Erfahrung.
 
-
 Wir empfehlen dir daher für den Einsatz des Stakeholder Mappings, so früh wie möglich anzufangen.
-Bereits vor dem offiziellen Start deines Projektes, kann dir die Stakeholder Analyse helfen, da du unter anderem wichtige Fragen adressieren kannst:
+Bereits vor dem offiziellen Start deines Projektes kann dir die Stakeholder Analyse helfen, da du unter anderem wichtige Fragen adressieren kannst:
 
 * Wen sollte ich zum Kickoff einladen?
 * Welche Beziehungen bestehen unter den Eingeladenen?
 * Wer könnte sich durch mein Produkt bedroht/angegriffen fühlen?
 * Ohne wessen Unterstützung wird mein Produkt scheitern?
 
-Nutze die Stakeholder Analyse um eine neue Perspektive auf das Projektgeschehen zu gewinnen!
+Nutze die Stakeholder Analyse, um eine neue Perspektive auf das Projektgeschehen zu gewinnen!
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Nur weil du Stakeholdern und ihre Erwartungen identifiziert hast, bedeutet dies nicht, dass du die Erwartungen erfüllen musst.
 Entscheide stets überlegt, welche Erwartungen übernommen und akzeptiert und welche Erwartungen nicht angenommen werden und welche Konsequenzen sich daraus ergeben.
 {: .notice--warning}
 
-Die Durchführung einer Stakeholderanalyse ist nicht sehr einfach.
-Es gibt viele Quellen für Burteilungsfehler, wie:
+Die Durchführung einer Stakeholder Analyse ist nicht einfach.
+Es gibt viele Quellen für Beurteilungsfehler, wie:
 
 * unsere eigenen, oft unbewussten Vorurteile
 * von sich selbst auf andere schließen
@@ -167,16 +166,16 @@ Es gibt viele Quellen für Burteilungsfehler, wie:
 * vorhande persönliche Tendenzen, z.B. zur Milde, Mitte oder Härte
 * und viele mehr...
 
-Wir empfehlen dir daher die Stakeholderanalyse entweder alleine oder mit ausgewählten Vertrauten zu erstellen.
+Wir empfehlen dir daher, die Stakeholderanalyse entweder alleine oder mit ausgewählten Vertrauten zu erstellen.
 
-Denn deine Beurteilung von Gruppen oder Individuen könnte dem ein oder anderen durchaus nicht gefallen und so zu Missverständnissen und Verärgerung führen.
+Deine Beurteilung von Gruppen oder Individuen könnte dem ein oder anderen durchaus nicht gefallen und so zu Missverständnissen und Verärgerung führen.
 
-Abgesehen vom konkreten Maßnahmenplan am Ende der Analyse sollten Ergebnisse, in denen womöglich persönliche Einschätzungen zu einelnen Gruppen oder Personen enthalten sind vertraulich behandelt oder direkt vernichtet werden.
+Abgesehen vom konkreten Maßnahmenplan am Ende der Analyse sollten Ergebnisse, in denen womöglich persönliche Einschätzungen zu einzelnen Gruppen oder Personen enthalten sind, vertraulich behandelt oder direkt vernichtet werden.
 
 
 ## Beispiele
-Beispiel(angebracht?):
-Ein Projekt hat das Ziel eine organisierte und professionelle Müllabfuhr in einer Kleinstadt in einem Entwicklungsland einzuführen. 
+Beispiel:
+Ein Projekt hat das Ziel, eine organisierte und professionelle Müllabfuhr in einer Kleinstadt in einem Entwicklungsland einzuführen. 
 Der Müll soll in Zukunft nicht mehr auf der Straße liegen, sondern an eine Recyclinganlage außerhalb der Stadt verkauft werden.
 
 Dadurch soll die Gefahr, die von dem herumliegenden Müll ausgeht, beseitigt werden, das Grundwasser geschützt sowie generell die Umweltverschmutzung reduziert werden. 
@@ -195,11 +194,11 @@ Dieses Beispiel zeigt, dass du intensiv darüber nachdenken solltest, welche Per
 
 * Wie wichtig ist dir dein Bauchgefühl bei der Beurteilung von Stakeholdern?
 * Welche Informationsquellen helfen dir beim Einschätzen von Stakeholdern?
-* Gibt es eine Stakeholdergruppe deren Einbindung dir schwer fällt? Wenn ja, welche und warum?
+* Gibt es eine Stakeholdergruppe, deren Einbindung dir schwer fällt? Wenn ja, welche und warum?
 
 ## Diskussionen
 
-[Hier geht es zu den Diskussionen](LINK EINFÜGEN) über *Stakehodler Maps* auf dem oncampus.
+[Hier geht es zu den Diskussionen](LINK EINFÜGEN) über *Stakeholder Maps* auf dem oncampus.
 
 
 ## Quellen, Links und Hinweise
