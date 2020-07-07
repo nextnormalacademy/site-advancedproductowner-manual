@@ -36,7 +36,7 @@ Dabei dient die Stakeholder Map der ersten Übersicht und das Power-Interest-Gri
 
 Das Stakeholder Onion Diagram zur Stakeholderanalyse wurde 2002 von Ian Alexander entwickelt. 
 
-Das Power-Interest-Grid wurde wurde zuerst 1991 von Mendelow entwickelt und später von Colin Eden und Fran Ackermann adaptiert. 
+Das Power-Interest-Grid geht zurück auf Aubrey Mendelow (1991). Es wurde später von Colin Eden und Fran Ackermann adaptiert. 
 
 
 ## Funktionsweise
@@ -192,5 +192,5 @@ Dieses Beispiel zeigt, dass du intensiv darüber nachdenken solltest, welche Per
 ## Quellen, Links und Hinweise
 * Heroes of Employee Engagement: Nr. 2 Mary Parker Follett https://peakon.com/de/blog/future-work-de/mary-parker-follett-management-theoretikerin/
 * [Blogbeitrag von Roman Pichler "Getting Stakeholder Engagement Right"](https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/)
-
+* Ackermann, Fran; Eden, Colin (2011): Strategic Management of Stakeholders: Theory and Practice, in: Long Range Planning Ausgabe 44, 
 
