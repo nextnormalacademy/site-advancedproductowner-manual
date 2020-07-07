@@ -47,7 +47,7 @@ Roman Pichler hat diese Version aufgegriffen und fokussiert auf diejenigen Stake
 
 Das Stakeholder Onion Diagram ist, wie der Name schon sagt, zwiebelartig aufgebaut. 
 
-BILD EINFÜGEN
+{% include figure image_path="assets/images/08-stakeholder-onion-diagram.png" alt="Das Stakeholder Onion Diagram von Ian Alexander" caption="Das Stakeholder Onion Diagram von Ian Alexander" %}
 
 Im Kern der Zwiebel befindet sich das Produkt bzw. der Service. 
 Der zweite Kreis bildet das "System" ab, in dem sich das Produkt befindet. 
@@ -79,8 +79,7 @@ Sobald du deine Stakeholder identifiziert hast, gilt es, sie genauer zu betracht
 
 Bei der Analyse deiner Stakeholder und der Entwicklung einer Interaktions- und Kommunikationsstrategie hilft dir das Power-Interest-Grid.
 
-BILD EINFÜGEN
-({{site.baseurl}}/assets/images/08-Stakeholder-Einfluss-Matrix.png)
+{% include figure image_path="assets/images/08-power-interest-grid.png" alt="Das Power-Interest-Grid Eden und Ackermann" caption="Das Stakeholder Onion Diagram von Ian Alexander" %}
 
 Die Matrix ist entlang der zwei Achsen "Interesse" und "Einfluss" aufgebaut und besteht aus vier Feldern. 
 Jedes Feld mappt eine Stakeholdergruppe mit einer richtungsgebenden Empfehlung hinsichtlich ihrer Einbindung.
@@ -173,7 +172,7 @@ Auch digital geht das Erstellen aufgrund der einfachen Struktur der Tools schnel
 
 ## Diskussionen
 
-[Hier geht es zu den Diskussionen](LINK EINFÜGEN) über *Stakeholder Maps* auf dem oncampus.
+[Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49992) über *Stakeholder Maps* auf dem oncampus.
 
 ## Quellen, Links und Hinweise
 
