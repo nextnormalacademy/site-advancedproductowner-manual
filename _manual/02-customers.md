@@ -123,7 +123,7 @@ Wann immer wir der Ansicht sind, dass eigentlich eine andere Gruppe (Stakeholder
 Wir halten uns aber bei den Beschreibungen der Werkzeuge und Methoden an die etablierten Begriffe im jeweiligen Kontext. 
 
 ## Diskussionen
-[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47702-handbuch-kunden) über *Kunden* auf dem oncampus.
+[Hier geht es zum Diskussionsforum](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
 
 ## Links, Literatur & Quellen
 * [Das Agile Manifest](http://agilemanifesto.org/iso/de/manifesto.html)

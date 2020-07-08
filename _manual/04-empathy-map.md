@@ -149,7 +149,7 @@ Das Template für die Empathy Map von Dave Gray findest du [hier]({{site.baseurl
 
 ## Diskussionen
 
-[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47434-handbuch-empathy-map) über *Empathy Maps* auf dem oncampus.
+[Hier geht es zum Diskussionsforum](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
 
 ## Downloads
 

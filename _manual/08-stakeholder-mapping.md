@@ -172,7 +172,7 @@ Auch digital geht das Erstellen aufgrund der einfachen Struktur der Tools schnel
 
 ## Diskussionen
 
-[Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49992) über *Stakeholder Maps* auf dem oncampus.
+[Hier geht es zum Diskussionsforum](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
 
 ## Quellen, Links und Hinweise
 

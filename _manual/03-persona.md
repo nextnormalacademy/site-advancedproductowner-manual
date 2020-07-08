@@ -156,7 +156,7 @@ Holger Vornholt hat das [Template nach Powerpoint]({{site.baseurl}}/assets/downl
 
 ## Diskussionen
 
-[Hier geht es zu den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-5/47469-aufgabenforum-von-der-idee-zur-persona) über *Personas* auf dem oncampus.
+[Hier geht es zum Diskussionsforum](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
 
 ## Downloads
 
