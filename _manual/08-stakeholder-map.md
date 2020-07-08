@@ -1,6 +1,6 @@
 ---
-title: Stakeholder Map
-permalink: /stakeholder-map/
+title: Stakeholder Mapping
+permalink: /stakeholder-mapping/
 excerpt: “Stakeholder Map”
 toc: true
 published: false
