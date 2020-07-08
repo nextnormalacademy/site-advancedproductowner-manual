@@ -6,7 +6,7 @@ toc: true
 ---
 
 Dein Produkt oder Service erzeugt Wert auf eine bestimmte Art und Weise.
-Diese Art und Weise ist dein zugrundeliegende Geschäftsmodell. 
+Diese Art und Weise ist dein zugrunde liegendes Geschäftsmodell. 
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Dein Geschäftsmodell beschreibt das Grundprinzip, nach welchem dein Produkt Nutzen erzeugt.
