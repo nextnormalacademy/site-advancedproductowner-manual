@@ -172,7 +172,7 @@ Das Template für das Business Model von Strategyzer findest du [hier]({{site.ba
 
 ## Diskussionen
 
-[Hier geht es zum Diskussionsforum.](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
+[Hier geht es zum Diskussionsforum zu Handbuchkapiteln](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
 
 ## Downloads
 
