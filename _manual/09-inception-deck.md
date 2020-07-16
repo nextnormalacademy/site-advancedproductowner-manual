@@ -6,15 +6,15 @@ toc: true
 published: false
 ---
 
-Das Inception Deck schließt eine Lücke zwischen der strategischen Entscheidung über Produktvision und Business Model und dem Start der operativen Arbeit. 
+Das Inception Deck hilft dir beim Schließen der Lücke zwischen der strategischen Entscheidung über Produktvision und Business Model und dem Start der operativen Arbeit. 
 Es ist ein taktisches Tool, mit dem du die Erwartungen deiner Stakeholder auf ein gemeinsames Ziel hin abgleichen und ausrichten kannst.
 
 ## Ziel
 
 Ziel des Inception Decks ist es, wichtige Fragen zum Vorhaben zu klären und  einen gemeinsamen Ansatz zu formulieren. 
 Zu Beginn eines Vorhabens sind die Vorstellungen der Beteiligten davon, was "Erfolg" bedeutet, meistens sehr unterschiedlich. 
-Durch das Erarbeiten eines Inception Decks werden Vorstellungen und Annahmen transparent. 
-Das ermöglicht wiederum, sich auf eine gemeinsame Sichtweise zu Kontext, Zielen, Zielgruppen und zu erledigenden Dingen zu einigen. 
+Durch das Erarbeiten eines Inception Decks werden die unterschiedlichen Vorstellungen und Annahmen transparent. 
+Das ermöglicht wiederum, sich auf eine gemeinsame Sichtweise zu Kontext, Zielen, Zielgruppen und den zu erledigenden Dingen zu einigen. 
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Stakeholdern können auf Basis des Inception Decks eine Go- oder No go- Entscheidung für das Produkt treffen.
@@ -81,20 +81,20 @@ Das Inception Deck wird in einem Workshop mit Stakeholdern erarbeitet, die maßg
 Dies können Kunden, Team-Mitglieder und interne Stakeholder sein. 
 Besonders effektiv ist die Arbeit, wenn all diese Menschen an einem Ort zusammenkommen. 
 Einige Punkte des Inception Decks können im Vorfeld des Workshops ggf. schon vorbereitet werden. 
-So hast du als Product Owner hast vielleicht schon Ideen für die Antworten auf die Punkte 1-4.
+So hast du als Product Owner vielleicht schon Ideen für die Antworten auf die Punkte 1-4.
 
-Bis ein Inception Deck ausgefüllt ist, kann es einige Tage oder auch bis zu zwei Wochen dauern.
+Bis ein Inception Deck ausgefüllt ist, kann es einige Tage oder auch Wochen dauern.
 
 Den Inception Workshop und das daraus resultierende Inception Deck setzt du vor dem Start der operativen Arbeit an einem Projekt ein, um alle an Bord zu holen und die schwierigen Fragen zu beantworten.
-Da die im Inception Deck enthaltenen Informationen sich auf einen Zeitraum von ca. 6 Monaten beziehen, wird das Inception Deck regelmäßig angepasst. 
-Es dient dann zur Vorbereitung des nächsten großen Meilensteins.
+Da sich die im Inception Deck enthaltenen Informationen auf einen Zeitraum von ca. 6 Monaten beziehen, wird das Inception Deck regelmäßig angepasst. 
+Es dient dann zur Vorbereitung des nächsten großen Meilensteins im Projekt.
 
 Außerdem sollte das Inception Deck immer, wenn sich die Richtung der Produktarbeit oder ein Ziel ändert, überprüft werden.
 
-Das Inception Deck kann im Team Space aufgehängt werden um alle daran zu erinnern, was das Ziel ist.
+Das Inception Deck kann im Team Space aufgehängt werden, um alle daran zu erinnern, was das Ziel des Projektes ist.
    
 ## Beispiele
-Ein [Beispiel-Inception Deck findet ihr auf der Website von Jonathan Rasmusson.](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
+Ein [Beispiel-Inception Deck findest du auf der Website von Jonathan Rasmusson.](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
 ## Tools
 Wir empfehlen das Inception Deck Template von Jonathan Rasmusson.
@@ -109,20 +109,20 @@ weiterentwickelte Version https://martinfowler.com/articles/lean-inception/
 
 
 ## Diskussionen
-[Hier geht es zur den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49994) über *Inception Decks* auf dem oncampus.
+[Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49994) über *Inception Decks* auf dem oncampus.
 
 ## Downloads
 [Das Inception Deck Template von Jonathan Rasmusson als PPT-Template]({{site.baseurl}}/assets/downloads/07-inception-deck-jonathan-rasmusson.pptx)
 
 ## Quellen, Links und Hinweise
 
-[Ausführlichere Beschreibung des Inception Decks sowie ein Beispiel von Jonathan Rasmusson](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
+* [Ausführliche Beschreibung des Inception Decks sowie ein Beispiel von Jonathan Rasmusson](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
-[Artikel zur Lean Inception von Paolo Caroli](https://martinfowler.com/articles/lean-inception/)
+* [Artikel zur Lean Inception von Paolo Caroli](https://martinfowler.com/articles/lean-inception/)
 
-[Präsentation Lean Inception Activities von Paolo Caroli](https://www.slideshare.net/paulocaroli/lean-inception-activities)
+* [Präsentation Lean Inception Activities von Paolo Caroli](https://www.slideshare.net/paulocaroli/lean-inception-activities)
 
-[Artikel von Ticketmaster über den Einsatz von Inception Decks im Unternehmen](https://tech.ticketmaster.com/2016/05/26/how-agile-inceptions-are-changing-ticketmasters-team-culture/)
+* [Artikel von Ticketmaster über den Einsatz von Inception Decks im Unternehmen](https://tech.ticketmaster.com/2016/05/26/how-agile-inceptions-are-changing-ticketmasters-team-culture/)
 
-[aufgezeichnete Meetup Session zu Inception Decks von Agile Oxfordshire Meetup](https://www.youtube.com/watch?v=H-aRpAoEdrU)
+* [Aufgezeichnete Meetup Session zu Inception Decks von Agile Oxfordshire Meetup](https://www.youtube.com/watch?v=H-aRpAoEdrU)
 
