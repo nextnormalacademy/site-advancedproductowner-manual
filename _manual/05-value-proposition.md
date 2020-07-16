@@ -110,7 +110,7 @@ Wie das genau aussieht, kannst du dir [hier](https://www.peterjthomson.com/2013/
 
 ## Diskussionen
 
-[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-8/47755-aufgabenforum-von-der-empathy-map-und-dem-business-model-zur-value-proposition) über *Value Proposition* auf dem oncampus.
+[Hier geht es zum Diskussionsforum zu Handbuchkapiteln](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
 
 ## Downloads
 

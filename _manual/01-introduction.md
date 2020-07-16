@@ -113,7 +113,6 @@ Sollte dir etwas auffallen, das wir übersehen haben, sprich uns bitte in unsere
 
 ## Diskussionen
 
-Zu jedem Kapitel gibt es ein Diskussionsforum in unserem begleitenden MOOC.
-Die Foren sind jeweils am Ende des Kapitels verlinkt.
+Nutze das Diskussionsforumin unserem begleitenden MOOC.
 
-[Hier geht es zur den Diskussionen](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-allgemeine-diskussionen) zum *Advanced Product Owner Handbuch* auf dem oncampus.
+[Hier geht es zum Diskussionsforum](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) zum *Advanced Product Owner Handbuch* auf dem oncampus.
