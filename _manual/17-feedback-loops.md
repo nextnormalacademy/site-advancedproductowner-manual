@@ -220,3 +220,8 @@ In jedem Fall ist es eine Motivation für deine Feedbackgeber:innen, wenn sie wi
 
 Die Entscheidung, ein konkretes Feedback zu berücksichtigen oder nicht, ist die größte Macht und die größte Verantwortung, die du als Product Owner hast.
 Mit dieser Entscheidung bestimmst du maßgeblich über die Weiterentwicklung deines Produkts, dein Verhältnis zu deinen Feedbackgebern und damit auch über den Erfolg deines Produkts.
+
+## Downloads
+
+* [Ein Canvas für Feedback Loops inkl. Hinweise als PDF]({{site.baseurl}}/assets/downloads/17-feedback-loop-canvas.pdf)
+* [Ein Canvas für Feedback Loops inkl. Hinweise  als PPT]({{site.baseurl}}/assets/downloads/17-feedback-loop-canvas.pptx)
