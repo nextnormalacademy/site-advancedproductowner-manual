@@ -71,17 +71,63 @@ Solches Feedback solltest du als Backlog Item aufnehmen.
 
 ## Flight Level
 
+Feedback Loops können auf drei verschiedenen Ebenen laufen:
+
 * Strategische Ebene
 * Taktische Ebene
 * Operative Ebene
 
-**-- DRAFT --**
-{: .notice--danger}
+Die einfachsten und in der Regel schnellsten Feedback Loops findest du auf der operativen Ebene.
+Diese Feedback Loops kannst du in den meisten Fällen mit deinem Team durchlaufen.
+Feedback Loops auf der operativen Ebenen helfen dir zu erkennen, wie gut du Qualitätsmerkmale erfüllst.
+Eine Daumenregel ist: wenn du es intern abbilden kannst, ist es auf der operativen Ebene.
+
+Auf der taktischen Ebene wird es spannen, denn hier kommt das Feedback von außerhalb.
+Die Feedback Loops auf dieser Ebene benötigen in den meisten Fällen Kontakt zu Kunden oder anderen Stakeholdern mit direktem Interesse an deinem Vorhaben.
+Hier geht es nicht mehr darum, ob ein Qualitätsmerkmal erfüllt ist, sondern wie es aus Sicht deiner Nutzer zu den anderen passt.
+
+Die strategische Ebene beinhaltet die Feedback Loops mit denen du den langfristigen Horizont im Auge behältst.
+Hier geht es darum, ob die prinzipielle Ausrichtung stimmt, ob dein Business Model funktioniert und ob du bestimmte Nutzergruppen als Kunden gewinnen möchtest oder nicht.
+
+Wenn du mit deinem Vorhaben startest, ist es wichtig, von Anfang an Feedback Loops auf allen drei Ebenen bewusst zu benutzen.
+Häufig verlieren Product Owner die operative und die strategische Ebene zu schnell aus den Augen - weil sich das Team um's Operative kümmert und die Strategie im Tagesgeschäft zu selten betrachtet wird.
+Erfolgreich wist du mit deinem Vorhaben aber nur sein können, wenn du auf allen drei Ebenen aktiv Feedback Loops nutzt.
+
+<div markdown="1">
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
+Feedback Loops können auf drei verschiebenen Flight Leveln mit unterschiedlichen Feedbackgebern laufen.
+- Strategische Ebene: primär extern, Feedback von Stakeholdern oder durch Tests von Hypothesen zum Gesamtbild des Vorhabens
+- Taktische Ebene: primär extern, Feedback von echten Nutzern zu einem größeren Deliverable, das nicht mehr direkt beschrieben werden kann
+- Operative Ebene: primär intern, Feedback zu einzelnen Qualitätsmerkmalen, die gut beschrieben werden können
+</div>
+{: .notice--primary}
 
 ## Latenz und Kadenz
 
-* Latenz: wie lange dauert es, bis ich nach dem Triggern des Feedback Loop Feedback erhalte
-* Kadenz: wie häufig kann oder werde ich den Feedback Loop triggern
+Der Zeitbezug deiner Feedback Loop wird durch Latenz und Kadenz beschrieben.
+
+Die Latenz eines Feedback Loop bestimmt, wie lange es dauert, bis du nach dem Triggern des Feedback Loop das Feedback tatsächlich entgegennehmen kannst.
+
+Die Kadenz eines Feedback Loop bestimmt, wie in welcher Frequenz du den Feedback Loop triggern kannst.
+
+Latenz und Kadenz müssten nicht zwangsläufig zusammenhängen.
+
+Es gibt Feedback Loops, in denen du augenblicklich Feedback erhältst, die aber in großen Abständen getriggert werden.
+Beispiele dafür sind der Sprint Review in Scrum oder die System Demo aus dem Scaled Agile Framework.
+
+In anderen Fällen kannst du den Feedback Loop jederzeit triggern, erhältst das Feedback aber erst nach mehreren Wochen.
+Ein Beispiel dafür sind Software-Lösungen, die dein Team via Continuous Delivery jederzeit ausliefern kann, die aber nicht direkt auf den Geräten der Nutzer landen - vielleicht weil diese nur einmal pro Quartal ein Update erhalten.
+
+Eine geringe Latenz ist nicht schlechter als eine hohe Latenz und eine niedrige Kadenz ist nicht schlechter ist eine hohe Kadenz.
+Wichtig für dich ist, dass du weißt, mit welcher Latenz du in deiner Feedback Loop rechnen musst und mit welcher Kadenz du sie triggern kannst.
+
+<div markdown="1">
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
+Der Zeitbezug von Feedback Loops drückt sich in einer Latenz und einer Kadenz aus:
+- Latenz: wie lange dauert es, bis ich nach dem Triggern des Feedback Loop Feedback erhalte
+- Kadenz: wie häufig kann oder werde ich den Feedback Loop triggern
+</div>
+{: .notice--primary}
 
 **-- DRAFT --**
 {: .notice--danger}
