@@ -3,7 +3,6 @@ title: Inception Deck
 permalink: /inception-deck/
 excerpt: “Lorem ipsum”
 toc: true
-published: false
 ---
 
 Das Inception Deck hilft dir beim Schließen der Lücke zwischen der strategischen Entscheidung über Produktvision und Business Model und dem Start der operativen Arbeit. 
