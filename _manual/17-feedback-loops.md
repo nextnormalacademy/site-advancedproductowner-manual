@@ -15,7 +15,7 @@ Feedback Loops sind ein wichtiges Werkzeug für Product Owner. Sie richtig einzu
 Dieses Kapitel soll die Grundlagen für einen effektiven Einsatz von Feedback Loops vermitteln.
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
-Es geht hier im Handbuch ausschließlich um Feedback und Feedbackmanagement als Bestandteil von Produktentwicklung und Produktmagagement.
+Es geht hier im Handbuch ausschließlich um Feedback und Feedbackmanagement als Bestandteil von Produktentwicklung und Produktmanagement.
 Persönliches Feedback im Sinne der Gruppendynamik wird nicht betrachtet.
 {: .notice--warning}
 
@@ -41,9 +41,9 @@ Um einen Feedback Loop zielgerichtet nutzen zu können, benötigst du einen *Geg
 Bei diesem Gegenstand wird es sich in den meisten Fällen um dein Produkt handeln.
 Feedback zum gesamten Produkt ist ab einer gewissen Größe und Komplexität des Produkts schwierig zu handhaben.
 Daher solltest du den Gegenstand des Feedback Loop einschränken.
-So eine Einschränkung kann ein Produktinkrement sein oder auch ein neu hinzugekommenes Feature.
+Der betrachtete Gegenstand kann dann ein Produktinkrement sein oder auch ein neu hinzugekommenes Feature.
 
-Die Beobachtung dieses Gegenstands führt zu Reaktionen.
+Die Beobachtung dieses Gegenstands führt zu Reaktionen, z.B. von Menschen oder technischen Systemen.
 Einige dieser Reaktionen wirst Du in Form von *Input* wahrnehmen.
 Der Input muss nicht zwangsläufig Feedback in deinem Sinne sein.
 Häufig äußern Menschen auch Meinungen, die durch andere Aspekte  wie aktuelle Emotionen, Erlebnisse, Erwartungen oder Gruppendynamik geprägt sind.
@@ -51,18 +51,18 @@ Dieses *Rauschen* ist der größte Anteil des Inputs.
 Für dich als Product Owner ist es wichtig, den Input auch nur als genau solchen zu betrachten: viel Rauschen, das ein wenig wertvolles Feedback enthält.
 
 Der nächste Schritt besteht im Herausfiltern des Feedbacks aus dem Input.
-Dazu bedarf es einer *Interpretation* der Inputs.
+Dazu bedarf es einer *Interpretation* des Inputs.
 Für diese Interpretation musst du neben dem Gegenstand auch einiges über die Verknüpfung von Beobachtung und Input wissen.
 Du musst den Kontext kennen, aus dem heraus der Input gegeben wurde.
 Auch die Zugehörigkeit der Quelle des Inputs ist relevant.
-Es ist ein Unterschied, ob ein Input von Betroffenen oder Beteiligten kommt, ob sie ein potentieller Nutzer oder die Entwicklerin eines Wettbewerbsproduktes gegeben hat.
+Es ist ein Unterschied, ob ein Input von Betroffenen oder Beteiligten kommt, ob sie potentielle Nutzer:innen oder die Entwickler:innen eines Wettbewerbsproduktes gegeben haben.
 
 Hast du das Feedback aus dem Input herausgefiltert, gilt es zu entscheiden, wie du darauf reagieren willst.
 Du musst *Handlungen* ableiten.
 Prinzipiell gibt es zwei Möglichkeiten: du kannst das Feedback berücksichtigen oder ignorieren.
 Wenn du es berücksichtigen möchtest, gibt es wiederum mehrere Varianten, wie das passieren kann.
-Du kannst es direkt umsetzen und die Veränderung am betrachteten Gegenstand durchführen.
-Machmal willst du aber auch nur Teile davon umsetzen oder Aspekte mehrerer Feedbacks kombinieren.
+Du kannst das Feedback komplett berücksichtigen und die Veränderung am betrachteten Gegenstand umsetzen.
+Manchmal willst du aber auch nur Teile des Feedbacks berücksichtigen oder Aspekte mehrerer Feedbacks kombinieren.
 Und dann gibt es Feedback, bei dem du heute noch nicht sicher bist, wie und wann du darauf reagieren möchtest.
 Solches Feedback solltest du als Backlog Item aufnehmen.
 
@@ -78,37 +78,37 @@ Feedback Loops können auf drei verschiedenen Ebenen laufen:
 * Operative Ebene
 
 Die einfachsten und in der Regel schnellsten Feedback Loops findest du auf der operativen Ebene.
-Diese Feedback Loops kannst du in den meisten Fällen mit deinem Team durchlaufen.
-Feedback Loops auf der operativen Ebenen helfen dir zu erkennen, wie gut du Qualitätsmerkmale erfüllst.
-Eine Daumenregel ist: wenn du es intern abbilden kannst, ist es auf der operativen Ebene.
+Diese Feedback Loops kannst du in den meisten Fällen allein mit deinem Team durchlaufen.
+Feedback Loops auf der operativen Ebene helfen dir zu erkennen, wie gut du Qualitätsmerkmale erfüllst.
+Eine Daumenregel ist: wenn du ihn intern abbilden kannst, handelt es sich um einen Feedback Loop auf der operativen Ebene.
 
-Auf der taktischen Ebene wird es spannen, denn hier kommt das Feedback von außerhalb.
-Die Feedback Loops auf dieser Ebene benötigen in den meisten Fällen Kontakt zu Kunden oder anderen Stakeholdern mit direktem Interesse an deinem Vorhaben.
-Hier geht es nicht mehr darum, ob ein Qualitätsmerkmal erfüllt ist, sondern wie es aus Sicht deiner Nutzer zu den anderen passt.
+Auf der taktischen Ebene wird es spannend, denn hier kommt das Feedback von außerhalb.
+Die Feedback Loops auf dieser Ebene benötigen in den meisten Fällen Kontakt zu Kund:innen oder anderen Stakeholdern mit direktem Interesse an deinem Vorhaben.
+Hier geht es nicht mehr darum, ob ein Qualitätsmerkmal erfüllt ist, sondern wie es aus Sicht deiner Nutzer:innen zu den anderen passt.
 
-Die strategische Ebene beinhaltet die Feedback Loops mit denen du den langfristigen Horizont im Auge behältst.
+Die strategische Ebene beinhaltet die Feedback Loops, mit denen du den langfristigen Horizont im Auge behältst.
 Hier geht es darum, ob die prinzipielle Ausrichtung stimmt, ob dein Business Model funktioniert und ob du bestimmte Nutzergruppen als Kunden gewinnen möchtest oder nicht.
 
 Wenn du mit deinem Vorhaben startest, ist es wichtig, von Anfang an Feedback Loops auf allen drei Ebenen bewusst zu benutzen.
-Häufig verlieren Product Owner die operative und die strategische Ebene zu schnell aus den Augen - weil sich das Team um's Operative kümmert und die Strategie im Tagesgeschäft zu selten betrachtet wird.
+Häufig verlieren Product Owner die operative und die strategische Ebene zu schnell aus den Augen - weil sich das Team ums Operative kümmert und die Strategie im Tagesgeschäft zu selten betrachtet wird.
 Erfolgreich wist du mit deinem Vorhaben aber nur sein können, wenn du auf allen drei Ebenen aktiv Feedback Loops nutzt.
 
 <div markdown="1">
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
-Feedback Loops können auf drei verschiebenen Flight Leveln mit unterschiedlichen Feedbackgebern laufen.
+Feedback Loops können auf drei verschiedenen Flight Levels mit unterschiedlichen Feedbackgeber:innen laufen.
 - Strategische Ebene: primär extern, Feedback von Stakeholdern oder durch Tests von Hypothesen zum Gesamtbild des Vorhabens
-- Taktische Ebene: primär extern, Feedback von echten Nutzern zu einem größeren Deliverable, das nicht mehr direkt beschrieben werden kann
+- Taktische Ebene: primär extern, Feedback von echten Nutzer:innen zu einem größeren Deliverable, das nicht mehr direkt beschrieben werden kann
 - Operative Ebene: primär intern, Feedback zu einzelnen Qualitätsmerkmalen, die gut beschrieben werden können
 </div>
 {: .notice--primary}
 
 ## Latenz und Kadenz
 
-Der Zeitbezug deiner Feedback Loop wird durch Latenz und Kadenz beschrieben.
+Der Zeitbezug deines Feedback Loops wird durch Latenz und Kadenz beschrieben.
 
-Die Latenz eines Feedback Loop bestimmt, wie lange es dauert, bis du nach dem Triggern des Feedback Loop das Feedback tatsächlich entgegennehmen kannst.
+Die Latenz eines Feedback Loops bestimmt, wie lange es dauert, bis du nach dem Triggern des Feedback Loops das Feedback tatsächlich entgegennehmen kannst.
 
-Die Kadenz eines Feedback Loop bestimmt, wie in welcher Frequenz du den Feedback Loop triggern kannst.
+Die Kadenz eines Feedback Loops bestimmt, in welcher Frequenz du den Feedback Loop triggern kannst.
 
 Latenz und Kadenz müssten nicht zwangsläufig zusammenhängen.
 
@@ -116,16 +116,16 @@ Es gibt Feedback Loops, in denen du augenblicklich Feedback erhältst, die aber 
 Beispiele dafür sind der Sprint Review in Scrum oder die System Demo aus dem Scaled Agile Framework.
 
 In anderen Fällen kannst du den Feedback Loop jederzeit triggern, erhältst das Feedback aber erst nach mehreren Wochen.
-Ein Beispiel dafür sind Software-Lösungen, die dein Team via Continuous Delivery jederzeit ausliefern kann, die aber nicht direkt auf den Geräten der Nutzer landen - vielleicht weil diese nur einmal pro Quartal ein Update erhalten.
+Ein Beispiel dafür sind Software-Lösungen, die dein Team via Continuous Delivery jederzeit ausliefern kann, die aber nicht direkt auf den Geräten der Nutzer:innen landen - vielleicht weil diese nur einmal pro Quartal ein Update erhalten.
 
 Eine geringe Latenz ist nicht schlechter als eine hohe Latenz und eine niedrige Kadenz ist nicht schlechter ist eine hohe Kadenz.
-Wichtig für dich ist, dass du weißt, mit welcher Latenz du in deiner Feedback Loop rechnen musst und mit welcher Kadenz du sie triggern kannst.
+Wichtig für dich ist, dass du weißt, mit welcher Latenz du in deinem Feedback Loop rechnen musst und mit welcher Kadenz du ihn triggern kannst.
 
 <div markdown="1">
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Der Zeitbezug von Feedback Loops drückt sich in einer Latenz und einer Kadenz aus:
-- Latenz: wie lange dauert es, bis ich nach dem Triggern des Feedback Loop Feedback erhalte
-- Kadenz: wie häufig kann oder werde ich den Feedback Loop triggern
+- Latenz: Wie lange dauert es, bis ich nach dem Triggern des Feedback Loop Feedback erhalte?
+- Kadenz: Wie häufig kann oder werde ich den Feedback Loop triggern?
 </div>
 {: .notice--primary}
 
@@ -134,8 +134,8 @@ Der Zeitbezug von Feedback Loops drückt sich in einer Latenz und einer Kadenz a
 
 ## Bewertung von Feedback Loops
 
-* welchen Nutzen ziehe ich aus einem Feedback Loop
-* wann höre ich auf, bestimmte Feedback Loops zu nutzen
+* Welchen Nutzen ziehe ich aus einem Feedback Loop?
+* Wann höre ich auf, bestimmte Feedback Loops zu nutzen?
 
 **-- DRAFT --**
 {: .notice--danger}
@@ -155,11 +155,11 @@ Auf keinen Fall solltest du den Gegenstand benennen oder beschreiben als:
 Klar abgegrenzte Gegenstände, zu denen du nützliches Feedback erhalten kannst, sind:
 * eine klare Visualisierung
 * ein konkret benanntes Feature
-* der Unterschied zur letzen Version deines Produkts
+* der Unterschied zur letzten Version deines Produkts
 
 Es ist außerdem wichtig, dir bewusst zu machen, in welchem Kontext und Ambiente du den Gegenstand präsentierst.
 Das beeinflusst stark, wie die Präsentation verläuft und hat damit Einfluss auf den Input.
-Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kunden oder im Internet vor unbekannten Menschen präsentierst sollte ein deutlicher Unterschied sein.
+Ob du in einem Meetingraum vor einem Lenkungsausschuss, auf einer Messe vor Kund:innen oder im Internet vor unbekannten Menschen präsentierst sollte ein deutlicher Unterschied sein.
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Die mächtigste Möglichkeit, Input zu erhalten, besteht darin, andere Menschen den Gegenstand nutzen zu lassen.
@@ -176,7 +176,7 @@ In einem Sprint Review kannst du ein Protokoll allen Inputs führen oder sie an 
 Auf einer Messe oder bei einer Präsentation im Internet wird das schon schwieriger.
 Hier bieten sich Methoden wie Interviews, Fragebögen oder Foren an, über die du den Input wahrnehmen kannst.
 
-Beachte: je diffuser die Gruppe von Menschen ist, die dir Input gibt, desto schwieriger wird es, den Input wahrzunehmen.
+Beachte: Je diffuser die Gruppe von Menschen ist, die dir Input gibt, desto schwieriger wird es, den Input wahrzunehmen.
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Die wichtigste Regel beim Wahrnehmen von Input ist: sammle alles!
