@@ -132,6 +132,10 @@ Der Zeitbezug von Feedback Loops drückt sich in einer Latenz und einer Kadenz a
 **-- DRAFT --**
 {: .notice--danger}
 
+Bei der Formulierung deiner Feedback Loops kannst du unser [Canvas für Feedback Loops]({{site.baseurl}}/assets/downloads/17-feedback-loop-canvas.pptx) nutzen.
+
+{% include figure image_path="/assets/images/13-feedback-loop-canvas.png" alt="Feedback Loop Canvas von Gerrit Beine" caption="Feedback Loop Canvas von Gerrit Beine" %}
+
 ## Bewertung von Feedback Loops
 
 * Welchen Nutzen ziehe ich aus einem Feedback Loop?
