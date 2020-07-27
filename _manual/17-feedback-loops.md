@@ -228,4 +228,5 @@ Mit dieser Entscheidung bestimmst du maßgeblich über die Weiterentwicklung dei
 ## Downloads
 
 * [Ein Canvas für Feedback Loops inkl. Hinweise als PDF]({{site.baseurl}}/assets/downloads/17-feedback-loop-canvas.pdf)
-* [Ein Canvas für Feedback Loops inkl. Hinweise  als PPT]({{site.baseurl}}/assets/downloads/17-feedback-loop-canvas.pptx)
+* [Ein Canvas für Feedback Loops inkl. Hinweise als .pptx]({{site.baseurl}}/assets/downloads/17-feedback-loop-canvas.pptx)
+
