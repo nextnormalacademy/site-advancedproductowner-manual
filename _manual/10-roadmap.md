@@ -33,7 +33,7 @@ Die zielorientierte Roadmap, auf die wir uns konzentrieren, wurde 2013 von Roman
 
 ## Funktionsweise
 Die zielorientierte Roadmap ist übersichtlich aufgebaut. 
-Die zielorientierte Roadmap zeigt die nächsten großen Releases eines Produkts über einen Zeitverlauf. 
+Sie zeigt die nächsten großen Releases eines Produkts über einen Zeitverlauf. 
 Ein Release beschreibt eine Produktversion, die Wert schafft. 
 Das Release bekommt auf der Roadmap einen Namen.
 
