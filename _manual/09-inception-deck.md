@@ -60,7 +60,7 @@ Wie sieht die grobe technische Architektur des Produkts aus?
 Welche Risiken bestehen für den E	rfolg des Produkts?
 
 ### 8. Wie groß ist das?  
-Wie lange wird es ungefähr dauern, um das beschriebene Produkt zu liefern?
+Wie lange wird die nächste Phase der Produktentwicklung ungefähr dauern?
 
 ### 9. Was muss dran glauben, wenn es eng wird?
 Welche Hebel sind für die nächste Phase der Produktentwicklung am wichtigsten? Ist es Zeit, Umfang, Budget, Qualität?
@@ -83,6 +83,10 @@ So hast du als Product Owner vielleicht schon Ideen für die Antworten auf die P
 Bis ein Inception Deck ausgefüllt ist, kann es einige Tage oder auch Wochen dauern.
 
 Den Inception Workshop und das daraus resultierende Inception Deck setzt du vor dem Start der operativen Arbeit an einem Projekt ein, um alle an Bord zu holen und die schwierigen Fragen zu beantworten.
+
+Das Deck bezieht sich in der ursprünglichen Konzeption von Jonathan Rasmusson auf den Zeitraum von einigen Monaten mit einem Release am Ende. 
+In der Praxis hat sich das Inception Deck auch für größere Vorhaben bewährt. Hier erstellst du die Antworten auf die Punkte 1-9 bezogen auf ein umfangreicheres Produkt und fasst zum Punkt 10 zusammen, was du für die erste Phase benötigst.
+
 Das Inception Deck sollte immer, wenn sich die Richtung der Produktarbeit oder ein Ziel ändert, überprüft werden.
 Außerdem sollten regelmäßig neue Erkenntnisse und Entwicklungen eingebracht werden.
 Das Inception Deck dient dann auch zur Vorbereitung des nächsten großen Meilensteins.
