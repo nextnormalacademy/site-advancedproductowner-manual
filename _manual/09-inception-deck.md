@@ -109,7 +109,7 @@ weiterentwickelte Version https://martinfowler.com/articles/lean-inception/
 
 
 ## Diskussionen
-[Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49994) über *Inception Decks* auf dem oncampus.
+[Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47546) zu *Handbuchkapiteln* auf dem oncampus.
 
 ## Downloads
 [Das Inception Deck Template von Jonathan Rasmusson als PPT-Template]({{site.baseurl}}/assets/downloads/07-inception-deck-jonathan-rasmusson.pptx)
