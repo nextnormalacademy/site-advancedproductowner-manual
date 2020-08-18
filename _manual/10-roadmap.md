@@ -37,10 +37,10 @@ Sie zeigt die nächsten großen Releases eines Produkts über einen Zeitverlauf.
 Ein Release beschreibt eine Produktversion, die Wert schafft. 
 Das Release bekommt auf der Roadmap einen Namen.
 
-Mit der zielorientierten Roadmap richtest du den Fokus auf die nähsten zu erreichenden Ziele. 
+Mit der zielorientierten Roadmap richtest du den Fokus auf die nächsten zu erreichenden Ziele. 
 Ziele beschreiben, warum das Release entwickelt werden soll. 
 So ein Ziel kann beispielsweise die Neukundenakquise oder das Reduzieren technischer Schulden sein. 
-Abgeleitet von diesen Zielen werden die umzusetzende Features ausgewählt, die zur Zielerreichung beitragen sollen.
+Abgeleitet von diesen Zielen werden die umzusetzenden Features ausgewählt, die zur Zielerreichung beitragen sollen.
 
 Schließlich legt die Roadmap fest, wie gemessen wird, ob das Ziel erreicht wurde. 
 Dadurch wird sichergestellt, dass nur messbare Ziele formuliert wurden.
@@ -75,7 +75,7 @@ In der Matrix siehst du Tipps für Zeithorizonte und Häufigkeit der Reviews, we
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Achte darauf, dass die Roadmap dir und deinen Stakeholdern trotz Unsicherheiten eine Orientierung gibt. 
 Plane daher nur für einen Zeitraum, den du realistisch einschätzen kannst.
-Ändert sich die Roadmap zu häufig, verfehlt sie ihren Zweck und Stakeholdern vertrauen nicht auf ihren Inhalt. 
+Ändert sich die Roadmap zu häufig, verfehlt sie ihren Zweck und Stakeholder vertrauen nicht auf ihren Inhalt. 
 {: .notice--warning}
 
 ### 2. Einbinden von Stakeholdern
@@ -93,7 +93,7 @@ Das Template für die zielorientierte Roadmap sieht vor, dass du ein festes Datu
 Dies hilft dir zu prüfen, ob das Ziel realistisch in dem angesetzten Zeitraum erreicht werden kann.
 Ein Nachteil eines festgelegten Datums kann sein, dass einige Stakeholder die Roadmap als Versprechen für das Erreichen der Ziele zu diesem Datum interpretieren. 
 Das wiederum kann Druck auf dich als Product Owner und dein Team erzeugen. 
-Es kann daher unter Umständen angebracht sein, einen Zeitraum anstatt eines festen Datums anzugeben und sich Hilfe vom Scrum Master oder Agile Coach zu erholen, die/der Sinn und Zweck einer agilen Roadmap für die Stakeholder noch einmal erläutert.
+Es kann daher unter Umständen angebracht sein, einen Zeitraum anstatt eines festen Datums anzugeben und sich Hilfe vom Scrum Master oder Agile Coach zu holen, die/der Sinn und Zweck einer agilen Roadmap für die Stakeholder noch einmal erläutert.
 
 ## Beispiele
 Roman Pichler stellt [in seinem Blog](https://www.romanpichler.com/blog/goal-oriented-agile-product-roadmap/) ein Beispiel für eine zielorientierte Roadmap vor:
