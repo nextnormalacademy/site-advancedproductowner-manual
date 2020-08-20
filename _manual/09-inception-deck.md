@@ -16,7 +16,7 @@ Durch das Erarbeiten eines Inception Decks werden die unterschiedlichen Vorstell
 Das ermöglicht wiederum, sich auf eine gemeinsame Sichtweise zu Kontext, Zielen, Zielgruppen und den zu erledigenden Dingen zu einigen. 
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
-Stakeholdern können auf Basis des Inception Decks eine Go- oder No go- Entscheidung für das Produkt treffen.
+Stakeholder können auf Basis des Inception Decks eine Go- oder No go- Entscheidung für das Produkt treffen.
 Dein Produktteam trifft mit Hilfe des Inception Decks bessere Entscheidungen im Alltag. 
 {: .notice--primary}
 
@@ -97,9 +97,7 @@ Das Inception Deck kann im Team Space aufgehängt werden, um alle daran zu erinn
 Ein [Beispiel-Inception Deck findest du auf der Website von Jonathan Rasmusson.](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
 ## Tools
-Wir empfehlen das Inception Deck Template von Jonathan Rasmusson.
-https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
-weiterentwickelte Version https://martinfowler.com/articles/lean-inception/
+Wir empfehlen das[Inception Deck Template von Jonathan Rasmusson.](https://agilewarrior.files.wordpress.com/2010/11/blank-inception-deck.pptx)
 
 ## Fragen
 * Wen würdest du zu einem Inception Workshop einladen?
