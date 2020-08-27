@@ -43,7 +43,7 @@ Feedback zum gesamten Produkt ist ab einer gewissen Größe und Komplexität des
 Daher solltest du den Gegenstand des Feedback Loop einschränken.
 Der betrachtete Gegenstand kann dann ein Produktinkrement sein oder auch ein neu hinzugekommenes Feature.
 
-Die Beobachtung dieses Gegenstands führt zu Reaktionen, z.B. von Menschen oder technischen Systemen.
+Die *Beobachtung* dieses Gegenstands führt zu Reaktionen, z.B. von Menschen oder technischen Systemen.
 Einige dieser Reaktionen wirst Du in Form von *Input* wahrnehmen.
 Der Input muss nicht zwangsläufig Feedback in deinem Sinne sein.
 Häufig äußern Menschen auch Meinungen, die durch andere Aspekte  wie aktuelle Emotionen, Erlebnisse, Erwartungen oder Gruppendynamik geprägt sind.
@@ -66,9 +66,6 @@ Manchmal willst du aber auch nur Teile des Feedbacks berücksichtigen oder Aspek
 Und dann gibt es Feedback, bei dem du heute noch nicht sicher bist, wie und wann du darauf reagieren möchtest.
 Solches Feedback solltest du als Backlog Item aufnehmen.
 
-**-- DRAFT --**
-{: .notice--danger}
-
 ## Flight Level
 
 Feedback Loops können auf drei verschiedenen Ebenen laufen:
@@ -79,10 +76,10 @@ Feedback Loops können auf drei verschiedenen Ebenen laufen:
 
 Die einfachsten und in der Regel schnellsten Feedback Loops findest du auf der operativen Ebene.
 Diese Feedback Loops kannst du in den meisten Fällen allein mit deinem Team durchlaufen.
-Feedback Loops auf der operativen Ebene helfen dir zu erkennen, wie gut du Qualitätsmerkmale erfüllst.
+Feedback Loops auf der operativen Ebene helfen dir zu erkennen, wie gut dein Produkt Qualitätsmerkmale erfüllt.
 Eine Daumenregel ist: wenn du ihn intern abbilden kannst, handelt es sich um einen Feedback Loop auf der operativen Ebene.
 
-Auf der taktischen Ebene wird es spannend, denn hier kommt das Feedback von außerhalb.
+Auf der taktischen Ebene wird es spannend, denn hier kommt das Feedback von außerhalb deines Teams.
 Die Feedback Loops auf dieser Ebene benötigen in den meisten Fällen Kontakt zu Kund:innen oder anderen Stakeholdern mit direktem Interesse an deinem Vorhaben.
 Hier geht es nicht mehr darum, ob ein Qualitätsmerkmal erfüllt ist, sondern wie es aus Sicht deiner Nutzer:innen zu den anderen passt.
 
@@ -104,13 +101,13 @@ Feedback Loops können auf drei verschiedenen Flight Levels mit unterschiedliche
 
 ## Latenz und Kadenz
 
-Der Zeitbezug deines Feedback Loops wird durch Latenz und Kadenz beschrieben.
+Der Zeitbezug deines Feedback Loops wird durch *Latenz* und *Kadenz* beschrieben.
 
 Die Latenz eines Feedback Loops bestimmt, wie lange es dauert, bis du nach dem Triggern des Feedback Loops das Feedback tatsächlich entgegennehmen kannst.
 
 Die Kadenz eines Feedback Loops bestimmt, in welcher Frequenz du den Feedback Loop triggern kannst.
 
-Latenz und Kadenz müssten nicht zwangsläufig zusammenhängen.
+Latenz und Kadenz sind zwei völlig unabhängige Dimensionen.
 
 Es gibt Feedback Loops, in denen du augenblicklich Feedback erhältst, die aber in großen Abständen getriggert werden.
 Beispiele dafür sind der Sprint Review in Scrum oder die System Demo aus dem Scaled Agile Framework.
@@ -128,9 +125,6 @@ Der Zeitbezug von Feedback Loops drückt sich in einer Latenz und einer Kadenz a
 - Kadenz: Wie häufig kann oder werde ich den Feedback Loop triggern?
 </div>
 {: .notice--primary}
-
-**-- DRAFT --**
-{: .notice--danger}
 
 Bei der Formulierung deiner Feedback Loops kannst du unser [Canvas für Feedback Loops]({{site.baseurl}}/assets/downloads/17-feedback-loop-canvas.pptx) nutzen.
 
@@ -184,6 +178,7 @@ Beachte: Je diffuser die Gruppe von Menschen ist, die dir Input gibt, desto schw
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Die wichtigste Regel beim Wahrnehmen von Input ist: sammle alles!
+<br/><br/>
 {: .notice--primary}
 
 ### Input interpretieren
