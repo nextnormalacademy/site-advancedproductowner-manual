@@ -11,7 +11,7 @@ Die Impact Map bildet die Brücke zwischen konkreten Liefergegenständen, z.B. F
 Damit schließt sie auch die Kommunikationslücke zwischen den Business- und Fachabteilungen und Software Teams.
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
-Gojko Adzic (2012) schreibt: *„In essence, you should care about impact mapping because it can help you build products and deliver projects that make an impact, not just ship software.“*
+Gojko Adzic (2012) schreibt: „In essence, you should care about impact mapping because it can help you build products and deliver projects that make an impact, not just ship software.“
 {: .notice--warning}
 
 ## Ziel
