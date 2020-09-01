@@ -8,21 +8,21 @@ published: false
 
 ## Einführung
 Die Impact Map bildet die Brücke zwischen konkreten Liefergegenständen, z.B. Features eines Produkts, und taktischen Zielen. 
-Damit schließt sie auch die Kommunikationslücke zwischen den Business- und Fachabteilungen und Software Teams.
+Damit schließt sie auch die Kommunikationslücke zwischen den Geschäfts- und Fachabteilungen und Software Teams.
 
 ![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
 Gojko Adzic (2012) schreibt: „In essence, you should care about impact mapping because it can help you build products and deliver projects that make an impact, not just ship software.“
 {: .notice--warning}
 
 ## Ziel
-Die Impact Map visualisiert Annahmen in Bezug auf die Wirkungen von Software Features auf ein Produktziel hin. 
-Sie unterstützt dabei, den Fokus zu behalten und eine schleichende Erweiterung des Lieferumfangs (sog. Scope Creep) eines Produkts zu unterbinden. 
-Investitionen in nicht notwendige Features werden durch die klare Ausrichtung auf messbare Ziele verhindert. 
-Diese hilft auch bei der Priorisierung von Features. 
+Durch die Impact Map kannst du Annahmen in Bezug auf die Wirkungen von Software Features auf dein Produktziel visualisieren. 
+Sie unterstützt dich dabei, den Fokus beizubehalten und eine schleichende Erweiterung des Lieferumfangs (den sog. Scope Creep) deines Produkts zu unterbinden. 
+Investitionen in nicht notwendige Features kannst du so durch die klare Ausrichtung auf messbare Ziele verhindern. 
+Diese hilft dir auch bei der Priorisierung von Features. 
 
 ## Geschichte
-Impact Maps wie wir sie hier vorstellen wurden 2012 von Gojko Adzic im gleichnamigen Buch beschrieben. 
-Sie basieren auf der InUse Effect Mapping Methode von Mijo Balic und Ingrid Domingues sowie Impact Maps von Robert O. Brinkerhoff zu Training und Lernen in Organisationen. 
+Impact Maps wie wir sie dir hier vorstellen wurden 2012 von Gojko Adzic in seinem gleichnamigen Buch beschrieben. 
+Sie basieren auf der InUse Effect Mapping Methode von Mijo Balic und Ingrid Domingues sowie Impact Maps von Robert O. Brinkerhoff die für Trainings und Lernen in Organisationen genutzt werden. 
 Weitere Impulse lieferten die Feature Injection von Chris Matts und Ideen zur Messbarkeit und iterativer Entwicklung von Tom Gilb. 
 
 ## Funktionsweise
@@ -33,20 +33,21 @@ Die Elementgruppen Goal, Actors, Impacts und Deliverables sind in der Impact Map
 
 {% include figure image_path="assets/images/11-impact-map-structure-gojko-adzic.png" alt="Ableitung von User Stories aus der Impact Map, Darstellung von Gojko Adzic" %}
 
-Durch die Darstellung werden die Beziehungen der Elemente zueinander deutlich.
+Durch diese Darstellung werden die Beziehungen der Elemente zueinander deutlich.
+Nachfolgend beschreiben wir dir die Elementargruppen genauer:
 
 ### Goal bzw. Why?
 Hier beantwortest du die Frage, was das (nächste) Ziel für dein Produkt ist.
 Empfehlenswert ist es, ein messbares Ziel anzugeben. 
-Das „Warum“ sorgt dafür, dass alle wissen, worauf es wirklich ankommt. 
-Du und dein Team können auch bei unvorhergesehenen Problemen zielführende Entscheidungen treffen.
+Das „Warum“ sorgt dafür, dass alle Beteiligten wissen, worauf es im Projekt wirklich ankommt. 
+Du und dein Team können so auch bei unvorhergesehenen Problemen zielführende Entscheidungen treffen.
 
 ### Actors bzw. Who? 
 Hier fragst du, wer zum Erreichen das Ziels beitragen kann. 
 Wer kann im positiven Sinne beitragen? 
 Wer kann den Erfolg verhindern? 
 Wer wird beeinflusst? 
-Hier solltest du so spezifisch wie möglich sein.
+Hier solltest du so spezifisch sein wie möglich.
 
 ### Impacts bzw. How?
 Hier beschreibst du, wie die Akteure die Zielerreichung beeinflussen (sollen).
@@ -56,23 +57,23 @@ Wie können sie uns behindern?
 
 ### Deliverables bzw. What?
 Was kannst du mit deinem Team tun, um den Akteuren bei der erwünschten Verhaltensänderung zu helfen? 
-Was musst du ihnen zur Verfügung stellen, um sie unterstützen? 
+Was musst du ihnen zur Verfügung stellen, um sie zu unterstützen? 
 Was kannst du tun, um negative Impacts zu vermeiden?
 
 Die Impact Map visualisiert Annahmen auf zwei Ebenen: 
 
-* die Annahme, dass ein Deliverable zu einer Verhaltensänderung eines Akteurs führt und dadurch den Impact hervorbringt
-* die Annahme, dass dieser Impact zum Erreichen des übergeordneten Ziels verhilft
+* die Annahme, dass ein Deliverable zu einer Verhaltensänderung eines Akteurs führt und dadurch den Impact hervorbringt und 
+* die Annahme, dass dieser Impact zum Erreichen des übergeordneten Ziels beiträgt
 
-Durch das Liefern eines Deliverables kannst du validieren, ob die Annahmen zu Verhaltensänderung und Erreichen des übergeordneten Ziels richtig waren.
+Durch das Liefern eines Deliverables kannst du validieren, ob die Annahmen zu Verhaltensänderung und dem Erreichen des übergeordneten Ziels richtig waren.
 Stellst du z.B. fest, dass der Impact keine positive Auswirkung auf das Ziel hat, richtest du den Fokus auf einen anderen zu bearbeitenden Impact. 
 
 ## Einsatz
 Die Impact Map kannst du für jeden Meilenstein in der Produktentwicklung erstellen. 
 Auch wenn du für dein Produkt bisher keine Impact Maps genutzt hast, kannst du von ihnen profitieren. 
 
-Das Tool macht wichtige Informationen transparent, angefangen mit dem Ziel, das erreicht werden soll. 
-Das Formulieren eines Ziels ist der erste Schritt der Erstellung einer Impact Map. 
+Die Impact Map kann wichtige Informationen transparent darstellen, angefangen mit dem Ziel, die erreicht werden sollen. 
+Das Formulieren eines Ziels ist der erste Schritt bei der Erstellung einer Impact Map. 
 Lege dann fest, wie du das Erreichen des Ziels messen möchtest. 
 
 <div markdown="1">
@@ -82,8 +83,8 @@ Gojko schreibt hierzu: „Ask: „If we achieve key targets for metrics with a c
 {: .notice--primary}!
 
 
-Im nächsten Schritt wird ausgehend vom formulierten Ziel mit den Metriken das Skelett der Impact Map mit Akteuren, Impacts und Deliverables erstellt.
-Auf dieser Basis werden alternative Akteure, Impacts und Deliverables formuliert, die zur Zielerreichung beitragen könnten. 
+Im nächsten Schritt erstellst du ausgehend vom formulierten Ziel mit deeinen Metriken das Skelett der Impact Map durch hinzufügen von Akteuren, Impacts und Deliverables.
+Auf dieser Basis formulierst du alternative Akteure, Impacts und Deliverables, die zur Zielerreichung beitragen könnten. 
 Ziel ist es, potenziell einfachere oder günstigere Wege zum Ziel zu finden.
 Schließlich markierst du auf der Map, welche Impacts mit welchen Deliverables priorisiert werden. Frage dich hierfür: 
 
@@ -93,31 +94,29 @@ Schließlich markierst du auf der Map, welche Impacts mit welchen Deliverables p
 
 <div markdown="1">
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
-“Never aim to implement the whole map. Instead, find the shortest path through the map to the goal”., Gojko Adzic, 2012
+“Never aim to implement the whole map. Instead, find the shortest path through the map to the goal”. Gojko Adzic, 2012
 </div>
 {: .notice--primary}!
 
-Die Struktur der Impact Map erleichtert außerdem das Formulieren von User Stories für das Product Backlog. 
+Die Struktur der Impact Map erleichtert dir außerdem das Formulieren von User Stories für das Product Backlog. 
 Aus jedem Deliverable kannst du nach diesem Muster eine User Story zum weiteren Refinement ableiten: 
 
 {% include figure image_path="assets/images/11-impact-map-user-stories-gojko-adzic.png" alt="Ableitung von User Stories aus der Impact Map, Darstellung von Gojko Adzic" %}
 
 Am besten erstellst du sie in einem Workshop mit Stakeholdern und deinem Team.
-Die Impact Map macht es dir durch ihre eingängige Struktur leicht, Menschen in verschiedenen Rollen und mit verschiedenen Hintergründen mit einzubinden.
+Die Impact Map macht es dir durch ihre eingängige Struktur leicht, Menschen in verschiedenen Rollen und mit verschiedenen Hintergründen einzubinden.
 Es kann hilfreich sein, zwei Workshops für eine Impact Map einzuplanen. 
 Stelle sicher, dass zwischen den Terminen genügend Zeit ist, um eventuell fehlende Informationen einzuholen. 
 
-Umfangreiche und detaillierte Informationen zum Erstellen einer Impact Map findest du im gleichnamigen Buch von Gojko Adzic. 
-Auch auf der Website zum Tool findest du Praxistipps.
 
 ## Beispiel
 
 {% include figure image_path="assets/images/11-impact-map-example-gojko-adzic.png" alt="Beispiel einer Impact Map für ein Onlinespiel von Gojko Adzic" %}
 
-Weitere Beispiele sind zu finden in Gojkos Buch „Impact Mapping“ und auf der Impact Mapping Website unter [Practical Usage](https://www.impactmapping.org/tips-and-tricks.html). 
+Weitere Beispiele und umfangreiche Informationen zum Erstellen einer Impact Map findest du in Gojkos Buch „Impact Mapping“ und auf der Impact Mapping Website unter [Practical Usage](https://www.impactmapping.org/tips-and-tricks.html). 
 
 ## Tools
-Mit genügend Wandfläche und Post-its könnt ihr die Impact Map wachsen lassen und diskutieren und priorisieren. 
+Mit genügend Wandfläche und Post-its könnt ihr die Impact Map wachsen lassen, diskutieren und priorisieren. 
 
 Es gibt außerdem verschiedene Onlinetools, die du fürs kollaborative Impact Mapping nutzen kannst, z.B. [UXPressia](https://uxpressia.com/impact-map-online-tool).
 Für miro gibt es ein Impact Mapping Template. 
@@ -127,9 +126,10 @@ Auch mit Gojko Adzics Tool [MindMup](https://www.mindmup.com/) kannst du Impact 
 
 * Welchen Nutzen kann die Impact Map für dein Projekt bringen?
 * Was ist deiner Meinung nach die größte Herausforderung beim Erstellen einer Impact Map?
+* Ab welchem Zeitpunkt merkst du, dass Annahmen deiner Impact Map überarbeitet werden sollten?
 
 ## Diskussionen
-[Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47546) zu *Handbuchkapiteln* auf dem oncampus.
+[Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47546) zu den *Handbuchkapiteln* auf dem oncampus.
 
 ## Downloads
 [Impact Mapping Cheat Sheet von Gojko Adzic](https://www.impactmapping.org/assets/cheatsheet.pdf)
