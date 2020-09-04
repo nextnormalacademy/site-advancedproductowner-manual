@@ -11,9 +11,10 @@ Dies gelingt, indem das eindimensionale Product Backlog in eine zweidimensionale
 
 
 ## Ziel
-Ziel ist es, im gesamten Team ein besseres Verständnis über die Anforderungen des Kunden gegenüber dem Produkt zu entwickeln.
-Dies gelingt durch die konsequente Ausrichtung an den durch den Nutzer auszuführenden Aktivitäten.
-Darüberhinaus hilft die Story Map bei der Releaseplanung, da durch die Darstellungsform konnen sowohl fehlende User Stories als Abhängigkeiten zwischen  User Stories identifiziert werden.
+Ziel ist es, im gesamten Team ein besseres Verständnis über Produktanforderungen zu entwickeln.
+Dies gelingt beim Story Mapping durch die konsequente Ausrichtung an den durch den Nutzer auszuführenden Aktivitäten.
+Darüberhinaus kann dir die Story Map bei der Releaseplannung helfen.
+Durch die Darstellungsform konnen sowohl fehlende User Stories als auch Abhängigkeiten zwischen exisiterenden User Stories identifiziert werden.
 
 »Story Mapping sorgt dafür, dass wir uns auf die Benutzer (User) und ihre Erfahrungen (User Experience) konzentrieren. 
 Das Ergebnis ist eine bessere Konversation und schlussendlich ein besseres Produkt.« 
@@ -27,18 +28,21 @@ Im Jahr 2014 beschreibt der die Methode ausführlich in seinem Buch „User Stor
 
 ## Funktionsweise
 
-Im Gegensatz zu einem flachen Product Backlog bietet dir die Story Map eine zweidimensionale Karte, durch die du und dein Team Zusammenhänge bei der Entwicklung einfacher nachvollziehen könnt.
-Der Aufbau einer Story Map sollte am besten im Team erfolgen. 
+Im Gegensatz zu einem flachen Product Backlog bietet dir die Story Map eine zweidimensionale Karte.
 
 Die horizontale Dimension orientiert sich an der Reihenfolge der Aktivitäten, die ein Nutzer bei der Verwendung deines Produktes durchführt. 
 Varianten oder Details der Ausführung dieser werden in Form von Tasks darunter ergänzt. 
 Über die vertikale Dimension kannst du die Detaillierung, bzw. die Notwendigkeit von Stories zur Umsetzung des MVP darstellen.
-Doch lass uns den Aufbau Stück für Stück erklären:
+
+
+{% include figure image_path="/assets/images/12-Story-Map-Aufbau.PNG" alt="-Aufbau einer Story Map" caption="-Aufbau einer Story Map" %}
+
+Doch lass uns den Aufbau Stück für Stück besprechen:
 
 ### Der Backbone
 
-Macht euch zunächst Gedanken über die Aktivitäten, die ein Nutzer bei der Verwendung eures Produktes durchzuführen hat. 
-Ordnet die Aktivitäten horizontal nach ihrer Durchführung an. 
+Der Backbone enthält alle Aktivitäten, die ein Nutzer durchzuführen kann. 
+Sie befinden sich horizontal in
 Dabei spielt es keine Rolle, ob diese manchmal in einer anderen Reihenfolge ausgeführt werden oder in einer spezifischen Situation komplett entfallen.
 Bei besonders groben Aktivitäten könnt ihr auch eine zweite Reihe mit detaillierteren Beschreibungen der Aktivitäten erarbeiten. 
 Hauptsache die Zuordnung bleibt bestehen und ihr achtet darauf, dass die detaillierteren Aktivitäten immer tiefer angeordnet sind als die abstrakteren Aktivitäten. 
@@ -67,12 +71,28 @@ Alternativ können die einzelnen User Tasks ohne weitere Sortierung durch Releas
 Deine Story Map kann sich im Projektverlauf durchaus verändern, z.B. wenn ihr durch Nutzerfeedback Input bekommen habt oder im Team eine tolle Idee für die Verbesserung eines Features bekommen habt. 
 Es empfiehlt sich daher regelmäßig mit der Story Map zu arbeiten, sie entweder physisch gut sichtbar oder virtuell leicht zugänglich bereitzustellen.
 
+## Einsatz
+Das Entwerfen der Story Map sollte am besten im Team erfolgen.
+
+### Den Rahmen feststecken
+### 
 
 ## Beispiele
 
 {% include figure image_path="/assets/images/12-Aufbau einer Story Map.jpg" alt="-Aufbau einer Story Map" caption="-Aufbau einer Story Map" %}
 
 ## Tools
+
+Wir empfehlen dir das gemeinsame Entwerfen der Story Map mit deinem Team.
+Analog benötigt das Story Mapping lediglich eine freie Fläche wie z.B. Wand, Fenster, Moderationswand oder Tischfläche. 
+Liegt bereits eine ähnliche Aufbereitung oder Visualisierung vor, berücksichtige entsprechend zusätzliche freie Fläche für weitere Sortierungen nach der Kundenreise. 
+Wenn z.B. bereits erste Inhalte vorbereitet wurden, kann es sich in der Gruppenarbeit herausstellen, dass diese aufgrund weiterer Abhängigkeiten anders gruppiert werden müssen. 
+Erfahrungsgemäß ist es umständlich, die Elemente innerhalb des bestehenden Aufbaus umzusortieren. 
+Auf einer weiteren freien Fläche können diese leichter Schritt für Schritt umgezogen und neu strukturiert werden.
+
+Digital gibt es mittlerweile mehrere Möglichkeiten.
+Je nachdem welche Tools schon in Verwendung sind bietet sowohl Mira, als auch Jira Addons an.
+Ansonsten existieren auch eigene Story Mapping Tools, wie zum Beispiel Craft.io.
 
 ## Fragen
 
@@ -85,6 +105,9 @@ Es empfiehlt sich daher regelmäßig mit der Story Map zu arbeiten, sie entweder
 
 [Hier geht es zum Diskussionsforum zu Handbuchkapiteln](https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-diskussionen) auf dem oncampus.
 
+## Downloads
+
+* [Jeff Patton Quick Reference für Story Mapping als PDF]({{site.baseurl}}/assets/downloads/12-story-map-concept-cheat-sheet.pdf)
 
 ## Quellen, Links und Hinweise
 
