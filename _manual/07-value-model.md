@@ -3,7 +3,6 @@ title: Nutzenmodelle
 permalink: /value-model/
 excerpt: “Lorem ipsum”
 toc: true
-published: false
 ---
 
 In der agilen Produktentwicklung wird gerne auf den Business Value referenziert - ohne zu erklären, was das eigentlich sein soll oder wie er definiert ist.
@@ -12,9 +11,9 @@ Damit Business Value konkret formuliert werden kann, benötigt man Nutzenmodelle
 
 ## Ziel
 
-Ziel von Nutzenmodellen ist es, zu verstehen und leicht verständlich zu machen, wie der Nutzen deines Produktes für deine Nutzer:innen aus deinen Aktivitäten entsteht.
+Ziel von Nutzenmodellen ist es, zu verstehen und leicht verständlich zu machen, wie der Nutzen deines Produktes für deine Nutzer:innen aus den Aktivitäten deines Teams entsteht.
 
-Sie helfen dir, aus dem abstrakten Begriff Business Value etwas konkretes, handlungsleitendes zu formulieren.
+Die Nutzenmodelle helfen dir, aus dem abstrakten Begriff Business Value etwas konkretes, handlungsleitendes zu formulieren.
 
 ## Geschichte & Theorie
 
@@ -23,11 +22,13 @@ Nutzenmodelle gehen davon aus, dass du als Product Owner zwei Perspektiven auf d
 - Die Perspektive des Herstellers, der Entscheidungen trifft, wie das Produkt entwickelt wird und welche Leistungen dafür erbracht werden.
 
 Diese beiden Perspektiven werden in Nutzenmodellen als Ergebnisraum und Handlungsraum bezeichnet.
+Der Handlungsraum umfasst die möglichen Entscheidungen, die du als Product Owner treffen kannst, und die Aktivitäten, die dein Team durchführt, um das Produkt zu erschaffen.
+Der Ergebnisraum umfasst alle durch das Produkt erzeugen Arten von Nutzen für alle relevanten Stakeholder.
 
 Damit ergibt sich für Nutzenmodelle eine klare Definition von Business Value:
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
-**Business Value** ist eine Metrik, die die Nutzenerzeugung eines Produkts auf ein Kennzahlensystem abbildet.
+**Business Value** ist die Abbildung des durch ein Produkt erzeugten Nutzens auf ein definiertes Kennzahlensystem.
 {: .notice--primary}
 
 ## Funktionsweise
@@ -40,27 +41,30 @@ Das Nutzenmodell besteht aus drei Bereichen:
 
 ### Handlungsraum
 
-Im Handlungsraum befinden sich die Aktivitäten, die du zur Entwicklung deines Produktes durchführst.
-Dazu gehören große Backlog Items wie Epics, Schlüsselaktivitäten aus deinem Business Model und deiner Value Proposition oder auch Querschnittsthemen wie Usability oder Softwarearchitektur.
+Im Handlungsraum triffst du deine Entscheidungen.
+Hier befinden sich die Aktivitäten, die du und dein Team zur Entwicklung deines Produktes durchführen.
+Dazu gehören große Backlog Items wie Epics, Schlüsselaktivitäten aus deinem Business Model und deiner Value Proposition oder auch Querschnittsthemen wie Usability Engineering oder Softwarearchitektur.
 
-Diesen Aspekten ist gemein, dass sie für dich leicht zu beeinflussen, aber schwer zu quantifizieren sind.
+Diesen Aspekten ist gemein, dass sie einerseits für dich leicht durch Entscheidungen zu beeinflussen sind, andererseits aber nur sehr schwer zu quantifiziert werden können.
 Sie sind aber prinzipiell für dich entscheidbar.
-Manchmal wird daher auch der Begriff des Entscheidungsraums synonym für den Handlungsraum genannt.
+Daher wird manchmal auch der Begriff des Entscheidungsraums synonym für den Handlungsraum genannt.
 In Nutzenmodellen werden diese Aspekte als Leading Indicators bezeichnet.
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
-**Leading Indicators** sind Aspekte deines Nutzenmodells, die leicht zu beeinflussen, aber schwer zu quantifizieren sind.
-Die Entscheidung über die Entwicklung der Leading Indicators liegt vollständig bei dir als Product Owner.
+**Leading Indicators** sind die Aspekte deines Nutzenmodells, die leicht zu beeinflussen, aber schwer zu quantifizieren sind.
+Die Entscheidung darüber, wie sich die als Leading Indicators identifizierten Aspekte deines Produkts entwickeln, liegt vollständig bei dir als Product Owner.
 {: .notice--primary}
 
 ### Ergebnisraum
 
 Im Ergebnisraum findet das Nutzenerlebnis deiner Nutzer:innen statt.
-Dieses kannst du beobachten, indem du dir Verkaufszahlen deines Produktes anschaust, die Anzahl der Nutzer:innen, den Gewinn, den du erwirtschaftest.
-In den Beispielen sind ein paar weitere interessante Aspekte beschrieben.
+Hier entsteht der Nutzen, aufgrund dessen du das Produkt überhaupt entwickelst.
+Im Nutzenmodell legst du die Indikatoren fest, anhand derer du diesen Nutzen beobachten kann.
+Einfache Beispiele für solche Indikatoren können die Verkaufszahlen deines Produktes sein, die Anzahl der Nutzer:innen oder auch der Gewinn, den dein Produkt generiert.
+In den Beispielen findest du weitere interessante Indikatoren für Nutzen.
 
-All diesen Aspekten ist gemein, dass du sie nicht einfach beeinflussen kannst - du kannst sie aber sehr leicht messen.
-Sie sind prinzipiell nicht durch dich entscheidbar.
+Allen Aspekten im Ergebnisraum ist gemein, dass du sie nicht einfach beeinflussen kannst - du kannst sie aber sehr leicht messen.
+Sie sind prinzipiell nicht durch dich entscheidbar, sondern nur indirekt zu beeinflussen.
 In Nutzenmodellen werden diese Aspekte als Lagging Indicators bezeichnet.
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
@@ -70,20 +74,26 @@ Die Werte von Lagging Indicators können zwar als Ziele zur Orientierung genutzt
 
 ### Wirkungsraum
 
-Der Wirkungsraum ist die spannendste Komponente eines Nutzenmodells, denn hier wir klar, wie die Leading Indicators auf die Lagging Indicators wirken.
+Der Wirkungsraum ist die spannendste Komponente eines Nutzenmodells.
+Hier wir klar, welche Verbindungen zwischen Leading Indicators und Lagging Indicators existieren und wie die Wirkungen erzeugt werden.
 
-In den allerwenigsten Fällen lässt sich nämlich ein direkter Zusammenhang der Veränderung eines Leading Indicators in einem Lagging Indicator beschreiben.
+In den allerwenigsten Fällen lässt sich ein direkter Zusammenhang der Veränderung eines Leading Indicators in einem Lagging Indicator beschreiben.
 
-Meistens sind es mehrere Wege, die über indirekte Verbindungen von einem Leading Indicator zu einem Lagging Indicator führen.
-Und in einigen Fällen kann es sogar sein, dass sich die Wirkung umkehrt oder Seiteneffekte auf andere Leading Indicators hat.
+Häufig sind es mehrere Wege, die über indirekte Verbindungen von einem Leading Indicator zu einem Lagging Indicator führen.
+Und in einigen Fällen kann es sogar sein, dass sich die Wirkungen zweiter Leading Indicators aufheben, eine Wirkung sich umkehrt oder Seiteneffekte entstehen.
 
 Die Herausforderung im Wirkungsraum ist, zu verstehen, wie die wichtigsten Zusammenhänge modelliert werden können.
 Hast du das verstanden, sind die Nutzenmodelle eines der mächtigsten Werkzeuge, die dir für Kommunikation und Entscheidungsfindung zur Verfügung stehen.
 
+Es kommt dabei nicht darauf an, den Wirkungsraum vollständig zu beschreiben.
+Das ist ohnehin nicht möglich, weil der Wirkungsraum immer eine Hypothese ist.
+Im Wirkungsraum wird deutlich, was du von den Zusammenhängen, wie dein Produkt Nutzen erzeugt, verstanden hast.
+Im Laufe des Produktlebenszyklus werden sich einige dieser Zusammenhänge verändern, wegfallen, hinzukommen oder sich auch als Fehlannahmen herausstellen.
+
 ## Einsatz
 
 Voraussetzung für den Einsatz eines Nutzenmodells ist eine gute Beschreibung, was dein Produkt leisten soll.
-Es ist zwar möglich, das Nutzenmodell komplett frei zu entwickeln, in der Praxis hat sich aber die Value Proposition als Ausgangspunkt bewährt.
+Es ist zwar möglich, das Nutzenmodell komplett frei zu entwickeln, in der Praxis haben sich aber die Value Proposition und Customer Segments als Ausgangspunkte bewährt.
 
 ## Beispiele
 
