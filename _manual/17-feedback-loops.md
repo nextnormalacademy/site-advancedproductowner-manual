@@ -40,7 +40,7 @@ Feedback Loops bestehen aus vier Elementen, die jeweils für sich stehend betrac
 Um einen Feedback Loop zielgerichtet nutzen zu können, benötigst du einen *Gegenstand*, zu dem du Feedback aufnehmen möchtest.
 Bei diesem Gegenstand wird es sich in den meisten Fällen um dein Produkt handeln.
 Feedback zum gesamten Produkt ist ab einer gewissen Größe und Komplexität des Produkts schwierig zu handhaben.
-Daher solltest du den Gegenstand des Feedback Loop einschränken.
+Daher solltest du den Gegenstand des Feedback Loops einschränken.
 Der betrachtete Gegenstand kann dann ein Produktinkrement sein oder auch ein neu hinzugekommenes Feature.
 
 Die *Beobachtung* dieses Gegenstands führt zu Reaktionen, z.B. von Menschen oder technischen Systemen.
@@ -55,13 +55,13 @@ Dazu bedarf es einer *Interpretation* des Inputs.
 Für diese Interpretation musst du neben dem Gegenstand auch einiges über die Verknüpfung von Beobachtung und Input wissen.
 Du musst den Kontext kennen, aus dem heraus der Input gegeben wurde.
 Auch die Zugehörigkeit der Quelle des Inputs ist relevant.
-Es ist ein Unterschied, ob ein Input von Betroffenen oder Beteiligten kommt, ob sie potentielle Nutzer:innen oder die Entwickler:innen eines Wettbewerbsproduktes gegeben haben.
+Es ist ein Unterschied, ob ein Input von Betroffenen oder Beteiligten kommt, ob er von potentiellen Nutzer:innen oder den Entwickler:innen eines Wettbewerbsproduktes stammt.
 
 Hast du das Feedback aus dem Input herausgefiltert, gilt es zu entscheiden, wie du darauf reagieren willst.
 Du musst *Handlungen* ableiten.
 Prinzipiell gibt es zwei Möglichkeiten: du kannst das Feedback berücksichtigen oder ignorieren.
 Wenn du es berücksichtigen möchtest, gibt es wiederum mehrere Varianten, wie das passieren kann.
-Du kannst das Feedback komplett berücksichtigen und die Veränderung am betrachteten Gegenstand umsetzen.
+Du kannst das Feedback komplett berücksichtigen und eine Veränderung am betrachteten Gegenstand umsetzen.
 Manchmal willst du aber auch nur Teile des Feedbacks berücksichtigen oder Aspekte mehrerer Feedbacks kombinieren.
 Und dann gibt es Feedback, bei dem du heute noch nicht sicher bist, wie und wann du darauf reagieren möchtest.
 Solches Feedback solltest du als Backlog Item aufnehmen.
@@ -165,7 +165,7 @@ Die mächtigste Möglichkeit, Input zu erhalten, besteht darin, andere Menschen 
 
 ### Input wahrnehmen
 
-Unabhängig vor wem und wo du den Gegenstand präsentierst: du möchtest wissen, was die Menschen zu ihm zu sagen haben.
+Unabhängig davon, vor wem und wo du den Gegenstand präsentierst: du möchtest wissen, was die Menschen zu ihm zu sagen haben.
 Manchmal erscheint dir das zu wenig, manchmal zu viel.
 Deshalb musst du einen Weg finden, den Input wahrzunehmen.
 
