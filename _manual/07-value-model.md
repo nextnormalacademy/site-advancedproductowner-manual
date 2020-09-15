@@ -23,7 +23,7 @@ Nutzenmodelle gehen davon aus, dass du als Product Owner zwei Perspektiven auf d
 
 Diese beiden Perspektiven werden in Nutzenmodellen als Ergebnisraum und Handlungsraum bezeichnet.
 Der Handlungsraum umfasst die möglichen Entscheidungen, die du als Product Owner treffen kannst, und die Aktivitäten, die dein Team durchführt, um das Produkt zu erschaffen.
-Der Ergebnisraum umfasst alle durch das Produkt erzeugen Arten von Nutzen für alle relevanten Stakeholder.
+Der Ergebnisraum umfasst alle durch das Produkt erzeugten Arten von Nutzen für alle relevanten Stakeholder.
 
 Damit ergibt sich für Nutzenmodelle eine klare Definition von Business Value:
 
@@ -45,7 +45,7 @@ Im Handlungsraum triffst du deine Entscheidungen.
 Hier befinden sich die Aktivitäten, die du und dein Team zur Entwicklung deines Produktes durchführen.
 Dazu gehören große Backlog Items wie Epics, Schlüsselaktivitäten aus deinem Business Model und deiner Value Proposition oder auch Querschnittsthemen wie Usability Engineering oder Softwarearchitektur.
 
-Diesen Aspekten ist gemein, dass sie einerseits für dich leicht durch Entscheidungen zu beeinflussen sind, andererseits aber nur sehr schwer zu quantifiziert werden können.
+Diesen Aspekten ist gemein, dass sie einerseits für dich leicht durch Entscheidungen zu beeinflussen sind, andererseits aber nur sehr schwer quantifiziert werden können.
 Sie sind aber prinzipiell für dich entscheidbar.
 Daher wird manchmal auch der Begriff des Entscheidungsraums synonym für den Handlungsraum genannt.
 In Nutzenmodellen werden diese Aspekte als Leading Indicators bezeichnet.
@@ -75,12 +75,12 @@ Die Werte von Lagging Indicators können zwar als Ziele zur Orientierung genutzt
 ### Wirkungsraum
 
 Der Wirkungsraum ist die spannendste Komponente eines Nutzenmodells.
-Hier wir klar, welche Verbindungen zwischen Leading Indicators und Lagging Indicators existieren und wie die Wirkungen erzeugt werden.
+Hier wird klar, welche Verbindungen zwischen Leading Indicators und Lagging Indicators existieren und wie die Wirkungen erzeugt werden.
 
 In den allerwenigsten Fällen lässt sich ein direkter Zusammenhang der Veränderung eines Leading Indicators in einem Lagging Indicator beschreiben.
 
 Häufig sind es mehrere Wege, die über indirekte Verbindungen von einem Leading Indicator zu einem Lagging Indicator führen.
-Und in einigen Fällen kann es sogar sein, dass sich die Wirkungen zweiter Leading Indicators aufheben, eine Wirkung sich umkehrt oder Seiteneffekte entstehen.
+Und in einigen Fällen kann es sogar sein, dass sich die Wirkungen zweier Leading Indicators aufheben, eine Wirkung sich umkehrt oder Seiteneffekte entstehen.
 
 Die Herausforderung im Wirkungsraum ist, zu verstehen, wie die wichtigsten Zusammenhänge modelliert werden können.
 Hast du das verstanden, sind die Nutzenmodelle eines der mächtigsten Werkzeuge, die dir für Kommunikation und Entscheidungsfindung zur Verfügung stehen.
