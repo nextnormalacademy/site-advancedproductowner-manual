@@ -7,11 +7,7 @@ Wir veröffentlichen die Handbuch-Kapitel entlang dem Verlauf des MOOC.
 
 Du kannst diese Kapitel zu folgenden Zeitpunken erwarten:
 
-
 * Nutzenmodell
-* Inception Deck
-* Roadmap
-* Impact Map
 * Story Map
 * Product Backlog
 * Delivery Kanban
