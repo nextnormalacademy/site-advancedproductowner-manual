@@ -32,7 +32,7 @@ Caroli nennt diese Weiterentwicklung Lean Inception, da sie sich ausschließlich
 ## Funktionsweise
 Das Inception Deck besteht aus 10 Punkten, die geklärt werden müssen, bevor das Vorhaben in die operative Phase starten kann.
 
-{% include figure image_path="assets/images/07-inception-deck-questions.png" alt="Die 10 Punkte des Inception Decks nach Jonathan Rasmusson" caption="Die 10 Punkte des Inception Decks nach Jonathan Rasmusson" %}
+{% include figure image_path="assets/images/09-inception-deck-questions.png" alt="Die 10 Punkte des Inception Decks nach Jonathan Rasmusson" caption="Die 10 Punkte des Inception Decks nach Jonathan Rasmusson" %}
 
 ### 1. Warum sind wir hier?
 Hier wird festgehalten, was der Grund für die Entwicklung des Produkts ist. Warum investiert das Unternehmen? 
@@ -110,7 +110,7 @@ Wir empfehlen das[Inception Deck Template von Jonathan Rasmusson.](https://agile
 [Hier geht es zu den Diskussionen](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47546) zu *Handbuchkapiteln* auf dem oncampus.
 
 ## Downloads
-[Das Inception Deck Template von Jonathan Rasmusson als PPT-Template]({{site.baseurl}}/assets/downloads/07-inception-deck-jonathan-rasmusson.pptx)
+[Das Inception Deck Template von Jonathan Rasmusson als PPT-Template]({{site.baseurl}}/assets/downloads/09-inception-deck-jonathan-rasmusson.pptx)
 
 ## Quellen, Links und Hinweise
 
