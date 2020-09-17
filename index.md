@@ -12,6 +12,6 @@ Dieses Handbuch begleitet dich durch die
 
 von [DARCBLUE][1].
 
-{% include figure image_path="/assets/images/apo-value-chain.jpg" alt="The Prodcut Owner's value chain" caption="The Prodcut Owner's value chain." %}
+{% include figure image_path="/assets/images/apo-value-chain.jpg" alt="The Product Owner's value chain" caption="The Product Owner's value chain." %}
 
 [1]:	https://www.darcblue.com/ "DARCBLUE AG"
