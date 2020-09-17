@@ -22,13 +22,15 @@ Nutzenmodelle gehen davon aus, dass du als Product Owner zwei Perspektiven auf d
 - Die Perspektive des Herstellers, der Entscheidungen trifft, wie das Produkt entwickelt wird und welche Leistungen dafür erbracht werden.
 
 Diese beiden Perspektiven werden in Nutzenmodellen als Ergebnisraum und Handlungsraum bezeichnet.
+Der Ergebnisraum umfasst alle durch das Produkt erzeugen Arten von Nutzen für alle relevanten Stakeholder.
 Der Handlungsraum umfasst die möglichen Entscheidungen, die du als Product Owner treffen kannst, und die Aktivitäten, die dein Team durchführt, um das Produkt zu erschaffen.
-Der Ergebnisraum umfasst alle durch das Produkt erzeugten Arten von Nutzen für alle relevanten Stakeholder.
+
+{% include figure image_path="/assets/images/07-value-model-overview.png" alt="Bestandteile eines Nutzenmodells" caption="Bestandteile eines Nutzenmodells" %}
 
 Damit ergibt sich für Nutzenmodelle eine klare Definition von Business Value:
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
-**Business Value** ist die Abbildung des durch ein Produkt erzeugten Nutzens auf ein definiertes Kennzahlensystem.
+**Business Value** ist der durch ein Produkt erzeugte Nutzen. Der Business Value kann durch die Abbildung auf ein definiertes Kennzahlensystem sichtbar gemacht werden.
 {: .notice--primary}
 
 ## Funktionsweise
@@ -72,6 +74,8 @@ In Nutzenmodellen werden diese Aspekte als Lagging Indicators bezeichnet.
 Die Werte von Lagging Indicators können zwar als Ziele zur Orientierung genutzt, aber nicht durch Entscheidungen festgelegt werden.
 {: .notice--primary}
 
+{% include figure image_path="/assets/images/07-value-model-indicators.png" alt="Leading & Lagging Indicators im Nutzenmodell" caption="Leading & Lagging Indicators im Nutzenmodell" %}
+
 ### Wirkungsraum
 
 Der Wirkungsraum ist die spannendste Komponente eines Nutzenmodells.
@@ -90,6 +94,8 @@ Das ist ohnehin nicht möglich, weil der Wirkungsraum immer eine Hypothese ist.
 Im Wirkungsraum wird deutlich, was du von den Zusammenhängen, wie dein Produkt Nutzen erzeugt, verstanden hast.
 Im Laufe des Produktlebenszyklus werden sich einige dieser Zusammenhänge verändern, wegfallen, hinzukommen oder sich auch als Fehlannahmen herausstellen.
 
+{% include figure image_path="/assets/images/07-value-model-wirkungsraum.png" alt="Funktionsweise des Wirkungsraums im Nutzenmodell" caption="Funktionsweise des Wirkungsraums" %}
+
 ## Einsatz
 
 Voraussetzung für den Einsatz eines Nutzenmodells ist eine gute Beschreibung, was dein Produkt leisten soll.
@@ -106,3 +112,6 @@ Es ist zwar möglich, das Nutzenmodell komplett frei zu entwickeln, in der Praxi
 ## Downloads
 
 ## Quellen, Links und Hinweise
+
+* [Beyond User Stories - Backlogs priorisieren, wenn es anspruchsvoll wird](https://speakerdeck.com/gerritbeine/beyond-user-stories)
+* [Backlog-Priorisierung 2020 – Wertmodelle & Simulationen von Intangibles zur Projektsteuerung](https://speakerdeck.com/gerritbeine/backlog-priorisierung-2020-wertmodelle-and-simulationen-von-intangibles-zur-projektsteuerung)
