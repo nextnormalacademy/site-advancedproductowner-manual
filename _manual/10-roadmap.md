@@ -44,7 +44,7 @@ Abgeleitet von diesen Zielen werden die umzusetzenden Features ausgewählt, die 
 Schließlich legt die Roadmap fest, wie gemessen wird, ob das Ziel erreicht wurde. 
 Dadurch wird sichergestellt, dass nur messbare Ziele formuliert wurden.
 
-{% include figure image_path="assets/images/10-go-roadmap-roman-pichler.png" alt="Die GO Roadmap von Roman Pichler" caption="Die GO Roadmap von Roman Pichler" %}
+{% include figure image_path="assets/images/10-roadmap-gor-roman-pichler.png" alt="Die GO Roadmap von Roman Pichler" caption="Die GO Roadmap von Roman Pichler" %}
 
 Eine nähere Beschreibung des Werkzeugs findest du auf [Roman Pichlers Blog](https://www.romanpichler.com/blog/goal-oriented-agile-product-roadmap/).
 
@@ -55,7 +55,7 @@ Beim Einsatz der zielorientierten Roadmap sind verschiedene Dinge zu beachten:
 Roman Pichler beschreibt anhand einer Matrix, in welchen Situationen eine zielorientierte Roadmap nützlich ist. 
 Die Reife des Produkts und die Stabilität des Marktes sind hier ausschlaggebend: 
 
-{% include figure image_path="assets/images/10-auswahlmatrix-roadmap-roman-pichler.png" alt="Auswahlmatrix für Roadmapart und Ausgestaltung von Roman Pichler" caption="Auswahlmatrix für Roadmapart und Ausgestaltung von Roman Pichler" %}
+{% include figure image_path="assets/images/10-roadmap-auswahlmatrix-roman-pichler.png" alt="Auswahlmatrix für Roadmapart und Ausgestaltung von Roman Pichler" caption="Auswahlmatrix für Roadmapart und Ausgestaltung von Roman Pichler" %}
 
 Du siehst, dass eine traditionelle feature-orientierte Roadmap dann sinnvoll ist, wenn dein Produkt sich bereits in der Reifephase des Produktlebenszyklus und in einem stabilen Marktumfeld befindet. 
 In einer solchen Situation musst du kaum auf Änderungen reagieren, du kennst deine Nutzer und Käufer gut. 
@@ -97,7 +97,7 @@ Es kann daher unter Umständen angebracht sein, einen Zeitraum anstatt eines fes
 ## Beispiele
 Roman Pichler stellt [in seinem Blog](https://www.romanpichler.com/blog/goal-oriented-agile-product-roadmap/) ein Beispiel für eine zielorientierte Roadmap vor:
 
-{% include figure image_path="assets/images/10-go-roadmap-beispiel-roman-pichler.png" alt="Beispiel für eine GO-Roadmap von Roman Pichler" caption="Beispiel für eine GO-Roadmap von Roman Pichler" %}
+{% include figure image_path="assets/images/10-roadmap-gor-beispiel-roman-pichler.png" alt="Beispiel für eine GO-Roadmap von Roman Pichler" caption="Beispiel für eine GO-Roadmap von Roman Pichler" %}
 
 ## Tools
 Für einen gemeinsamen Roadmapping Workshop mit deinen Stakeholdern bietet es sich an, das Roadmap Template auszudrucken oder an eine Wand zu zeichnen und mit Post-its auszufüllen. 

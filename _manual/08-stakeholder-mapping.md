@@ -79,7 +79,7 @@ Sobald du deine Stakeholder identifiziert hast, gilt es, sie genauer zu betracht
 
 Bei der Analyse deiner Stakeholder und der Entwicklung einer Interaktions- und Kommunikationsstrategie hilft dir das Power-Interest-Grid.
 
-{% include figure image_path="assets/images/08-power-interest-grid.png" alt="Das Power-Interest-Grid von Eden und Ackermann" caption="Das Power-Interest-Grid von Eden und Ackermann" %}
+{% include figure image_path="assets/images/08-stakeholder-power-interest-grid.png" alt="Das Power-Interest-Grid von Eden und Ackermann" caption="Das Power-Interest-Grid von Eden und Ackermann" %}
 
 Die Matrix ist entlang der zwei Achsen "Interesse" und "Einfluss" aufgebaut und besteht aus vier Feldern. 
 Jedes Feld mappt eine Stakeholdergruppe mit einer richtungsgebenden Empfehlung hinsichtlich ihrer Einbindung.
