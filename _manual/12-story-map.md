@@ -3,7 +3,6 @@ title: Story Map
 permalink: /story-map/
 excerpt: “Lorem ipsum”
 toc: true
-published: false
 ---
 Das Story Mapping ist eine von Jeff Patton entwickelte Methode. 
 Sie wird in der agilen Entwicklung angewendet, um von der Reise, die ein Kunde mit einem Produkt unternimmt, zu erzählen und diese übersichtlich darzustellen.
