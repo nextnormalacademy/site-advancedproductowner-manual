@@ -5,16 +5,15 @@ excerpt: “Lorem ipsum”
 toc: true
 published: false
 ---
-Story Mapping ist eine von Jeff Patton entwickelte Methode. 
+Das Story Mapping ist eine von Jeff Patton entwickelte Methode. 
 Sie wird in der agilen Entwicklung angewendet, um die Reise, die ein Kunde mit einem Produkt unternimmt, übersichtlich darzustellen.
 Dies gelingt, indem das eindimensionale Product Backlog in eine zweidimensionale "Karte" überführt.
 
-
 ## Ziel
 Ziel ist es, im gesamten Team ein besseres Verständnis über Produktanforderungen zu entwickeln.
-Dies gelingt beim Story Mapping durch die konsequente Ausrichtung an den durch den Nutzer auszuführenden Aktivitäten.
+Dies gelingt beim Story Mapping durch die konsequente Ausrichtung an den Nutzeraktivitäten.
 Darüberhinaus kann dir die Story Map bei der Releaseplannung helfen.
-Durch die Darstellungsform konnen sowohl fehlende User Stories als auch Abhängigkeiten zwischen exisiterenden User Stories identifiziert werden.
+Durch die Darstellungsform konnen sowohl fehlende User Stories als auch Abhängigkeiten zwischen User Stories identifiziert werden.
 
 »Story Mapping sorgt dafür, dass wir uns auf die Benutzer (User) und ihre Erfahrungen (User Experience) konzentrieren. 
 Das Ergebnis ist eine bessere Konversation und schlussendlich ein besseres Produkt.« 
@@ -28,7 +27,7 @@ Im Jahr 2014 beschreibt der die Methode ausführlich in seinem Buch „User Stor
 
 ## Funktionsweise
 
-Im Gegensatz zu einem flachen Product Backlog bietet dir die Story Map eine zweidimensionale Karte.
+Im Gegensatz zu einem flachen Product Backlog bietet dir die Story Map zwei Dimensionen zum Arbeiten.
 
 Die horizontale Dimension orientiert sich an der Reihenfolge der Aktivitäten, die ein Nutzer bei der Verwendung deines Produktes durchführt. 
 Varianten oder Details der Ausführung dieser werden in Form von Tasks darunter ergänzt. 
@@ -101,11 +100,43 @@ Steht der Erzählfluss des kritischsten Nutzers könnt ihr weitere Nutzer in die
 ### 3. Erkunden
 
 Nachdem der Erzählfluss und die Aktivitäten identifiziert sind, füllt den Body eurer Story Map.
+Brecht hierzu größere Nutzeraufgaben in Teilaufgaben auf und verseht diese mit passenden Nutzerinterfaces.
+In dieser Phase kann es eurem Team helfen
 
+* Euch die Frage zu stellen "Was wäre wenn..."?
+* Euch ausgefallene Variationen zu überlegen
+* Euch in unterschiedliche Nutzer hineinzuversetzten
+* Menschen außerhalb eures Team um Feedback zu bitten
+
+In dieser Phase geht es vor allem darum euren Ideen freien Lauf zu lassen und diese zu sammeln, habt Spaß dabei!
 
 ### 4. Releases schneiden
+Nachdem ihr Ideen gesammelt und die Nutzeraufgaben detailliert habt, geht es nun darum eine ganzheitliche Produktversion, d.h. ein Release zu schneiden.
+Die einzelnen Releases bilden zusammen eure inkrementelle Product Release Roadmap, in der jedes Release eine minimal realisierbare Produktveröffentlichung darstellt.
+
+Für jedes Release solltet ihr 
+die angestrebten Ziele, Auswirkungen und messbare Erfolgskriterien definieren.
+Die Ergebnisse sagen euch, inwieeit das Release zum Gesamtziel eures Produktes beiträgt.
+Die Auswirkungen beschreiben, wie das Nutzerverhalten beeinflusst werden soll.
+Die Erfolgsmetriken helfen euch nachzuvollziehen, ob das Nutzerverhalten, wie ihr es in eurer Story Map beschrieben habt, eingetreten ist.
 
 ### 5.Entwicklungsstrategie beschließen
+
+Zu Beginn solltest du ein Release in drei oder mehr Lieferphasen unterteilen.
+Dies erlaubt dir und deinem Team schnell zu lernen und Risiken zu vermeiden.
+Vielleicht hilft dir der Vergleich mit der Eröffnungs-, Mittel- und Endspielphase eines Schachspiels:
+
+* Fokussiere dich im Eröfnungsspiel auf ein "Funktionales Walking Skeleton"
+Wenn das Walking Skeleton steht teste es mit einigen Nutzern und anderen Stakeholdern.
+Validiere die Leistung und Skalierbarkeit deines Walking Skeletons.
+
+* Mittelphase: vervollständige alle wichtigen Funktionen
+In der mittleren Phase solltet ihr im Team die wichtigsten Funktionen eines Releases ausbauen und komplementieren.
+Führt weitere Nutzertests durch und sammelt Feedback zur Anpassung eurer Arbeit.
+
+* Im Endspiel wird das Produkt für die Veröffentlichung verfeinert
+Sei dir bewusst, dass es immer mehr Arbeit gibt, als man im Vorfeld erwartet hat.
+Nun ist der Zeitpunkt, um alle Funktionalitäten abzurunden und die letzten notwendigen Aktivitäten durchzuführen.
 
 
 ## Beispiele
