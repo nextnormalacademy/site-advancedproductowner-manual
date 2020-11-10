@@ -19,8 +19,8 @@ Es ist nie vollständig und wird kontinuierlich mit dem Produkt weiterentwickel
 
 ## Funktionsweise
 Das Product Backlog umfasst Einträge, sogenannte Backlog Items. 
-User Stories, technische Aufgaben, Risiken oder Fehler sind alle Items. 
-Die Backlog Items bestehen aus einer inhaltlichen Beschreibung, einer Angabe zu ihrem Wert und einer Schätzung des mit ihnen verbundenen Umsetzungsaufwands. 
+Diese Items können User Stories, technische Aufgaben, Risiken oder Fehler sein. 
+Sie bestehen aus einer inhaltlichen Beschreibung, einer Angabe zu ihrem Wert und einer Schätzung des mit ihnen verbundenen Umsetzungsaufwands. 
 Außerdem haben alle Backlog Items eine Position relativ zu den anderen Backlog Items, durch die die Ordnung des Backlogs deutlich wird. 
 
 Im Backlog fährt man immer auf Sicht. 
@@ -29,15 +29,15 @@ Es ist daher möglich, dass einige Backlog Items noch nicht über Angaben zu Wer
 
 {% include figure image_path="/assets/images/13-backlogs-gerrit-beine.png" alt="Backlogs" caption="Backlog Items, die oben im Backlog stehen und somit demnächst bearbeitet werden sollen, sind genauer beschrieben." %}
 
-Mit Feedback zu deinem Produkt wird sich dein Product Backlog weiterentwickeln. 
-Auch Marktentwicklungen und neue Technologien können dazu führen, dass du Änderungen am Backlog vornimmst.
+Durch Feedback zu deinem Produkt wird sich dein Product Backlog ebenfalls weiterentwickeln. 
+Auch Markttrends und neue Technologien können dazu führen, dass du Änderungen am Backlog vornimmst.
 
 ## Einsatz
 
 ###Verantwortlichkeit
 Verantwortlich für den Inhalt des Product Backlogs, also die Backlog Items und ihre Reihenfolge, bist du als Product Owner. 
 Der Product Owner stellt auch sicher, dass das Backlog für alle relevanten Personen(-gruppen) zugänglich ist. 
-Einige Aufgaben wie Backlog Refinement (siehe unten) kannst du an andere Teammitglieder deligieren. 
+Einige Aufgaben, wie Backlog Refinement (siehe unten), kannst du an andere Teammitglieder delegieren. 
 Auch in diesem Fall bleibst du als Product Owner aber verantwortlich.
 
 ###Refinement
@@ -45,15 +45,15 @@ Der kontinuierliche Vorgang, in dem das Team Backlog Items detailliertere Inform
 Das Refinement umfasst folgende Aufgaben:
 
 * Hinzufügen von Details
-* Items in eine angemessene Größe bringen, z.B. so, dass das Bearbeiten und Fertigstellen innerhalb eines Sprints erfolgen kann (Tipps zum Schneiden von User Stories findest du zum Beispiel bei Mike Cohn) 
-* Vornehmen von Aufwandsschätzungen für die Items, häufig genutzt werden Story Points
+* Items in eine angemessene Größe bringen, zum Beispiel so, dass das Bearbeiten und Fertigstellen innerhalb eines Sprints erfolgen kann (Tipps zum Schneiden von User Stories findest du zum Beispiel bei Mike Cohn) 
+* Vornehmen von Aufwandsschätzungen für die Items (häufig genutzt werden zum Beispiel Story Points)
 * Backlog Items in eine Reihenfolge bringen
 
 Es gibt keine festgelegte Zeit, in der ein Item das Refinement durchlaufen muss. 
 Diese Zeit hängt vom Typ, Kontext, Wichtigkeit und anderen Eigenschaften des Items ab. 
 
 Refinement ist ein kontinuierlicher Prozess, an dem der Product Owner und das Entwicklungsteam beteiligt sind. 
-Die Beteiligten verständigen sich auf ein gemeinsames Vorgehen, z.B. auf ein regelmäßiges Meeting mit einer Time Box.
+Die Beteiligten verständigen sich auf ein gemeinsames Vorgehen, zum Beispiel auf ein regelmäßiges Meeting mit einer Time Box.
 
 Weitere Infos zum Thema Refinement gibt es beispielsweise von [Stephanie Ockermann](https://www.scrum.org/resources/blog/art-product-backlog-refinement).
 
