@@ -34,8 +34,7 @@ manual:
       - title: "Story Map"
         url: /story-map/
       - title: "Product Backlog"
-        url: /coming-soon/
-#        url: /product-backlog/
+        url: /product-backlog/
       - title: "Delivery Kanban"
         url: /coming-soon/
 #        url: /delivery-kanban/
