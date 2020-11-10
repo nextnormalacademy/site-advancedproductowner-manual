@@ -33,13 +33,13 @@ Auch Markttrends und neue Technologien können dazu führen, dass du Änderungen
 
 ## Einsatz
 
-###Verantwortlichkeit
+### Verantwortlichkeit
 Verantwortlich für den Inhalt des Product Backlogs, also die Backlog Items und ihre Reihenfolge, bist du als Product Owner. 
 Der Product Owner stellt auch sicher, dass das Backlog für alle relevanten Personen(-gruppen) zugänglich ist. 
 Einige Aufgaben, wie Backlog Refinement (siehe unten), kannst du an andere Teammitglieder delegieren. 
 Auch in diesem Fall bleibst du als Product Owner aber verantwortlich.
 
-###Refinement
+### Refinement
 Der kontinuierliche Vorgang, in dem das Team Backlog Items detailliertere Informationen hinzufügt, heißt in Scrum „Refinement“. 
 Das Refinement umfasst folgende Aufgaben:
 
@@ -56,14 +56,14 @@ Die Beteiligten verständigen sich auf ein gemeinsames Vorgehen, zum Beispiel au
 
 Weitere Infos zum Thema Refinement gibt es beispielsweise von [Stephanie Ockermann](https://www.scrum.org/resources/blog/art-product-backlog-refinement).
 
-###Backlog ordnen
+### Backlog ordnen
 Um die Items in deinem Backlog zu ordnen, musst du mehrere Faktoren berücksichtigen. 
 Du musst in der Lage sein, den Wert der Items relativ zueinander abzuschätzen. 
 Die dem Backlog vorgelagerten Tools in der Product Owner Value Chain helfen dir dabei. 
 Außerdem spielt der relative Aufwand des Items eine Rolle für die Position im Backlog. 
 Schließlich solltest du auch beachten, ob das Item dir dabei hilft, ein Risiko zu minimieren und ob es Abhängigkeiten zu anderen Items hat.
 
-###Product Backlog für mehrere Teams
+### Product Backlog für mehrere Teams
 Pro Produkt gibt es immer nur ein Backlog. 
 Das heißt, dass auch in skalierten Entwicklungsprojekten mit mehreren Teams diese ihre Anforderungen aus einem Backlog ziehen.
 
