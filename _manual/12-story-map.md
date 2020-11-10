@@ -37,7 +37,7 @@ Varianten oder kleinere Teilschritte beim Durchführen einer Aktivität werden u
 Über die vertikale Dimension hast du weiterhin die Möglichkeit, in Zeilen den Umfang von bspw. Releases zu beschreiben. 
 Dies tust du beispielsweise, indem du die Aktivitäten, die unterstützt werden sollen, in die entsprechende Zeile ziehst.
 
-{% include figure image_path="/assets/images/12-story-map-sufbau.png" alt="-Aufbau einer Story Map nach Jeff Patton" caption="-Aufbau einer Story Map" %}
+{% include figure image_path="/assets/images/12-story-map-aufbau.jpg" alt="-Aufbau einer Story Map nach Jeff Patton" caption="-Aufbau einer Story Map" %}
 
 Doch lass uns den Aufbau Stück für Stück besprechen:
 
