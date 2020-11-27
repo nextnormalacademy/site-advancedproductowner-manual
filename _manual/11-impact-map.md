@@ -9,9 +9,9 @@ toc: true
 Die Impact Map bildet die Brücke zwischen konkreten Liefergegenständen, z.B. Features eines Produkts, und taktischen Zielen. 
 Damit schließt sie auch die Kommunikationslücke zwischen den Geschäfts- und Fachabteilungen und Software Teams.
 
-![image-left]({{site.baseurl}}/assets/images/flag-warning.png){: .align-left} 
+![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Gojko Adzic (2012) schreibt: „In essence, you should care about impact mapping because it can help you build products and deliver projects that make an impact, not just ship software.“
-{: .notice--warning}
+{: .notice--primary}
 
 ## Ziel
 Durch die Impact Map kannst du Annahmen in Bezug auf die Wirkungen von Software Features auf dein Produktziel visualisieren. 
@@ -30,7 +30,7 @@ Der Impact entsteht dadurch, dass ein Akteur (Actor) durch das Deliverable sein 
 Eine Anzahl Impacts führt in Summe zum Erreichen eines Ziels (Goal).  
 Die Elementgruppen Goal, Actors, Impacts und Deliverables sind in der Impact Map horizontal zueinander angeordnet: 
 
-{% include figure image_path="assets/images/11-impact-map-structure-gojko-adzic.png" alt="Ableitung von User Stories aus der Impact Map, Darstellung von Gojko Adzic" %}
+{% include figure image_path="assets/images/11-impact-map-structure-gojko-adzic.png" alt="Aufbau einer Impact Map am Beispiel einer Konzert-App, Darstellung von Gojko Adzic" caption="Aufbau einer Impact Map am Beispiel einer Konzert-App, Darstellung von Gojko Adzic" %}
 
 Durch diese Darstellung werden die Beziehungen der Elemente zueinander deutlich.
 Nachfolgend beschreiben wir dir die Elementargruppen genauer:
@@ -75,7 +75,6 @@ Die Impact Map kann wichtige Informationen transparent darstellen, angefangen mi
 Das Formulieren eines Ziels ist der erste Schritt bei der Erstellung einer Impact Map. 
 Lege dann fest, wie du das Erreichen des Ziels messen möchtest. 
 
-<div markdown="1">
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Gojko schreibt hierzu: „Ask: „If we achieve key targets for metrics with a completely different scope than planned, have we succeeded?” If the answer is “No”, go back to start: You don´t have the right metrics.”
 </div>
@@ -91,16 +90,15 @@ Schließlich markierst du auf der Map, welche Impacts mit welchen Deliverables p
 * Gibt es low-hanging fruits mit hohem Wert? 
 * Welche Annahmen müssen getestet werden?
 
-<div markdown="1">
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 “Never aim to implement the whole map. Instead, find the shortest path through the map to the goal”. Gojko Adzic, 2012
 </div>
-{: .notice--primary}!
+{: .notice--primary}
 
 Die Struktur der Impact Map erleichtert dir außerdem das Formulieren von User Stories für das Product Backlog. 
 Aus jedem Deliverable kannst du nach diesem Muster eine User Story zum weiteren Refinement ableiten: 
 
-{% include figure image_path="assets/images/11-impact-map-user-stories-gojko-adzic.png" alt="Ableitung von User Stories aus der Impact Map, Darstellung von Gojko Adzic" %}
+{% include figure image_path="assets/images/11-impact-map-user-stories-gojko-adzic.png" alt="Ableitung von User Stories aus der Impact Map, Darstellung von Gojko Adzic" caption="Ableitung von User Stories aus der Impact Map, Darstellung von Gojko Adzic" %}
 
 Am besten erstellst du sie in einem Workshop mit Stakeholdern und deinem Team.
 Die Impact Map macht es dir durch ihre eingängige Struktur leicht, Menschen in verschiedenen Rollen und mit verschiedenen Hintergründen einzubinden.
@@ -110,7 +108,7 @@ Stelle sicher, dass zwischen den Terminen genügend Zeit ist, um eventuell fehle
 
 ## Beispiel
 
-{% include figure image_path="assets/images/11-impact-map-example-gojko-adzic.png" alt="Beispiel einer Impact Map für ein Onlinespiel von Gojko Adzic" %}
+{% include figure image_path="assets/images/11-impact-map-example-gojko-adzic.png" alt="Beispiel einer Impact Map für ein Onlinespiel von Gojko Adzic" caption="Beispiel einer Impact Map für ein Onlinespiel von Gojko Adzic"%}
 
 Weitere Beispiele und umfangreiche Informationen zum Erstellen einer Impact Map findest du in Gojkos Buch „Impact Mapping“ und auf der Impact Mapping Website unter [Practical Usage](https://www.impactmapping.org/tips-and-tricks.html). 
 
