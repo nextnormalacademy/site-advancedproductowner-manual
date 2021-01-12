@@ -4,7 +4,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: DARCBLUEAG/minimal-mistakes@darcblue
+remote_theme: gbeine/minimal-mistakes
 
 # Outputting
 permalink: /:categories/:title/

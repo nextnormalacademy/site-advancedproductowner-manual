@@ -10,8 +10,6 @@ Dieses Handbuch begleitet dich durch die
 **Advanced Product Owner MOOC**
 {: .text-center}
 
-von [DARCBLUE][1].
+der [nextnormal.academy](https://nextnormal.academy/).
 
-{% include figure image_path="/assets/images/apo-value-chain.jpg" alt="The Product Owner's value chain" caption="The Product Owner's value chain." %}
-
-[1]:	https://www.darcblue.com/ "DARCBLUE AG"
+{% include figure image_path="/assets/images/apo-value-chain.png" alt="The Product Owner's value chain" caption="The Product Owner's value chain." %}
