@@ -40,4 +40,4 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 ## Datenschutz
 
-Zur [Datenschutzerklärung](https://www.darcblue.com/datenschutz/) der DARCBLUE AG.
+Zur [Datenschutzerklärung](https://nextnormal.academy/de/datenschutzerklarung/) der nextnormal.academy UG (haftungsbeschränkt).
