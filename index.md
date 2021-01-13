@@ -5,7 +5,7 @@ sidebar:
   nav: "manual"
 ---
 
-Dieses Handbuch begleitet dich durch die
+Dieses Handbuch begleitet dich durch den
 
 **Advanced Product Owner MOOC**
 {: .text-center}
