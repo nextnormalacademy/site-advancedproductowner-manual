@@ -10,16 +10,16 @@ Die beiden veranstalten gemeinsame Trainings für Product Owner und sind die Ini
 
 ## Gerrit Beine
 
-Gerrit ist Senior Manager bei DARCBLUE und seit 2001 mit agilen Methoden unterwegs.
+Gerrit ist Berater und Trainer bei [INNOQ](https://innoq.com) und seit 2001 mit agilen Methoden unterwegs.
 Er hat mehrere Unternehmen gegründet und selbst immer wieder als Product Owner und Product Manager gearbeitet.
 Seit fast zehn Jahren begleitet er Product Owner und Product Manager auf dem Weg, ihre Produkte großartig zu machen.
 
 Gerrit hat Informatik studiert und hat einen MBA in General Management.
-Er ist Autor zahlreicher Fachartikel und regelmäßig als Sprecher auf Konferenzen zum Thema Agile zu treffen.
+Er ist Autor zahlreicher Fachartikel und regelmäßig als Sprecher auf Konferenzen zum Thema Agile & Softwarearchitektur zu treffen.
 
 ## Sarah Wieske
 
-Sarah ist Senior Consultant bei DARCBLUE.
+Sarah ist Senior Consultant bei [DARCBLUE](https://www.darcblue.com/).
 Sie liebt es, Organisationen und Teams bei der agilen Entwicklung eines großartigen digitalen Produkts zu unterstützen, von der Visionsentwicklung bis zur umgesetzten User Story.
 Dabei begeistert sie Menschen für wertorientierte und kundenzentrierte Arbeit und führt damit die Business- und die Softwareentwicklungsseite zusammen.  
 

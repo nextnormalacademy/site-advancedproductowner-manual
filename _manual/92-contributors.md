@@ -3,12 +3,9 @@ title: "Mitmacher"
 permalink: /contributors/
 ---
 
-Alle diese Menschen unterstützen uns bei der Erstellung und Weiterentwicklung des Advanced Product Owner Handbuchs (Reihenfolge chronologisch):
+Alle diese Menschen und Unternehmen unterstützen uns bei der Erstellung und Weiterentwicklung des Advanced Product Owner Handbuchs (Reihenfolge chronologisch):
 
-* [Dirk Liesch][1]
-* [Eva Hallinger][2]
-* [Hanna Halbroth][3]
-
-[1]:	https://www.dlconsult.de/ "Dirk Liesch"
-[2]:	https://www.linkedin.com/in/eva-hallinger-bb89aa149/ "Eva Hallinger bei LinkedIn"
-[3]:	https://www.linkedin.com/in/hanna-halbroth-23195095/ "Hanna Halbroth bei LinkedIn"
+* [DARCBLUE AG](https://www.darcblue.com/ "DARCBLUE AG")
+* [Dirk Liesch](	https://www.dlconsult.de/ "Dirk Liesch")
+* [Eva Hallinger](	https://www.linkedin.com/in/eva-hallinger-bb89aa149/ "Eva Hallinger bei LinkedIn")
+* [Hanna Halbroth](https://www.linkedin.com/in/hanna-halbroth-23195095/ "Hanna Halbroth bei LinkedIn")
