@@ -1,7 +1,6 @@
 ---
 title: Nutzenmodelle
 permalink: /value-model/
-excerpt: “Lorem ipsum”
 toc: true
 ---
 

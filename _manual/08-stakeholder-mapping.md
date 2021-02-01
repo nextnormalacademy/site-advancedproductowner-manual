@@ -3,7 +3,6 @@ title: Stakeholder Mapping
 permalink: /stakeholder-mapping/
 excerpt: “Stakeholder Map”
 toc: true
-published: true
 ---
 Eine wesentliche Aufgabe für dich als Product Owner ist die Kommunikation mit und das Einbeziehen deiner Stakeholder.
 Stakeholder können den Erfolg deines Produktes fördern oder behindern. 
