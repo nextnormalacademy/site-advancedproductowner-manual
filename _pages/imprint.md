@@ -8,23 +8,19 @@ Anbieterkennzeichnung nach §5 TMG (Telemediengesetz)
 
 ## Verantwortlich für diese Webseite:
 
-DARCBLUE Aktiengesellschaft<br />
-Alter Wall 69<br />
-20457 Hamburg<br />
+nextnormal.academy UG (haftungsbeschränkt)<br />
+Rosengrabenstraße 21<br />
+08525 Plauen<br />
 Germany<br />
 
-T +49 (0)40 300 697-70<br />
-F +49 (0)40 300 697-60<br />
+E-Mail: info _at_ nextnormal.academy<br />
+Website: nextnormal.academy<br />
 
-E-Mail: info _at_ darcblue.com<br />
-Website: www.darcblue.com<br />
+Die nextnormal.academy UG (haftungsbeschränkt) wird gesetzlich durch die Geschäftsführung (Gerrit Beine) vertreten.
 
-Die DARCBLUE AG wird gesetzlich durch den Vorstand<br />
-(Dr. Martin Bögner, Erlend Ødegård) vertreten.
-
-Registergericht: Amtsgericht Hamburg<br />
-Registernummer: 78045<br />
-Ust-ID gemäß §27a Umsatzsteuergesetz: DE 210.487.551
+Registergericht: Amtsgericht Chemnitz<br />
+Registernummer: HRB 33566<br />
+Ust-ID gemäß §27a Umsatzsteuergesetz: DE336420410
 
 Illustrationen: Shutterstock
 
@@ -44,4 +40,4 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 ## Datenschutz
 
-Zur [Datenschutzerklärung](https://www.darcblue.com/datenschutz/) der DARCBLUE AG.
+Zur [Datenschutzerklärung](https://nextnormal.academy/de/datenschutzerklarung/) der nextnormal.academy UG (haftungsbeschränkt).

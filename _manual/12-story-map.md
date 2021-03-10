@@ -1,7 +1,6 @@
 ---
 title: Story Map
 permalink: /story-map/
-excerpt: “Lorem ipsum”
 toc: true
 ---
 Das Story Mapping ist eine von Jeff Patton entwickelte Methode. 
