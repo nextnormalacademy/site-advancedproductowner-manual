@@ -107,8 +107,6 @@ Dazu könnten Anerkennung, Bekanntheit oder neue Kontakte gehören.
 
 Für die Arbeit mit dem BMC werden fünf Phasen empfohlen:
 
-{% include figure image_path="/assets/images/06-business-model-5-phases.png" alt="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" caption="Beschreibung der 5 Phasen für die Arbeit mit dem Business Model Canvas aus dem Buch „Business Model Generation“" %}
-
 ### 1. Mobilisieren
 
 Die erste Phase hilft dir, die Rahmenbedingungen festzustecken.
