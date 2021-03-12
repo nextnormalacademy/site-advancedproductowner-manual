@@ -27,7 +27,7 @@ Im Fokus liegt die Schöpfung von Wert und Nutzen für das ausgewählte Kundense
 
 ## Funktionsweise
 
-{% include figure image_path="/assets/images/05-value-proposition-canvas.png" alt="Das Value Proposition Canvas von Strategyzer" caption="Das Value Proposition Canvas von Strategyzer" %}
+{% include figure image_path="/assets/images/05-value-proposition-canvas.png" alt="Das Value Proposition Canvas von Strategyzer" caption="Das Value Proposition Canvas, Copyright by Strategyzer.com and Strategyzer AG" %}
 
 Das Value Proposition Canvas besteht aus zwei Teilen:
 
@@ -95,11 +95,7 @@ Beispiel einer ausformulierten Value Proposition:
 
 ## Tools
 
-Zur Erarbeitung der Value Proposition empfehlen wir das [Value Proposition Canvas von Strategyzer]({{site.baseurl}}/assets/downloads/05-value-proposition-canvas.pdf).
-
-Eine Anpassung des Modells von Osterwalder zeigt Peter J. Thomson. 
-Er hat das Value Proposition Canvas um Elemente aus dem Design Thinking und aus der Verhaltenspsychologie angereichert.
-Wie das genau aussieht, kannst du dir [hier](https://www.peterjthomson.com/2013/11/value-proposition-canvas/) ansehen. 
+Zur Erarbeitung der Value Proposition empfehlen wir das [Value Proposition Canvas von Strategyzer](https://www.strategyzer.com/canvas/value-proposition-canvas).
 
 ## Fragen
 
@@ -113,11 +109,9 @@ Wie das genau aussieht, kannst du dir [hier](https://www.peterjthomson.com/2013/
 
 ## Downloads
 
-* [Das Value Proposition Canvas als PDF]({{site.baseurl}}/assets/downloads/05-value-proposition-canvas.pdf)
+* [Das Value Proposition Canvas als PDF](https://www.strategyzer.com/canvas/value-proposition-canvas)
 
 ## Quellen, Links und Hinweise
 
-* [Thomson, Peter J. - "Value Proposition Canvas Template"](https://www.peterjthomson.com/2013/11/value-proposition-canvas/)
-* [Diehl, Andreas - "Value Proposition Canvas – Dein Leistungsversprechen entwickeln"](https://digitaleneuordnung.de/blog/value-proposition-canvas/)
 * [Moore, Geoffrey - “Crossing the Chasm”](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
 * [Osterwalter, Alexander et al. - "Value Proposition Design"](https://www.goodreads.com/book/show/22337524-value-proposition-design)
