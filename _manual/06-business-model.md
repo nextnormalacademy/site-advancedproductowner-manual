@@ -90,7 +90,7 @@ Welche anderen Ausgaben hast du noch?
 
 Die Reihenfolge zeigt dir, welche Bereiche deines Business Model Canvas du nacheinander füllen solltest.
 
-{% include figure image_path="/assets/images/06-business-model-sequence.png" alt="Reihenfolge zur Bearbeitung des Business Model Canvas" caption="Reihenfolge zur Bearbeitung des Business Model Canvas" %}
+{% include figure image_path="/assets/images/06-business-model-sequence.png" alt="Reihenfolge zur Bearbeitung des Business Model Canvas" caption="Reihenfolge zur Bearbeitung des Business Model Canvas, Business Model Canvas released under Creative Commons license from Strategyzer.com" %}
 
 Die Bausteine decken die vier wichtigsten Bereiche deines Produktes ab:
 Kunden, Angebot, Infrastruktur und finanzielle Überlebensfähigkeit.
@@ -160,7 +160,7 @@ Hier findest du beispielsweise [das BMC von IKEA auf der canvanizer Website](htt
 Das [Strategizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet dir Möglichkeit das BMC online zu erstellen, speichern und teilen.
 Eine schlankere Variante ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas](https://leanstack.com/business-model-canvas-alternative).
 
-Das Template für das Business Model von Strategyzer findest du [hier]({{site.baseurl}}/assets/downloads/06-business-model-canvas.pdf).
+Das Template für das Business Model von Strategyzer findest du [hier](https://www.strategyzer.com/canvas/business-model-canvas)
 {: .notice--success}
 
 ## Fragen
@@ -174,10 +174,10 @@ Das Template für das Business Model von Strategyzer findest du [hier]({{site.ba
 
 ## Downloads
 
-* [Das Business Model Canvas von Strategyzer als PDF]({{site.baseurl}}/assets/downloads/06-business-model-canvas.pdf)
+* [hier](https://www.strategyzer.com/canvas/business-model-canvas) kannst du das Business Model Canvas von Strategyzer.com herunterladen
 
 ## Quellen, Links und Hinweise
 
-* Das, Saugata: [5 Effective Steps for Initial Product Backlog Creation Using Business Model Canvas](https://www.saugatadas.net/post/5-effective-steps-for-initial-product-backlog-creation-using-business-model-canvas)
+* Osterwalder, Alexander; Pigneur, Yves (2010): Business Model Generation
 * Clark, Tim; Osterwalder, Alexander; Pigneur, Yves:[Business Model You](https://businessmodelyou.com)
 * [Hier](https://www.strategyzer.com/books/business-model-generation) gibt es eine kostenfreie online Preview des Business Model Generation. Bei Abgabe Deiner Emailadresse kannst du dir die Seiten auch downloaden.
