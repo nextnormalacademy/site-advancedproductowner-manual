@@ -157,7 +157,7 @@ Hier findest du beispielsweise [das BMC von IKEA auf der canvanizer Website](htt
 
 ## Tools
 
-Das [Strategizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet dir Möglichkeit das BMC online zu erstellen, speichern und teilen.
+Das [Canvanizer Online Tool](https://canvanizer.com/new/business-model-canvas) bietet dir Möglichkeit das BMC online zu erstellen, speichern und teilen.
 Eine schlankere Variante ist das Lean Canvas, welches ebenfalls als Online Tool zur Verfügung steht: [Online Lean Canvas](https://leanstack.com/business-model-canvas-alternative).
 
 Das Template für das Business Model von Strategyzer findest du [hier](https://www.strategyzer.com/canvas/business-model-canvas)
