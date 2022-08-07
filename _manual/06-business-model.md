@@ -68,7 +68,7 @@ Welche anderen Einnahmen kannst du durch dein Produkt realisieren?
 ### Schlüsselressourcen (Key Resources)
 
 Es gibt vier verschiedene Arten von Ressourcen, die du betrachten solltest: Menschlich, physisch, geistig und finanziell.
-Auf was musst du zurückgreifen, um den Nutzen deines Prduktes zu realisieren?
+Auf was musst du zurückgreifen, um den Nutzen deines Produktes zu realisieren?
 Was ist notwendig, um dein Geschäftsmodell zu betreiben?
 
 ### Schlüsselaktivitäten (Key Activities)
