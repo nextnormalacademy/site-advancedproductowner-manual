@@ -117,7 +117,7 @@ Auch bestehende Maßnahmen solltest du auf ihre Wirksamkeit hin prüfen und bei 
 ## Einsatz
 
 Als Product Owner gehört die Analyse von und Arbeit mit Stakeholdern zu deinen wichtigsten Aufgaben.
-Du bist der zentraler Ansprechpartner für dein Produkt.
+Du bist der zentrale Ansprechpartner für dein Produkt.
 
 Wir empfehlen dir, so früh wie möglich mit dem Mapping und der Analyse deiner Stakeholder anzufangen.
 Bereits vor dem offiziellen Start deines Projektes helfen dir die Tools, diese wichtigen Fragen zu adressieren:
