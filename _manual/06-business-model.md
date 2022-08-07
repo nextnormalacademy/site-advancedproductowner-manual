@@ -124,8 +124,8 @@ Kern dieser Phase ist die Erarbeitung und Formulierung deiner zentralen Value Pr
 
 Deine Ergebnisse, Informationen und Ideen der vorhergehenden Phase fließen nun in Geschäftsmodell-Prototypen ein.
 Diese kannst du gemeinsam mit deinem Team auf Herz und Nieren prüfen.
-Wenn du möchtest, kannst du auch potentielle Kunden miteinbinden.
-Am Ende entscheidest du dich für einen finalen Protoyp. 
+Wenn du möchtest, kannst du auch potentielle Kunden mit einbinden.
+Am Ende entscheidest du dich für einen finalen Prototyp. 
 
 ### 4. Implementieren
 
