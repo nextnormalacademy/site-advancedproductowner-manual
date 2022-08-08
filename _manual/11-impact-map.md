@@ -76,11 +76,8 @@ Lege dann fest, wie du das Erreichen des Ziels messen möchtest.
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 Gojko schreibt hierzu: „Ask: „If we achieve key targets for metrics with a completely different scope than planned, have we succeeded?” If the answer is “No”, go back to start: You don´t have the right metrics.”
-</div>
-{: .notice--primary}!
 
-
-Im nächsten Schritt erstellst du ausgehend vom formulierten Ziel mit deeinen Metriken das Skelett der Impact Map durch hinzufügen von Akteuren, Impacts und Deliverables.
+Im nächsten Schritt erstellst du ausgehend vom formulierten Ziel mit deinen Metriken das Skelett der Impact Map durch hinzufügen von Akteuren, Impacts und Deliverables.
 Auf dieser Basis formulierst du alternative Akteure, Impacts und Deliverables, die zur Zielerreichung beitragen könnten. 
 Ziel ist es, potenziell einfachere oder günstigere Wege zum Ziel zu finden.
 Schließlich markierst du auf der Map, welche Impacts mit welchen Deliverables priorisiert werden. Frage dich hierfür: 
@@ -91,7 +88,6 @@ Schließlich markierst du auf der Map, welche Impacts mit welchen Deliverables p
 
 ![image-left]({{site.baseurl}}/assets/images/read-light-idea.png){: .align-left}
 “Never aim to implement the whole map. Instead, find the shortest path through the map to the goal”. Gojko Adzic, 2012
-</div>
 {: .notice--primary}
 
 Die Struktur der Impact Map erleichtert dir außerdem das Formulieren von User Stories für das Product Backlog. 
