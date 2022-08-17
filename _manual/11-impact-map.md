@@ -41,7 +41,7 @@ Das „Warum“ sorgt dafür, dass alle Beteiligten wissen, worauf es im Projekt
 Du und dein Team können so auch bei unvorhergesehenen Problemen zielführende Entscheidungen treffen.
 
 ### Actors bzw. Who? 
-Hier fragst du, wer zum Erreichen das Ziels beitragen kann. 
+Hier fragst du, wer zum Erreichen des Ziels beitragen kann. 
 Wer kann im positiven Sinne beitragen? 
 Wer kann den Erfolg verhindern? 
 Wer wird beeinflusst? 
