@@ -83,7 +83,7 @@ Wenn du eine Story Map für die gesamte Nutzergeschichte entwirfst, geh wie folg
 
 Vor dem Story Mapping sollte eine kurze Beschreibung des Produktes erstellt werden.
 Die Beschreibung sollte den wesentlichen Rahmen feststecken.
-*WIE* heißt eurer Produkt?
+*WIE* heißt euer Produkt?
 *WAS* für ein Problem wollt ihr mit eurem Produkt lösen?
 *WER* sind die wesentlichen Nutzer eures Produktes?
 *WARUM* ist euer Produkt ein Mehrwert für eure Nutzer?
@@ -93,11 +93,11 @@ Die Beschreibung sollte den wesentlichen Rahmen feststecken.
 Startet mit dem Big Picture.
 Notiert von links nach rechts die Schritte, die der Nutzer mit eurem Produkt unternimmt. 
 Fokussiert euch hierfür möglichst größere Tasks und Aktivitäten und den für euren Produkterfolg kritischsten Nutzer.
-Stellt euch einen typischen Tag im Leben des Nutzers vor und wie er euer Produkt verwenden wurde.
+Stellt euch einen typischen Tag im Leben des Nutzers vor und wie er euer Produkt verwenden würde.
 
 Identifiziert die Aktivitäten.
 Einzelne Aktivitäten werden oft klarer, wenn der Erzählfluss grob steht. 
-Nutzt die Chance zu Iterieren und eure Aktivitäten Stück für Stück zu vertiefen.
+Nutzt die Chance zu iterieren und eure Aktivitäten Stück für Stück zu vertiefen.
 
 Steht der Erzählfluss für die Geschichte des kritischsten Nutzers, könnt ihr weitere Nutzer in die Story Map hinzufügen.
 
@@ -109,10 +109,10 @@ In dieser Phase kann es eurem Team helfen
 
 * Euch die Frage zu stellen "Was wäre wenn..."?
 * Euch ausgefallene Variationen zu überlegen
-* Euch in unterschiedliche Nutzer hineinzuversetzten
+* Euch in unterschiedliche Nutzer hineinzuversetzen
 * Menschen außerhalb eures Team um Feedback zu bitten
 
-In dieser Phase geht es vor allem darum euren Ideen freien Lauf zu lassen und diese zu sammeln. Habt Spaß dabei!
+In dieser Phase geht es vor allem darum, euren Ideen freien Lauf zu lassen und diese zu sammeln. Habt Spaß dabei!
 
 ### 4. Releases schneiden
 Nachdem ihr Ideen gesammelt und die Nutzeraufgaben detailliert habt, geht es nun darum, eine ganzheitliche Produktversion, d.h. ein Release, zu schneiden.
