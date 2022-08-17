@@ -86,7 +86,7 @@ Die Beschreibung sollte den wesentlichen Rahmen feststecken.
 *WIE* heißt eurer Produkt?
 *WAS* für ein Problem wollt ihr mit eurem Produkt lösen?
 *WER* sind die wesentlichen Nutzer eures Produktes?
-*WARUM* ist eurer Produkt ein Mehrwert für eure Nutzer?
+*WARUM* ist euer Produkt ein Mehrwert für eure Nutzer?
 
 
 ### 2. Das Big Picture malen
